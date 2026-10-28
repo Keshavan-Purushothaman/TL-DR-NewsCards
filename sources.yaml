@@ -1,0 +1,79 @@
+# One entry per feed. Narrow section feeds beat catch-all feeds.
+# category must be one of: India, World, Business, Tech, Science, Sports, Other
+
+- name: The Hindu
+  section: National
+  feed: https://www.thehindu.com/news/national/feeder/default.rss
+  category: India
+  enabled: true
+  max_per_run: 25
+
+- name: The Hindu
+  section: International
+  feed: https://www.thehindu.com/news/international/feeder/default.rss
+  category: World
+  enabled: true
+  max_per_run: 25
+
+- name: The Hindu
+  section: Business
+  feed: https://www.thehindu.com/business/feeder/default.rss
+  category: Business
+  enabled: true
+  max_per_run: 25
+
+- name: Indian Express
+  section: India
+  feed: https://indianexpress.com/section/india/feed/
+  category: India
+  enabled: false
+  max_per_run: 25
+
+- name: BBC
+  section: India
+  feed: https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+  category: India
+  enabled: true
+  max_per_run: 25
+
+- name: BBC
+  section: World
+  feed: https://feeds.bbci.co.uk/news/world/rss.xml
+  category: World
+  enabled: true
+  max_per_run: 25
+
+- name: Al Jazeera
+  section: All
+  feed: https://www.aljazeera.com/xml/rss/all.xml
+  category: World
+  enabled: true
+  max_per_run: 25
+
+- name: The Hindu
+  section: Sport
+  feed: https://www.thehindu.com/sport/feeder/default.rss
+  category: Sports
+  enabled: true
+  max_per_run: 25
+
+- name: MIT Technology Review
+  section: AI
+  feed: https://www.technologyreview.com/topic/artificial-intelligence/feed
+  category: Tech
+  enabled: true
+  max_per_run: 15
+
+- name: The Verge
+  section: AI
+  feed: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+  category: Tech
+  enabled: true
+  max_per_run: 15
+
+- name: The Hindu
+  section: Science
+  feed: https://www.thehindu.com/sci-tech/science/feeder/default.rss
+  category: Science
+  enabled: true
+  max_per_run: 15
