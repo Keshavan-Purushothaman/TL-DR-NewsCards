@@ -2,7 +2,7 @@ name: Update feed
                                                                                                                                       
 on:                                                                                                                               
   schedule:                                                                                                                       
-    - cron: "*/5 * * * *"     # every 2 hours (UTC); GitHub may delay by a few minutes                                           
+    - cron: "17 */2 * * *"     # every 2 hours (UTC); GitHub may delay by a few minutes                                           
   workflow_dispatch:           # manual "Run workflow" button                                                                     
                                                                                                                                   
 concurrency:                                                                                                                      
