@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-28T12:12:21+00:00",
+ "generated_at": "2026-10-28T16:32:09+00:00",
  "window_hours": 72,
- "count": 130,
+ "count": 169,
  "kinds": {
-  "summary": 112,
-  "video": 13,
-  "preview": 5
+  "summary": 141,
+  "video": 20,
+  "preview": 8
  },
  "articles": [
   {
@@ -28,8 +28,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.2,
-   "importance": 6.968
+   "age_hours": 5.5,
+   "importance": 6.847
   },
   {
    "id": "ee186b92d804",
@@ -51,8 +51,100 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 17.7,
-   "importance": 6.507
+   "age_hours": 22.1,
+   "importance": 6.387
+  },
+  {
+   "id": "42cec9020ca8",
+   "kind": "summary",
+   "headline": "Government notifies personal details required for the 2027 Census population enumeration",
+   "title": "The concerns over the Census questions",
+   "summary": "The Central government notified the individual questions for the population enumeration phase of the 2027 Census last month. In a significant departure from previous surveys, respondents must provide parents and spouse details, declared nationality, permanent residential address, COVID-19 vaccination place, bank accounts, mobile numbers, Aadhaar, Voter ID, passport, and driving license availability.",
+   "description": "The questionnaire for the population enumeration phase of the 2027 Census comprises 40 questions and seek details such as nationality, number of bank accounts and mobile, Aadhaar and voter ID numbers, if available, raising concerns over its potential digression from the purpose of collecting data for policy and planning",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/f5ndkw/article71444360.ece/alternates/LANDSCAPE_1200/9712_1_8_2026_12_20_45_2__DSC0305.JPG",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "explainer",
+   "significance": 4,
+   "url": "https://www.thehindu.com/news/national/the-concerns-over-the-census-questions/article71444351.ece",
+   "published_at": "2026-10-28T16:17:32+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.2,
+   "importance": 5.993
+  },
+  {
+   "id": "f0a8e099cc3e",
+   "kind": "summary",
+   "headline": "Jio Platforms debuts strongly on stock exchanges amid broader market decline",
+   "title": "Jio Platforms debuts at 21% premium as Sensex slides; valuation tops ₹12 lakh crore",
+   "summary": "Jio Platforms Limited made a strong stock market debut on October 28, 2026, listing at 1,358 rupees for a 21.36 percent premium. Managing Director Akash Ambani noted the IPO was subscribed over 22 times. The market capitalization reached approximately 12.5 lakh crore rupees, making it India's second-most-valued listed company behind parent Reliance Industries.",
+   "description": "With a market capitalisation of around ₹12.5 lakh crore, JPL overtook Bharti Airtel to become India’s second-most-valued listed company after parent Reliance Industries.",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/g7533q/article71637478.ece/alternates/LANDSCAPE_1200/20261028140L.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "Business",
+   "category": "Business",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.thehindu.com/business/Industry/jio-platforms-debuts-at-21-premium-as-sensex-slides-valuation-tops-12-lakh-crore/article71635707.ece",
+   "published_at": "2026-10-28T16:11:18+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.3,
+   "importance": 5.99
+  },
+  {
+   "id": "3f670249f747",
+   "kind": "summary",
+   "headline": "Analysis highlights significant gap in official manufacturing sector GVA estimates",
+   "title": "The gap in manufacturing sector GVA",
+   "summary": "The National Statistical Office reported manufacturing gross value added at 38.6 lakh crore rupees for 2023-24 at current prices. An alternative estimate using official Annual Survey of Industries and Annual Survey of Unincorporated Sector Enterprises data sets the figure at 27.4 lakh crore rupees. This leaves an unexplained gap of 24.5 percent even after accounting for residual workers.",
+   "description": "According to the National Accounts Statistics, the manufacturing sector’s GVA is ₹38.6 lakh crore in 2023-24 at current prices.; however, an ‘Alternative Estimate’ using data from the Annual Survey of Industries and Annual Survey of Unincorporated Sector Enterprises gives a lower figure, prompting a closer look at the official estimate",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/i2pspz/article71425506.ece/alternates/LANDSCAPE_1200/Alstom%20Coimbatore%20plant%209.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "Business",
+   "type": "analysis",
+   "significance": 4,
+   "url": "https://www.thehindu.com/business/Economy/the-gap-in-manufacturing-sector-gva/article71425499.ece",
+   "published_at": "2026-10-28T16:10:40+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.4,
+   "importance": 5.99
+  },
+  {
+   "id": "41d62a185cb6",
+   "kind": "summary",
+   "headline": "Health experts criticize excessive cancer drug pricing following revised price lists",
+   "title": "Sharp cuts in price of cancer drugs expose excessive pricing, say health experts",
+   "summary": "Medical health activists stated on October 28, 2026, that revised Maximum Retail Price lists for anti-cancer medicines published by the National Pharmaceutical Pricing Authority expose excessive pricing. The National Pharmaceutical Pricing Authority released 543 brand prices effective November 9 following Trade Margin Rationalization. Activists argued that trade margin caps alone are insufficient to ensure affordability.",
+   "description": "NPPA releases revised MRPs for 543 brands of anti-cancer medicines with the new prices effective from November 9; Jan Swasthya Abhiyan India (JSA India) says controlling trade margins alone is insufficient as life-saving cancer treatment must be affordable based on medical need, not a patient’s ability to pay",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/ja3n29/article71637452.ece/alternates/LANDSCAPE_1200/iStock-479421892.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "Business",
+   "type": "analysis",
+   "significance": 4,
+   "url": "https://www.thehindu.com/news/national/sharp-cuts-in-price-of-cancer-drugs-expose-excessive-pricing-say-health-experts/article71636827.ece",
+   "published_at": "2026-10-28T16:05:42+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.4,
+   "importance": 5.988
   },
   {
    "id": "d210fdcb8596",
@@ -70,12 +162,265 @@
    "type": "explainer",
    "significance": 4,
    "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-   "published_at": "2026-10-28T11:54:21+00:00",
+   "published_at": "2026-10-28T15:36:11+00:00",
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.3,
-   "importance": 5.992
+   "age_hours": 0.9,
+   "importance": 5.974
+  },
+  {
+   "id": "6d8aed2ea9b8",
+   "kind": "video",
+   "headline": "Bolsonaro turns up in Florida after vanishing from public view",
+   "title": "Bolsonaro turns up in Florida after vanishing from public view",
+   "summary": null,
+   "description": "Flavio Bolsonaro, Brazil’s defeated presidential candidate, landed in Florida after fleeing the country with his family.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793199718.jpg?resize=1920%2C1080&amp;quality=80",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_bolsonaro-in-florida-after-vanishing-from-public-281026?traffic_source=rss",
+   "published_at": "2026-10-28T15:02:04+00:00",
+   "fetch_status": "video_only",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.5,
+   "importance": 5.958
+  },
+  {
+   "id": "e3c578f1e004",
+   "kind": "summary",
+   "headline": "Israeli president hopes to avoid new vote after inconclusive election results",
+   "title": "Israel president urges against new vote despite inconclusive result",
+   "summary": "President Isaac Herzog expressed hope on October 28, 2026, for avoiding a second election after an inconclusive vote on October 27 left Prime Minister Benjamin Netanyahu and opposition leader Gadi Eisenkot short of a majority. Netanyahu's bloc is projected to win 53 seats and Eisenkot's opposition 48 in the 120-seat parliament, with Arab lists projected to reach 19 seats.",
+   "description": "With more than 85% of ballots counted, Benjamin Netanyahu's right-wing bloc was slightly ahead but still short of a majority in the election",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/rn4h66/article71636784.ece/alternates/LANDSCAPE_1200/Israel_Elections__818_.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "International",
+   "category": "World",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.thehindu.com/news/international/israel-president-urges-against-new-vote-despite-inconclusive-result/article71636598.ece",
+   "published_at": "2026-10-28T14:47:11+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.7,
+   "importance": 5.951
+  },
+  {
+   "id": "f876ecc3b9e0",
+   "kind": "summary",
+   "headline": "Flavio Bolsonaro arrives in Miami following his presidential election defeat in Brazil",
+   "title": "Flavio Bolsonaro lands in Miami after losing Brazil’s presidential election",
+   "summary": "Brazilian Senator Flavio Bolsonaro and his family arrived in Miami, Florida, on Wednesday morning after he lost the presidential election to incumbent Luiz Inacio Lula da Silva. Brazil's Supreme Court had ordered him to surrender his passports to prevent him from fleeing potential embezzlement and money laundering investigations before his senatorial immunity ended in January.",
+   "description": "Bolsonaro and his family fled to the US amid a Brazilian Supreme Court order to surrender his passports.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-28T133611Z_1127441677_RC2DCOA87HUS_RTRMADP_3_BRAZIL-USA-1793197153.jpg?resize=1920%2C1440",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election?traffic_source=rss",
+   "published_at": "2026-10-28T14:32:16+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 2.0,
+   "importance": 5.944
+  },
+  {
+   "id": "ed7ab4200989",
+   "kind": "summary",
+   "headline": "Israel faces political deadlock as election results leave both leading blocs without majorities",
+   "title": "How could Israel break election deadlock? Here are four scenarios",
+   "summary": "Following Tuesday's election in Israel, neither Prime Minister Benjamin Netanyahu's coalition nor challenger Gadi Eisenkot's bloc secured a parliamentary majority with 85% of votes counted. Potential resolutions include a national unity government, an opposition coalition reliant on Arab parties, right-wing defections to Netanyahu, or holding new elections, a recurring outcome between 2019 and 2022.",
+   "description": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+   "long": false,
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c6a/live/eef90440-d2d5-11f1-b677-b762d2f83f6e.jpg",
+   "video_url": null,
+   "source": "BBC",
+   "section": "World",
+   "category": "World",
+   "type": "explainer",
+   "significance": 4,
+   "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+   "published_at": "2026-10-28T14:30:31+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 2.0,
+   "importance": 5.944
+  },
+  {
+   "id": "57ec599a8c0d",
+   "kind": "video",
+   "headline": "Israel's election result is messy - here's why",
+   "title": "Israel's election result is messy - here's why",
+   "summary": null,
+   "description": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
+   "long": false,
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8924/live/3d448ba0-d2d7-11f1-93e1-3b657b665bcf.jpg",
+   "video_url": null,
+   "source": "BBC",
+   "section": "World",
+   "category": "World",
+   "type": "analysis",
+   "significance": 4,
+   "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+   "published_at": "2026-10-28T14:26:24+00:00",
+   "fetch_status": "video_only",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 2.1,
+   "importance": 5.942
+  },
+  {
+   "id": "dd6b63718d05",
+   "kind": "summary",
+   "headline": "Iraqi Prime Minister Ali al-Zaidi meets Syrian President Ahmed al-Sharaa in Damascus",
+   "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
+   "summary": "Iraqi Prime Minister Ali al-Zaidi traveled to Damascus to meet Syrian President Ahmed al-Sharaa in the first such visit since Bashar al-Assad fell. According to the Iraqi News Agency, the leaders discussed expanding economic, oil, and agricultural cooperation, including exporting Iraqi oil through the Baniyas line following the outbreak of the United States-led war on Iran.",
+   "description": "Talks focused on enhancing trade, reviving Baniyas oil pipeline and achieving stability through cooperation.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae1f825-1793194021.jpg?resize=1920%2C1440",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss",
+   "published_at": "2026-10-28T13:47:39+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 2.7,
+   "importance": 5.924
+  },
+  {
+   "id": "b74ccf3e0154",
+   "kind": "summary",
+   "headline": "Ten people die in collision involving two high-speed trains in Toledo province",
+   "title": "Two trains collide in Spain’s Toledo Province; at least 64 dead",
+   "summary": "At least ten people died following a collision between two trains in central Spain on October 28, 2026. According to rail operator ADIF, the crash occurred in Toledo province, disrupting services between Madrid, Ciudad Real, and Andalusia. State broadcaster TVE reported that one high-speed train struck the rear of another traveling in the same direction, causing carriages to derail.",
+   "description": "The accident was between two high-speed trains carrying hundreds of passengers and heading in the same direction from the capital, Madrid, to Seville in southwestern Spain",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/k8uwaw/article71635257.ece/alternates/LANDSCAPE_1200/2026-10-28T093340Z_2016979275_RC29COA06JEK_RTRMADP_3_SPAIN-ACCIDENT.JPG",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "International",
+   "category": "World",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.thehindu.com/news/international/several-people-dead-in-crash-between-2-spanish-trains-in-toledo-province/article71635210.ece",
+   "published_at": "2026-10-28T13:36:58+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 2.9,
+   "importance": 5.919
+  },
+  {
+   "id": "478f321a9856",
+   "kind": "summary",
+   "headline": "Israeli election results show no clear winner as Arab minority parties hold potential balance of power",
+   "title": "Israeli Arab parties hold key as Netanyahu falls short of majority",
+   "summary": "Results from the October 27, 2026 election showed Prime Minister Benjamin Netanyahu's right-wing bloc leading with 54 seats against opposition leader Gadi Eisenkot's 49 seats, both falling short of the 61-seat majority. Arab minority lists projected to win 17 seats could influence government formation, while both leaders signaled potential military actions regarding Iran alongside United States President Donald Trump.",
+   "description": "With more than three-quarters of the vote counted, Benjamin Netanyahu's right-wing bloc was slightly ahead but still short of a majority",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/w9ohf6/article71636015.ece/alternates/LANDSCAPE_1200/AFP__20261028__D4MV8T3__v2__HighRes__ComboIsraelVote.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "International",
+   "category": "World",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.thehindu.com/news/international/israeli-arab-parties-hold-key-as-netanyahu-falls-short-of-majority/article71635927.ece",
+   "published_at": "2026-10-28T12:53:57+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 3.6,
+   "importance": 5.899
+  },
+  {
+   "id": "665f080ebc25",
+   "kind": "video",
+   "headline": "Tens of thousands flee Ethiopia fighting into neighbouring Kenya",
+   "title": "Tens of thousands flee Ethiopia fighting into neighbouring Kenya",
+   "summary": null,
+   "description": "Tens of thousands of people have crossed into Kenya, fleeing fighting between regional forces in Ethiopia’s Moyale town.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793191824.jpg?resize=1920%2C1080&amp;quality=80",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/tens-of-thousands-flee-ethiopia-fighting-into-neighbouring-kenya?traffic_source=rss",
+   "published_at": "2026-10-28T12:51:39+00:00",
+   "fetch_status": "video_only",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 3.7,
+   "importance": 5.898
+  },
+  {
+   "id": "9e59c0ad5ba4",
+   "kind": "summary",
+   "headline": "Record turnout marks inconclusive Israeli election as parties weigh coalition and Arab alliances",
+   "title": "Israel’s election: The battle between change and anti-Palestinian sentiment",
+   "summary": "Voter turnout reached 77.7 percent in Tuesday's election, the highest since 1999, as outgoing Prime Minister Benjamin Netanyahu's coalition secured 54 seats and Gadi Eisenkot's opposition won 49 seats. With neither bloc reaching the 61-seat majority, President Isaac Herzog will consult party leaders to determine who receives the mandate to form a government within 28 days.",
+   "description": "With both blocs short of a majority, parties face a choice: to break the taboo on Arab allies or return to the polls.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261027__D4M49VL__v2__HighRes__IsraelVote-1793170728.jpg?resize=1920%2C1440",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "analysis",
+   "significance": 4,
+   "url": "https://www.aljazeera.com/news/2026/10/28/israels-election-the-battle-between-change-and-anti-palestinian-sentiment?traffic_source=rss",
+   "published_at": "2026-10-28T12:22:20+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 4.2,
+   "importance": 5.884
+  },
+  {
+   "id": "ac7681a907dc",
+   "kind": "summary",
+   "headline": "Israeli leaders claim mandates following inconclusive general election",
+   "title": "Netanyahu and rival each claim mandate after tight Israel election",
+   "summary": "Prime Minister Benjamin Netanyahu and opposition challenger Gadi Eisenkot both vowed to form a government on October 28, 2026, following a general election featuring a turnout of nearly 78 percent. Exit polls showed both major blocs securing approximately 51 seats, falling short of the 61-seat majority required in parliament and raising the possibility of protracted coalition talks.",
+   "description": "Exit polls showed Mr. Eisenkot, a former military chief and political novice, and his opposition bloc neck and neck with Mr. Netanyahu’s hard-right camp and both well away from the threshold for a majority in Parliament",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/vgw5a4/article71634324.ece/alternates/LANDSCAPE_1200/2026-10-28T023249Z_2013724371_RC21COA11ZRE_RTRMADP_3_ISRAEL-ELECTION.JPG",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "International",
+   "category": "World",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.thehindu.com/news/international/netanyahu-and-rival-each-claim-mandate-after-tight-israel-election/article71634295.ece",
+   "published_at": "2026-10-28T12:02:29+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 4.5,
+   "importance": 5.875
   },
   {
    "id": "f5b8933fc304",
@@ -97,8 +442,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.4,
-   "importance": 5.989
+   "age_hours": 4.7,
+   "importance": 5.869
   },
   {
    "id": "3b19e1547bcf",
@@ -120,8 +465,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.4,
-   "importance": 5.988
+   "age_hours": 4.7,
+   "importance": 5.868
   },
   {
    "id": "5deec064c22d",
@@ -143,8 +488,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.5,
-   "importance": 5.987
+   "age_hours": 4.8,
+   "importance": 5.867
   },
   {
    "id": "9c6684c4371e",
@@ -166,8 +511,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.5,
-   "importance": 5.986
+   "age_hours": 4.8,
+   "importance": 5.866
   },
   {
    "id": "764acdca1ab9",
@@ -189,8 +534,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.5,
-   "importance": 5.986
+   "age_hours": 4.9,
+   "importance": 5.865
   },
   {
    "id": "e1dc7c44a9f0",
@@ -212,31 +557,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.7,
-   "importance": 5.982
-  },
-  {
-   "id": "b74ccf3e0154",
-   "kind": "summary",
-   "headline": "Ten people die in collision involving two high-speed trains in Toledo province",
-   "title": "Two trains collide in Spain’s Toledo province; at least 30 dead",
-   "summary": "At least ten people died following a collision between two trains in central Spain on October 28, 2026. According to rail operator ADIF, the crash occurred in Toledo province, disrupting services between Madrid, Ciudad Real, and Andalusia. State broadcaster TVE reported that one high-speed train struck the rear of another traveling in the same direction, causing carriages to derail.",
-   "description": "The accident was between two high-speed trains carrying hundreds of passengers and heading in the same direction from the capital, Madrid, to Seville in southwestern Spain",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/k8uwaw/article71635257.ece/alternates/LANDSCAPE_1200/2026-10-28T093340Z_2016979275_RC29COA06JEK_RTRMADP_3_SPAIN-ACCIDENT.JPG",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "International",
-   "category": "World",
-   "type": "news",
-   "significance": 4,
-   "url": "https://www.thehindu.com/news/international/several-people-dead-in-crash-between-2-spanish-trains-in-toledo-province/article71635210.ece",
-   "published_at": "2026-10-28T11:22:45+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 0.8,
-   "importance": 5.977
+   "age_hours": 5.0,
+   "importance": 5.862
   },
   {
    "id": "84a77a1d5222",
@@ -258,8 +580,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.9,
-   "importance": 5.974
+   "age_hours": 5.3,
+   "importance": 5.854
   },
   {
    "id": "fba0feaf5ca6",
@@ -281,8 +603,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.5,
-   "importance": 5.959
+   "age_hours": 5.8,
+   "importance": 5.838
   },
   {
    "id": "f0f9d42d04bc",
@@ -304,8 +626,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.5,
-   "importance": 5.958
+   "age_hours": 5.9,
+   "importance": 5.837
   },
   {
    "id": "e7ddc6e3d1c0",
@@ -327,8 +649,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.6,
-   "importance": 5.955
+   "age_hours": 5.9,
+   "importance": 5.835
   },
   {
    "id": "f81bf98eb094",
@@ -350,8 +672,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.7,
-   "importance": 5.953
+   "age_hours": 6.0,
+   "importance": 5.833
   },
   {
    "id": "159afd01932d",
@@ -373,8 +695,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.7,
-   "importance": 5.953
+   "age_hours": 6.0,
+   "importance": 5.833
   },
   {
    "id": "a8a55a9b5ff8",
@@ -396,8 +718,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 2.5,
-   "importance": 5.931
+   "age_hours": 6.8,
+   "importance": 5.811
   },
   {
    "id": "34d73bfabbb9",
@@ -419,8 +741,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 2.6,
-   "importance": 5.928
+   "age_hours": 6.9,
+   "importance": 5.808
   },
   {
    "id": "a34ced614104",
@@ -442,8 +764,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 2.8,
-   "importance": 5.923
+   "age_hours": 7.1,
+   "importance": 5.803
   },
   {
    "id": "329db33fd1f4",
@@ -465,8 +787,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.0,
-   "importance": 5.89
+   "age_hours": 8.3,
+   "importance": 5.77
   },
   {
    "id": "486bcef73d9c",
@@ -488,31 +810,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.0,
-   "importance": 5.89
-  },
-  {
-   "id": "ac7681a907dc",
-   "kind": "summary",
-   "headline": "Israeli leaders claim mandates following inconclusive general election",
-   "title": "Netanyahu and rival each claim mandate after tight Israel election",
-   "summary": "Prime Minister Benjamin Netanyahu and opposition challenger Gadi Eisenkot both vowed to form a government on October 28, 2026, following a general election featuring a turnout of nearly 78 percent. Exit polls showed both major blocs securing approximately 51 seats, falling short of the 61-seat majority required in parliament and raising the possibility of protracted coalition talks.",
-   "description": "Exit polls showed Mr. Eisenkot, a former military chief and political novice, and his opposition bloc neck and neck with Mr. Netanyahu’s hard-right camp and both well away from the threshold for a majority in Parliament",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/vgw5a4/article71634324.ece/alternates/LANDSCAPE_1200/2026-10-28T023249Z_2013724371_RC21COA11ZRE_RTRMADP_3_ISRAEL-ELECTION.JPG",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "International",
-   "category": "World",
-   "type": "news",
-   "significance": 4,
-   "url": "https://www.thehindu.com/news/international/netanyahu-and-rival-each-claim-mandate-after-tight-israel-election/article71634295.ece",
-   "published_at": "2026-10-28T08:13:46+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 4.0,
-   "importance": 5.89
+   "age_hours": 8.3,
+   "importance": 5.77
   },
   {
    "id": "46fd82656d13",
@@ -534,8 +833,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.1,
-   "importance": 5.887
+   "age_hours": 8.4,
+   "importance": 5.766
   },
   {
    "id": "8c5364f55668",
@@ -557,8 +856,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.2,
-   "importance": 5.883
+   "age_hours": 8.6,
+   "importance": 5.762
   },
   {
    "id": "166dfc0891d5",
@@ -580,8 +879,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.3,
-   "importance": 5.882
+   "age_hours": 8.6,
+   "importance": 5.761
   },
   {
    "id": "95bcc36bb7cd",
@@ -603,8 +902,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.6,
-   "importance": 5.872
+   "age_hours": 8.9,
+   "importance": 5.751
   },
   {
    "id": "21f0d05744eb",
@@ -626,8 +925,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.7,
-   "importance": 5.869
+   "age_hours": 9.0,
+   "importance": 5.749
   },
   {
    "id": "8b03954589ae",
@@ -649,8 +948,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 6.1,
-   "importance": 5.832
+   "age_hours": 10.4,
+   "importance": 5.711
   },
   {
    "id": "8d0f3871e953",
@@ -672,8 +971,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 6.7,
-   "importance": 5.815
+   "age_hours": 11.0,
+   "importance": 5.695
   },
   {
    "id": "8848ba4a5542",
@@ -695,8 +994,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 7.8,
-   "importance": 5.783
+   "age_hours": 12.2,
+   "importance": 5.662
   },
   {
    "id": "973cb2e0af74",
@@ -718,8 +1017,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.0,
-   "importance": 5.779
+   "age_hours": 12.3,
+   "importance": 5.659
   },
   {
    "id": "0d3861245e4d",
@@ -741,8 +1040,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.0,
-   "importance": 5.751
+   "age_hours": 13.3,
+   "importance": 5.63
   },
   {
    "id": "3fe4c4b2ef47",
@@ -764,8 +1063,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 11.2,
-   "importance": 5.689
+   "age_hours": 15.5,
+   "importance": 5.569
   },
   {
    "id": "8ad15c43ee8f",
@@ -787,8 +1086,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 12.1,
-   "importance": 5.664
+   "age_hours": 16.4,
+   "importance": 5.544
   },
   {
    "id": "701ff3082663",
@@ -810,8 +1109,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 12.9,
-   "importance": 5.641
+   "age_hours": 17.3,
+   "importance": 5.52
   },
   {
    "id": "8d8125acfa76",
@@ -833,8 +1132,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.0,
-   "importance": 5.611
+   "age_hours": 18.4,
+   "importance": 5.49
   },
   {
    "id": "9de2c87236e3",
@@ -856,8 +1155,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.4,
-   "importance": 5.599
+   "age_hours": 18.8,
+   "importance": 5.479
   },
   {
    "id": "68a57eee168a",
@@ -879,8 +1178,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 15.5,
-   "importance": 5.57
+   "age_hours": 19.8,
+   "importance": 5.449
   },
   {
    "id": "4cb1a3907d1b",
@@ -902,8 +1201,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.0,
-   "importance": 5.36
+   "age_hours": 27.4,
+   "importance": 5.24
   },
   {
    "id": "ba2dfbfcbe17",
@@ -925,8 +1224,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.1,
-   "importance": 5.358
+   "age_hours": 27.4,
+   "importance": 5.238
   },
   {
    "id": "fe444e1bd592",
@@ -948,8 +1247,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 25.9,
-   "importance": 5.28
+   "age_hours": 30.2,
+   "importance": 5.16
   },
   {
    "id": "415aa97d276f",
@@ -971,8 +1270,583 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 26.2,
-   "importance": 5.272
+   "age_hours": 30.5,
+   "importance": 5.152
+  },
+  {
+   "id": "2949ce7fa043",
+   "kind": "summary",
+   "headline": "India secures series sweep against Zimbabwe with eight-wicket victory",
+   "title": "Vaishnavi’s five-for sets up India’s series sweep",
+   "summary": "India completed a 3-0 series sweep against Zimbabwe on Wednesday after securing an eight-wicket victory at the BCA Stadium in Vadodara. Vaishnavi Sharma claimed a maiden five-wicket haul, restricting the visitors to 131 in 39.5 overs. Pratika Rawal and Shafali Verma then guided India to the target with unbeaten fifties in seventeen overs, sealing a dominant win.",
+   "description": "",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/e5edhf/article71637566.ece/alternates/LANDSCAPE_1200/TH29BOWLED.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "Sport",
+   "category": "Sports",
+   "type": "sport_result",
+   "significance": 3,
+   "url": "https://www.thehindu.com/sport/cricket/vaishnavis-five-for-sets-up-indias-series-sweep/article71637541.ece",
+   "published_at": "2026-10-28T16:26:19+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.1,
+   "importance": 4.997
+  },
+  {
+   "id": "d7260ca7e0dd",
+   "kind": "summary",
+   "headline": "Former West Bengal minister Indranil Sen arrested over Durga Puja scam",
+   "title": "Former West Bengal minister Indranil Sen arrested in Durga Puja ticket scam",
+   "summary": "Kolkata Police arrested former West Bengal minister Indranil Sen on Wednesday evening in connection with a Durga Puja ticket scam involving the organisation MassArt. The arrest followed questioning by the Enforcement Directorate at the CGO Complex in Salt Lake. Investigators allege the accused falsely represented the organisation as sponsored by UNESCO to collect funds between 2022 and 2025.",
+   "description": "He faces allegations of financial irregularities and had been reportedly avoiding the police for a while",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/qnsfmn/article71637551.ece/alternates/LANDSCAPE_1200/PTI09_30_2026_000170B.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/west-bengal/former-west-bengal-minister-indranil-sen-arrested-in-durga-puja-ticket-scam/article71636665.ece",
+   "published_at": "2026-10-28T16:22:15+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.2,
+   "importance": 4.995
+  },
+  {
+   "id": "286ff8513233",
+   "kind": "summary",
+   "headline": "Vellore DMK councillor arrested over controversial remark on Karur stampede",
+   "title": "DMK councillor arrested over controversial remark on Karur stampede",
+   "summary": "Puzhal police arrested Vellore Dravida Munnetra Kazhagam councillor Teeta Saravanan on Wednesday after a video of him making a controversial remark regarding the Karur stampede went viral on social media. The accused allegedly made the statement during a protest following the arrest of former minister Anbil Mahesh Poyyamozhi. Authorities registered cases against him under multiple sections of the Bharatiya Nyaya Sanhita.",
+   "description": "In a video that went viral on social media, the councillor was heard saying, “If we had finished him off at Karur on that day, we wouldn’t be in this situation today.” The remark was allegedly directed at Chief Minister C. Joseph Vijay, in an apparent reference to the stampede in Karur",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/sikvlm/article71637538.ece/alternates/LANDSCAPE_1200/DMK%20Councillor.jpeg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-councillor-arrested-over-controversial-remark-on-karur-stampede/article71635787.ece",
+   "published_at": "2026-10-28T16:19:32+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.2,
+   "importance": 4.994
+  },
+  {
+   "id": "12ee41da1c97",
+   "kind": "summary",
+   "headline": "Prime Minister Narendra Modi questions Congress over MLC election results",
+   "title": "PM questions Congress over party’s MLC election results",
+   "summary": "Prime Minister Narendra Modi criticised the Congress party on Wednesday for failing to win any seats in Member of Legislative Council elections held using ballot papers across Uttar Pradesh, Maharashtra, Bihar and Karnataka. While results in several states showed victories for the Bharatiya Janata Party and regional entities, BJP leaders claimed the outcome highlights a severe lack of public support for the opposition.",
+   "description": "‘MLC elections in 28 seats across four big States — Uttar Pradesh, Maharashtra, Bihar and Karnataka. Elections held using ballot papers. Guess how many seats Congress won? said Narendra Modi in a post on X",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/7anyfc/article71635922.ece/alternates/LANDSCAPE_1200/PM-Modi-to-inauGBHGNH1DC.5.jpg.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/pm-modi-taunts-congress-for-dismal-show-in-mlc-polls-despite-use-of-paper-ballots/article71635894.ece",
+   "published_at": "2026-10-28T16:17:51+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.2,
+   "importance": 4.993
+  },
+  {
+   "id": "1739307690c3",
+   "kind": "summary",
+   "headline": "Meta considers delaying controversial new business terms past November deadline",
+   "title": "Meta says it’ll probably delay its controversial new business terms again",
+   "summary": "Meta communications head Andy Stone announced on X that the company may push the implementation of its updated business terms past November 20 following pushback from publishers regarding artificial intelligence training concerns. The proposed terms previously faced criticism from lawmakers and industry groups who argued the policies permitted content scraping, leading the company to extend consultations.",
+   "description": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\" […]",
+   "long": false,
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+   "video_url": null,
+   "source": "The Verge",
+   "section": "AI",
+   "category": "Tech",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+   "published_at": "2026-10-28T16:15:30+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.3,
+   "importance": 4.992
+  },
+  {
+   "id": "4b7e9febb1b3",
+   "kind": "summary",
+   "headline": "Nirmala Sitharaman criticises Rahul Gandhi over comments on Tata issue",
+   "title": "Nirmala Sitharaman, Rahul Gandhi spar over Tata Group leadership dispute",
+   "summary": "Indian Finance Minister Nirmala Sitharaman criticised opposition leader Rahul Gandhi on Wednesday following his remarks claiming that Tata is being criminally destroyed. Sitharaman accused Gandhi of attempting to politicise commercial and legal matters to spread toxicity and distrust against Indian industry. Gandhi had previously questioned business leaders over a leadership dispute involving Tata Trusts chairman Noel Tata and Tata Sons chairman N Chandrasekaran.",
+   "description": "Congress leader has questioned India Inc.’s ‘silence’ over the leadership battle at Tata Sons, saying the conglomerate is being ‘criminally destroyed’; Finance Minister hit back, saying Mr. Gandhi is seeing ‘ghosts everywhere’",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/2mtmc6/article71635781.ece/alternates/LANDSCAPE_1200/TH%20TRI-1%207.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/nirmala-sitharaman-slams-rahul-gandhi-over-tata-comment-says-congress-leader-spreading-distrust-toxicity/article71635760.ece",
+   "published_at": "2026-10-28T16:13:48+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.3,
+   "importance": 4.992
+  },
+  {
+   "id": "19f5aa994bf2",
+   "kind": "summary",
+   "headline": "Digital Personal Data Protection Act does not infringe on press freedom, says Ashwini Vaishnaw",
+   "title": "Digital Personal Data Protection Act does not infringe on press freedom: Ashwini Vaishnaw",
+   "summary": "Information Technology Minister Ashwini Vaishnaw stated on October 28, 2026, that the Digital Personal Data Protection Act protects personal data without undermining journalistic independence guaranteed by the Constitution. Addressing media concerns over investigative reporting, he invited editors for dialogue and noted that the government is open to parliamentary amendments to explicitly safeguard media activities if necessary.",
+   "description": "IT Minister invites editors and media professionals to engage in open dialogue with government to discuss concerns surrounding the law",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/tmdnh6/article71637388.ece/alternates/LANDSCAPE_1200/20261028213L.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/digital-personal-data-protection-act-does-not-infringe-on-press-freedom-ashwini-vaishnaw/article71637035.ece",
+   "published_at": "2026-10-28T16:09:43+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.4,
+   "importance": 4.99
+  },
+  {
+   "id": "46978109e5d1",
+   "kind": "summary",
+   "headline": "Crime Branch makes first arrest in Kerala Public Service Commission exam scam",
+   "title": "Crime Branch records first arrest in PSC exam scam case; Kerala PSC chairperson questioned by SIT",
+   "summary": "The Crime Branch arrested former deputy secretary P. Satheesh in Kozhikode on October 28, 2026, marking the first arrest in irregularities surrounding a Kerala Public Service Commission State Planning Board examination. The Special Investigation Team also questioned PSC chairperson M.R. Baiju for five hours regarding unevaluated descriptive answers that affected candidate rankings for three senior positions.",
+   "description": "P. Satheesh, who was recently named an accused in the case pertaining to a Kerala State Planning Board examination, was apprehended from his home in Kozhikode to record the first arrest in the case",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/xzsrom/article71637403.ece/alternates/LANDSCAPE_1200/TH3.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/kerala/crime-branch-records-first-arrest-in-psc-exam-scam-case-kerala-psc-chairperson-questioned-by-sit/article71637168.ece",
+   "published_at": "2026-10-28T16:07:36+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.4,
+   "importance": 4.989
+  },
+  {
+   "id": "8e883b533bb5",
+   "kind": "summary",
+   "headline": "Tamil Nadu government to host investment conversion conclave in November 2026",
+   "title": "T.N. government plans investment conversion conclave in Nov.; Minister to visit Germany to attract investment",
+   "summary": "The Tamilaga Vettri Kazhagam government will host its first investment conversion conclave in November 2026 under Chief Minister C. Joseph Vijay to evaluate 112 signed memorandums of understanding worth over ₹1,14,812 crore. Meanwhile, Industries Minister S. Keerthana will visit Germany in the first week of November to attract further manufacturing and technology investments from German corporations.",
+   "description": "Sources said that the event will be held in the presence of Chief Minister C. Joseph Vijay. Tamil Nadu Minister for Industries, Investment Promotion and Commerce S. Keerthana will visit Germany in the first week of November",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/jlbrj9/article71637431.ece/alternates/LANDSCAPE_1200/BVR_0848.JPG",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "Business",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-plans-investment-conversion-conclave-in-nov-minister-to-visit-germany-to-attract-investment/article71636325.ece",
+   "published_at": "2026-10-28T16:07:04+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.4,
+   "importance": 4.988
+  },
+  {
+   "id": "b70213f9498a",
+   "kind": "summary",
+   "headline": "Control room activated in Bhadrachalam as Bhadradri Kothagudem reviews cyclone preparedness",
+   "title": "Cyclone Arnab: Control room activated in Bhadrachalam, preparedness reviewed",
+   "summary": "A control room was established at the Bhadrachalam sub-Collector’s office on October 28, 2026, as intermittent drizzle affected Bhadradri Kothagudem and Khammam districts under the influence of Cyclone Arnab. Sub-Collector Mrinal Shreshtha reviewed emergency coordination with police, fire services, and disaster response forces while local schools and colleges remained closed as a precautionary measure.",
+   "description": "",
+   "long": false,
+   "image": null,
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/telangana/cyclone-arnab-control-room-activated-in-bhadrachalam-preparedness-reviewed/article71637271.ece",
+   "published_at": "2026-10-28T16:03:58+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.5,
+   "importance": 4.987
+  },
+  {
+   "id": "b576c42f8732",
+   "kind": "summary",
+   "headline": "India requires $220 billion in investment for green power transition by fiscal year 2030",
+   "title": "India needs $220 billion for green power transition by FY30",
+   "summary": "Union Ministry of New and Renewable Energy Secretary Santosh Sarangi announced on October 28, 2026, that India needs $220 billion between fiscal years 2027 and 2030 for renewable energy generation, transmission, and green technologies. Speaking ahead of the Bharat Renewable Energy Summit and Expo 2026, he detailed that solar energy and transmission infrastructure require the largest shares of funding.",
+   "description": "Speaking at the press curtain raiser of the the Bharat Renewable Energy Summit & Expo (2026), Mr. Sarangi mentioned that India had secured private investment of $64 billion in the sector.",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/ivrtde/article71637324.ece/alternates/LANDSCAPE_1200/IMG_santho_2_1_46GL266I.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "Business",
+   "category": "Business",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/business/Industry/india-needs-220-billion-for-green-power-transition-by-fy30/article71637103.ece",
+   "published_at": "2026-10-28T15:55:44+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.6,
+   "importance": 4.983
+  },
+  {
+   "id": "e51facaefa8f",
+   "kind": "video",
+   "headline": "US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric",
+   "title": "US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric",
+   "summary": null,
+   "description": "US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/rashida-horizontal-thumb-1793201921.jpg?resize=1920%2C1080&amp;quality=80",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/us-congresswoman-rashida-tlaib-condemns-anti-muslim-election-rhetoric?traffic_source=rss",
+   "published_at": "2026-10-28T15:40:04+00:00",
+   "fetch_status": "video_only",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.9,
+   "importance": 4.976
+  },
+  {
+   "id": "a99305258961",
+   "kind": "summary",
+   "headline": "Kylian Mbappe faces backlash in China over controversial Mao Zedong remarks",
+   "title": "What is the controversy between Real Madrid’s Kylian Mbappe and China?",
+   "summary": "Real Madrid forward Kylian Mbappe faced severe commercial and state media blowback in China following a resurfaced video showing him making light of a caricature depicting him as former Chinese leader Mao Zedong. Chinese brands Dongpeng and Mengniu swiftly severed ties with the French footballer. Although Mbappe issued a formal apology on Tuesday, the Chinese foreign ministry acknowledged the statement as state television suspended La Liga broadcasts.",
+   "description": "The French superstar's comments about Mao Zedong have drawn the ire of China, a lucrative market for sports teams.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-08T191004Z_1929128573_UP1EM981H8R06_RTRMADP_3_SOCCER-CHAMPIONS-RMA-INT-1789149958.jpg?resize=1920%2C1440",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "Sports",
+   "type": "explainer",
+   "significance": 3,
+   "url": "https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss",
+   "published_at": "2026-10-28T15:36:39+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.9,
+   "importance": 4.974
+  },
+  {
+   "id": "6162849d74c8",
+   "kind": "summary",
+   "headline": "Israel defense minister condemns Gadi Eisenkot over military resistance call",
+   "title": "Israel defence minister slams Eisenkot's call for military to resist PM",
+   "summary": "Israeli Defence Minister Israel Katz strongly criticized opposition figure Gadi Eisenkot on Wednesday after the former military chief urged armed forces to defy potential post-election directives from Prime Minister Benjamin Netanyahu regarding Iran. Katz denounced the statement as anti-democratic during a political dispute following the October 27 election involving Netanyahu's threatened military strikes against Tehran.",
+   "description": "Israel Katz said that Gadi Eisenkot's comments were the latest in a campaign of lies",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/i8ax9z/article71637208.ece/alternates/LANDSCAPE_1200/2026-09-01T132701Z_1549969438_RC2DANARHEL6_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-KATZ.JPG",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "International",
+   "category": "World",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/international/israel-defence-minister-slams-eisenkots-call-for-military-to-resist-pm/article71637161.ece",
+   "published_at": "2026-10-28T15:36:33+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.9,
+   "importance": 4.974
+  },
+  {
+   "id": "33a600870296",
+   "kind": "summary",
+   "headline": "Hyundai India reports twenty-four percent profit decline for second quarter",
+   "title": "Hyundai India Q2 net profit falls 24% to ₹1,196 crore on high commodity cost",
+   "summary": "Hyundai Motor India Limited announced a twenty-four percent year-on-year drop in standalone net profit to one thousand one hundred ninety-six crore rupees for the quarter ending September 30, 2026, driven by rising commodity costs. Managing Director Tarun Garg noted that total sales reached a record two hundred nineteen thousand seventy-two units, while operating revenue increased nineteen percent to twenty thousand six hundred ninety-six crore rupees.",
+   "description": "The second half would see accelerated momentum, with the launch of the Bayon marking the beginning of the company’s “golden product cycle",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/j64zs9/article71637155.ece/alternates/LANDSCAPE_1200/2026-09-13T000016Z_491995626_RC2PFAAR28G8_RTRMADP_3_HYUNDAIMOTOR-AUTONOMOUS.JPG",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "Business",
+   "category": "Business",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/business/Industry/hyundai-india-q2-net-profit-falls-24-to-1196-crore-on-high-commodity-cost/article71635832.ece",
+   "published_at": "2026-10-28T15:34:07+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.0,
+   "importance": 4.973
+  },
+  {
+   "id": "12ff395a46d9",
+   "kind": "video",
+   "headline": "Father grieving 6 children wants Pastor Mackenzie ‘locked away for life’",
+   "title": "Father grieving 6 children wants Pastor Mackenzie ‘locked away for life’",
+   "summary": null,
+   "description": "All of Stephen Mwiti Joseph’s children are presumed dead after his wife abducted them to follow a self-declared pastor.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793200658.jpg?resize=1920%2C1080&amp;quality=80",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "feature",
+   "significance": 3,
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/father-grieving-6-children-wants-pastor-mackenzie-locked-away?traffic_source=rss",
+   "published_at": "2026-10-28T15:17:48+00:00",
+   "fetch_status": "video_only",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.2,
+   "importance": 4.966
+  },
+  {
+   "id": "39f76e0bdf9b",
+   "kind": "summary",
+   "headline": "Larsen and Toubro targets fifteen lakh crore order book by 2031",
+   "title": "L&T aims to nearly double order book to Rs 15 lakh crore by 2031",
+   "summary": "Engineering conglomerate Larsen and Toubro plans to expand its order book to fifteen lakh crore rupees by 2031, supported by growth in energy, manufacturing, and international markets. Finance President R Shankar Raman stated on Wednesday that the firm anticipates a fifteen percent annual growth rate from its current valuation, with international operations in the Middle East projected to contribute equally with domestic projects.",
+   "description": "Company focus on energy, manufacturing, electrolysers, date centres as future areas of growth.",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/7dyxar/article71636855.ece/alternates/LANDSCAPE_1200/IMG_FILE_PHOTO__A_sign_o_2_1_N3D3PMTT.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "Business",
+   "category": "Business",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/business/Industry/lt-aims-to-nearly-double-order-book-to-rs-15-lakh-crore-by-2031/article71636722.ece",
+   "published_at": "2026-10-28T14:52:53+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.7,
+   "importance": 4.954
+  },
+  {
+   "id": "5d76245baa42",
+   "kind": "summary",
+   "headline": "Gulf nations pursue diplomatic engagement with Iran to prevent broader conflict",
+   "title": "Are GCC countries looking for a regional security pact with Iran?",
+   "summary": "Diplomats from Saudi Arabia, Pakistan, Turkiye, and Qatar met with Iranian officials in Tehran on Monday to avert renewed conflict amid fears of United States military strikes and Houthi attacks. Omani Foreign Minister Badr Albusaidi proposed a regional security framework during a University of Cambridge visit, though analysts remain skeptical due to deep-seated mistrust and unresolved disagreements between Washington and Tehran.",
+   "description": "Observers say diverging views are unlikely to turn current diplomatic efforts into a lasting infrastructure.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261026__D4GF3C2__v4__HighRes__TopshotIranPakistanSaudiTurkeyPoliticsDiplomacy-1793050851_a3a231-1793195109.jpg?resize=1200%2C630&amp;quality=80",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "analysis",
+   "significance": 3,
+   "url": "https://www.aljazeera.com/news/2026/10/28/are-gcc-countries-looking-for-a-regional-security-pact-with-iran?traffic_source=rss",
+   "published_at": "2026-10-28T14:51:14+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.7,
+   "importance": 4.953
+  },
+  {
+   "id": "5283652bd524",
+   "kind": "summary",
+   "headline": "XAI offers to buy homes in exchange for dropping lawsuits",
+   "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+   "summary": "Elon Musk's artificial intelligence company is offering to purchase hundreds of homes in Southaven, Mississippi, through a subsidiary named MZX, provided property owners release claims related to a local noise lawsuit. According to reports, the legal action targets a nearby data center and gas-fired turbines emitting constant noise. The company faces additional environmental penalties and legal pressure from the National Association for the Advancement of Colored People.",
+   "description": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans […]",
+   "long": false,
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2289399619.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.738447150137%2C100%2C78.523105699726&amp;w=1200",
+   "video_url": null,
+   "source": "The Verge",
+   "section": "AI",
+   "category": "Tech",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+   "published_at": "2026-10-28T14:44:00+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.8,
+   "importance": 4.95
+  },
+  {
+   "id": "4a1cc102ee59",
+   "kind": "summary",
+   "headline": "Arab-led parties win record seats in Israeli elections",
+   "title": "Why Arab parties may not be the ‘kingmakers’ in this Israeli election",
+   "summary": "Arab-led political factions in Israel are projected to secure a record seventeen seats in the Knesset following recent legislative voting. While exit polls indicate these parties could influence coalition formation, observers note that long-standing ideological vetoes from major Jewish political blocs continue to limit their partnership potential and direct governmental influence, despite previous historical precedents of collaboration.",
+   "description": "Exit poll projections show that if Eisenkot’s bloc teamed up with Arab parties, they could potentially unseat Bibi.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae1ed4d520f4-1793191245.jpg?resize=1920%2C1440",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "analysis",
+   "significance": 3,
+   "url": "https://www.aljazeera.com/news/2026/10/28/can-israeli-leader-eisenkot-ally-with-arab-parties-to-unseat-netanyahu?traffic_source=rss",
+   "published_at": "2026-10-28T14:30:17+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 2.0,
+   "importance": 4.944
+  },
+  {
+   "id": "f30346ad5855",
+   "kind": "summary",
+   "headline": "India and Mexico sign terms for preferential trade talks",
+   "title": "India and Mexico sign Terms of Reference for preferential trade agreement negotiations to begin",
+   "summary": "India and Mexico signed official terms of reference to initiate negotiations on a preferential trade agreement during a meeting abroad. Indian Commerce Secretary Rajesh Agrawal and Mexican Undersecretary Luis Rosendo Gutiérrez Romano advanced discussions following an initial agreement between Prime Minister Narendra Modi and President Claudia Sheinbaum. The framework focuses on market access, regulatory cooperation, and economic opportunities across multiple strategic industrial sectors.",
+   "description": "Commerce Secretary Rajesh Agrawal visited Mexico for the signing. The two sides also discussed a possible business delegation from Mexico visiting India in the first quarter of 2027",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/lrs3be/article71636708.ece/alternates/LANDSCAPE_1200/IMG_BL28_India_Mexico_fl_2_1_P9GNGQMF.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "Business",
+   "category": "Business",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/business/Economy/india-and-mexico-sign-terms-of-reference-for-preferential-trade-agreement-negotiations-to-begin/article71635915.ece",
+   "published_at": "2026-10-28T14:30:00+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 2.0,
+   "importance": 4.943
+  },
+  {
+   "id": "28d27422dc48",
+   "kind": "summary",
+   "headline": "Flavio Bolsonaro travels to Ecuador after fleeing Brazil following defeat",
+   "title": "Brazil’s Flavio Bolsonaro lands in Florida after election defeat",
+   "summary": "Defeated right-wing presidential candidate Flavio Bolsonaro traveled to Ecuador after fleeing Brazil through Argentina, according to government statements. The 45-year-old departed from Puerto Iguazu on a private flight despite a Supreme Court ban on leaving the country. Bolsonaro remains under investigation for corruption and money laundering, and faces the impending loss of his parliamentary immunity following his runoff election defeat to Mr. Lula.",
+   "description": "His plane touched down at Opa-Locka Executive Airport outside Miami after flying from Argentina with a stopover in Ecuador, as speculation had swirled for days over his whereabouts.",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/itfyi3/article71634930.ece/alternates/LANDSCAPE_1200/2026-10-26T022201Z_878003507_RC2PAOAYPYXJ_RTRMADP_3_BRAZIL-ELECTION.JPG",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "International",
+   "category": "World",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/international/flavio-bolsonaro-flees-brazil-and-boards-a-flight-to-ecuador-after-election-loss-to-lula/article71634871.ece",
+   "published_at": "2026-10-28T14:24:46+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 2.1,
+   "importance": 4.941
+  },
+  {
+   "id": "54a86b161063",
+   "kind": "summary",
+   "headline": "Iran intensifies domestic crackdown amid foreign espionage threats",
+   "title": "Espionage threats blur lines between security and dissent in Iran",
+   "summary": "Iranian authorities have accelerated judicial punishments and mass arrests following security vulnerabilities exposed by recent military conflicts with the United States and Israel. Human rights organizations report a sharp rise in executions and detentions targeting dissidents, journalists, and protesters. Officials state these measures defend against foreign hybrid warfare, while critics argue the government uses security concerns to suppress internal political opposition and independent reporting.",
+   "description": "Iran is using the threat of spy networks to detain and execute political opponents, analysts say.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261021__D3YC8TK__v1__HighRes__IranWarDailyLife-1792942826.jpg?resize=1920%2C1440",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "analysis",
+   "significance": 3,
+   "url": "https://www.aljazeera.com/news/2026/10/28/iran-faces-espionage-attempts-but-using-threat-for-crackdown-on-opponents?traffic_source=rss",
+   "published_at": "2026-10-28T14:03:08+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 2.5,
+   "importance": 4.931
+  },
+  {
+   "id": "1344d124d3b0",
+   "kind": "summary",
+   "headline": "UK deploys three nuclear deterrent submarines simultaneously",
+   "title": "Why are three of the UK’s four nuclear deterrent submarines at sea?",
+   "summary": "The United Kingdom has deployed three of its four Vanguard-class nuclear-armed submarines at sea concurrently for the first time in over five years. Navy sources described the deployment as unusual while the fourth vessel undergoes maintenance. The action follows recent statements from Defence Secretary Wes Streeting urging Britain to prepare for potential conflict within one thousand days amid heightened international security tensions.",
+   "description": "The deployment marks the first time in years that three Vanguard-class vessels have been at sea at the same time.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-855496562-1793191729.jpg?resize=1920%2C1440",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "explainer",
+   "significance": 3,
+   "url": "https://www.aljazeera.com/news/2026/10/28/why-are-three-of-the-uks-four-nuclear-deterrent-submarines-at-sea?traffic_source=rss",
+   "published_at": "2026-10-28T13:56:41+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 2.6,
+   "importance": 4.928
+  },
+  {
+   "id": "f7cf3d5629ff",
+   "kind": "preview",
+   "headline": "Spanish football postpones 24 Copa del Rey games after train crash",
+   "title": "Spanish football postpones 24 Copa del Rey games after train crash",
+   "summary": null,
+   "description": "Real Madrid and Barcelona offer messages of support following train crash as Spanish football orders Copa postponement .",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae1ecf2c077b-1793191154.jpg?resize=1920%2C1440",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "Sports",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.aljazeera.com/sports/2026/10/28/spanish-football-postpones-24-copa-del-rey-games-after-train-crash?traffic_source=rss",
+   "published_at": "2026-10-28T13:48:09+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 2.7,
+   "importance": 4.924
   },
   {
    "id": "5eae5b26eb17",
@@ -994,31 +1868,123 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 34.4,
-   "importance": 5.044
+   "age_hours": 38.8,
+   "importance": 4.923
   },
   {
-   "id": "4b7e9febb1b3",
-   "kind": "summary",
-   "headline": "Nirmala Sitharaman criticises Rahul Gandhi over comments on Tata issue",
-   "title": "Nirmala Sitharaman slams Rahul Gandhi over Tata comment, says Congress leader spreading distrust, toxicity",
-   "summary": "Indian Finance Minister Nirmala Sitharaman criticised opposition leader Rahul Gandhi on Wednesday following his remarks claiming that Tata is being criminally destroyed. Sitharaman accused Gandhi of attempting to politicise commercial and legal matters to spread toxicity and distrust against Indian industry. Gandhi had previously questioned business leaders over a leadership dispute involving Tata Trusts chairman Noel Tata and Tata Sons chairman N Chandrasekaran.",
-   "description": "Accusing Rahul Gandhi of repeatedly decrying the successes of Indian industry and entrepreneurs, Nirmala Sitharaman said the Narendra Modi government values Indian industry as job creators and drivers of economic growth",
+   "id": "cb1249ea8dc1",
+   "kind": "preview",
+   "headline": "L&T begins expansion of Chennai AI infrastructure campus with 52 MW data centre",
+   "title": "L&T begins expansion of Chennai AI infrastructure campus with 52 MW data centre",
+   "summary": null,
+   "description": "New facility adds to existing, operational 30 MW centre as Vyoma.AI targets over 250 MW of data centre capacity across India",
    "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/2mtmc6/article71635781.ece/alternates/LANDSCAPE_1200/TH%20TRI-1%207.jpg",
+   "image": "https://th-i.thgim.com/public/incoming/oou0pv/article71636046.ece/alternates/LANDSCAPE_1200/2026-07-28T122924Z_982450806_RC282DAQSCE7_RTRMADP_3_L-T-RESULTS.JPG",
    "video_url": null,
    "source": "The Hindu",
-   "section": "National",
-   "category": "India",
+   "section": "Business",
+   "category": "Business",
    "type": "news",
    "significance": 3,
-   "url": "https://www.thehindu.com/news/national/nirmala-sitharaman-slams-rahul-gandhi-over-tata-comment-says-congress-leader-spreading-distrust-toxicity/article71635760.ece",
-   "published_at": "2026-10-28T12:04:52+00:00",
+   "url": "https://www.thehindu.com/business/Industry/lt-begins-expansion-of-chennai-ai-infrastructure-campus-with-52-mw-data-centre/article71635829.ece",
+   "published_at": "2026-10-28T13:03:45+00:00",
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.1,
-   "importance": 4.997
+   "age_hours": 3.5,
+   "importance": 4.904
+  },
+  {
+   "id": "c005e70fc8ec",
+   "kind": "preview",
+   "headline": "Real Madrid apologise to Chinese people for Mbappe’s Mao ‘dictator’ remark",
+   "title": "Real Madrid apologise to Chinese people for Mbappe’s Mao ‘dictator’ remark",
+   "summary": null,
+   "description": "Mocking Mao Zedong is taboo in China, which is a lucrative market for players and teams such as Kylian Mbappe's Real.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-21T185044Z_1149461928_UP1EMAL1GCJW6_RTRMADP_3_SOCCER-CHAMPIONS-RMA-RBL-1793192406.jpg?resize=1920%2C1440",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.aljazeera.com/sports/2026/10/28/real-madrid-apologise-to-chinese-people-for-mbappes-mao-dictator-remark?traffic_source=rss",
+   "published_at": "2026-10-28T12:56:24+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 3.6,
+   "importance": 4.9
+  },
+  {
+   "id": "d61ef566e086",
+   "kind": "summary",
+   "headline": "Expert panel recommends winding up Kerala Infrastructure Investment Fund Board",
+   "title": "On the question of KIIFB’s future",
+   "summary": "An expert panel established by Keralam's government has recommended winding up the Kerala Infrastructure Investment Fund Board and absorbing its functions into the state administration. The committee's report, submitted to the State Assembly, concluded that the special purpose vehicle lost its primary purpose after its borrowing functions were integrated directly into the state budget.",
+   "description": "An expert panel constituted by Keralam’s UDF government to review the functioning of KIIFB has recommended winding it up and absorbing its functions into the State government, prompting a closer look at the merits of off-budget borrowings by States and the need to boost public investment in Keralam",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/r70a85/article71633080.ece/alternates/LANDSCAPE_1200/KIIFB.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "Business",
+   "category": "Business",
+   "type": "analysis",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/kerala/on-the-question-of-kiifbs-future/article71633074.ece",
+   "published_at": "2026-10-28T12:54:42+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 3.6,
+   "importance": 4.899
+  },
+  {
+   "id": "0bfb7a9770a3",
+   "kind": "video",
+   "headline": "Victims of Jordan’s air strikes in Syria",
+   "title": "Victims of Jordan’s air strikes in Syria",
+   "summary": null,
+   "description": "Jordan’s air strikes in southern Syria killed at least seven people, including three children. Here are their stories.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793190880.jpg?resize=1918%2C1080&amp;quality=80",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "feature",
+   "significance": 3,
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss",
+   "published_at": "2026-10-28T12:35:19+00:00",
+   "fetch_status": "video_only",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 3.9,
+   "importance": 4.89
+  },
+  {
+   "id": "5b14ad9f14c1",
+   "kind": "summary",
+   "headline": "Israel faces political standoff following national elections without outright majority",
+   "title": "Israel elections: Understanding how Knesset polls work vs India’s system",
+   "summary": "Israel entered a political standoff following the October 27 national election after exit polls showed Prime Minister Benjamin Netanyahu and rival Gadi Eisenkot locked in a tight race. Neither camp secured an outright majority in the 120-seat Knesset, requiring coalition negotiations. President Isaac Herzog will consult parliamentary factions to assign a lawmaker the task of forming a government.",
+   "description": "Israel’s political clash after the October 27 national vote pits Prime Minister Benjamin Netanyahu against former military chief Gadi Eisenkot in a neck-and-neck fight to form a government, as neither major bloc won a 61-seat majority in the 120-seat Knesset",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/8n5v84/article71634105.ece/alternates/LANDSCAPE_1200/Israel_Elections_69116.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "International",
+   "category": "World",
+   "type": "explainer",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/international/how-israel-elections-work-understanding-knesset-elections-vs-india/article71634802.ece",
+   "published_at": "2026-10-28T12:05:04+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 4.5,
+   "importance": 4.876
   },
   {
    "id": "70775fa20a9b",
@@ -1040,31 +2006,31 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.1,
-   "importance": 4.996
+   "age_hours": 4.5,
+   "importance": 4.876
   },
   {
-   "id": "398490fa9731",
+   "id": "0a3ac9f83b8a",
    "kind": "summary",
-   "headline": "Jio Platforms prepares for record stock market debut in India",
-   "title": "India's largest share sale could end cheap mobile internet for millions",
-   "summary": "Jio Platforms, backed by Meta and Google and owned by billionaire Mukesh Ambani, is set for a historic 3.2 billion dollar initial public offering in India. Analysts warn that the stock market debut could end the era of ultra-cheap mobile data tariffs as the company answers to minority shareholders and focuses on increasing average revenue per user.",
-   "description": "Jio's IPO promises a windfall for investors, but could signal the end of cheap mobile data for millions.",
+   "headline": "Yair Golan calls on Israeli opposition bloc to form government with Arab parties",
+   "title": "Israel polls: Golan urges Eisenkot's bloc to form government with Arab parties to oust Netanyahu",
+   "summary": "Democratic Party leader Yair Golan urged opposition figures led by Gadi Eisenkot to partner with Arab-led parties to replace Prime Minister Benjamin Netanyahu following recent elections. Golan emphasised that Arab citizens' votes carry equal weight, though opposition allies remain divided over coalition cooperation. Partial results indicated Netanyahu's bloc secured fifty-four seats while opposition groups held various combinations.",
+   "description": "Several allies in the Opposition's change bloc have rejected the proposal to include Arab parties in a governing coalition, while some have also ruled out relying on their support from outside",
    "long": false,
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06b7/live/fccc6560-d13d-11f1-b441-2b33b063138f.jpg",
+   "image": "https://th-i.thgim.com/public/incoming/ejx400/article71635462.ece/alternates/LANDSCAPE_1200/2026-10-28T000841Z_1992612297_RC2ZBOAKSMS7_RTRMADP_3_ISRAEL-ELECTION.JPG",
    "video_url": null,
-   "source": "BBC",
-   "section": "India",
-   "category": "Business",
-   "type": "analysis",
-   "significance": 4,
-   "url": "https://www.bbc.co.uk/news/articles/cw78pe7vlej5o?at_medium=RSS&at_campaign=rss",
-   "published_at": "2026-10-27T00:00:30+00:00",
+   "source": "The Hindu",
+   "section": "International",
+   "category": "World",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/international/israel-polls-golan-urges-eisenkots-bloc-to-form-government-with-arab-parties-to-oust-netanyahu/article71635413.ece",
+   "published_at": "2026-10-28T12:00:59+00:00",
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 36.2,
-   "importance": 4.995
+   "age_hours": 4.5,
+   "importance": 4.874
   },
   {
    "id": "8030d1b5c635",
@@ -1086,8 +2052,77 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.2,
-   "importance": 4.994
+   "age_hours": 4.5,
+   "importance": 4.874
+  },
+  {
+   "id": "85069581580d",
+   "kind": "preview",
+   "headline": "Pairing industrial AI autonomy and human control",
+   "title": "Pairing industrial AI autonomy and human control",
+   "summary": null,
+   "description": "",
+   "long": false,
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-2264572193.jpg?resize=1200,600",
+   "video_url": null,
+   "source": "MIT Technology Review",
+   "section": "AI",
+   "category": "Tech",
+   "type": "analysis",
+   "significance": 3,
+   "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+   "published_at": "2026-10-28T12:00:00+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 4.5,
+   "importance": 4.874
+  },
+  {
+   "id": "398490fa9731",
+   "kind": "summary",
+   "headline": "Jio Platforms prepares for record stock market debut in India",
+   "title": "India's largest share sale could end cheap mobile internet for millions",
+   "summary": "Jio Platforms, backed by Meta and Google and owned by billionaire Mukesh Ambani, is set for a historic 3.2 billion dollar initial public offering in India. Analysts warn that the stock market debut could end the era of ultra-cheap mobile data tariffs as the company answers to minority shareholders and focuses on increasing average revenue per user.",
+   "description": "Jio's IPO promises a windfall for investors, but could signal the end of cheap mobile data for millions.",
+   "long": false,
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06b7/live/fccc6560-d13d-11f1-b441-2b33b063138f.jpg",
+   "video_url": null,
+   "source": "BBC",
+   "section": "India",
+   "category": "Business",
+   "type": "analysis",
+   "significance": 4,
+   "url": "https://www.bbc.co.uk/news/articles/cw78pe7vlej5o?at_medium=RSS&at_campaign=rss",
+   "published_at": "2026-10-27T00:00:30+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 40.5,
+   "importance": 4.874
+  },
+  {
+   "id": "2bd01123e4a4",
+   "kind": "video",
+   "headline": "Israeli voters: hope and despair as election ballots are counted",
+   "title": "Israeli voters: hope and despair as election ballots are counted",
+   "summary": null,
+   "description": "Israeli voters in Tel Aviv expressed mixed emotions as ballots were counted after the election.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793188498.jpg?resize=1920%2C1080&amp;quality=80",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "feature",
+   "significance": 3,
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israeli-voters-hope-and-despair-as-election-ballots-are-counted?traffic_source=rss",
+   "published_at": "2026-10-28T11:55:08+00:00",
+   "fetch_status": "video_only",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 4.6,
+   "importance": 4.872
   },
   {
    "id": "1d71c9d45b6b",
@@ -1109,8 +2144,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.4,
-   "importance": 4.99
+   "age_hours": 4.7,
+   "importance": 4.869
   },
   {
    "id": "5bc82eea9903",
@@ -1132,8 +2167,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.4,
-   "importance": 4.988
+   "age_hours": 4.8,
+   "importance": 4.867
   },
   {
    "id": "b3250c9c370a",
@@ -1146,7 +2181,7 @@
    "image": "https://th-i.thgim.com/public/incoming/8j7n4c/article71635314.ece/alternates/LANDSCAPE_1200/iStock-1213299014.jpg",
    "video_url": null,
    "source": "The Hindu",
-   "section": "National",
+   "section": "Business",
    "category": "Business",
    "type": "analysis",
    "significance": 3,
@@ -1155,8 +2190,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.5,
-   "importance": 4.987
+   "age_hours": 4.8,
+   "importance": 4.866
   },
   {
    "id": "b7c3bc8cd75b",
@@ -1178,8 +2213,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.6,
-   "importance": 4.984
+   "age_hours": 4.9,
+   "importance": 4.864
   },
   {
    "id": "5d32ed72e5f2",
@@ -1201,8 +2236,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.6,
-   "importance": 4.983
+   "age_hours": 4.9,
+   "importance": 4.863
   },
   {
    "id": "779ca2b2a764",
@@ -1224,8 +2259,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.6,
-   "importance": 4.983
+   "age_hours": 5.0,
+   "importance": 4.862
   },
   {
    "id": "6e55d7ac3a7f",
@@ -1247,8 +2282,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.6,
-   "importance": 4.982
+   "age_hours": 5.0,
+   "importance": 4.862
   },
   {
    "id": "c1fa37c9240c",
@@ -1261,7 +2296,7 @@
    "image": "https://th-i.thgim.com/public/incoming/5v7p5s/article71635635.ece/alternates/LANDSCAPE_1200/20261005326L_vWGMEKA.jpg",
    "video_url": null,
    "source": "The Hindu",
-   "section": "National",
+   "section": "Business",
    "category": "Business",
    "type": "news",
    "significance": 3,
@@ -1270,8 +2305,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.7,
-   "importance": 4.981
+   "age_hours": 5.0,
+   "importance": 4.861
   },
   {
    "id": "bfb49b90b2ef",
@@ -1293,8 +2328,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.7,
-   "importance": 4.98
+   "age_hours": 5.1,
+   "importance": 4.859
   },
   {
    "id": "946821ec58cb",
@@ -1316,31 +2351,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.7,
-   "importance": 4.979
-  },
-  {
-   "id": "5b14ad9f14c1",
-   "kind": "summary",
-   "headline": "Israel faces political standoff following national elections without outright majority",
-   "title": "Israel elections: Understanding how Knesset polls work vs India’s system",
-   "summary": "Israel entered a political standoff following the October 27 national election after exit polls showed Prime Minister Benjamin Netanyahu and rival Gadi Eisenkot locked in a tight race. Neither camp secured an outright majority in the 120-seat Knesset, requiring coalition negotiations. President Isaac Herzog will consult parliamentary factions to assign a lawmaker the task of forming a government.",
-   "description": "Israel’s political clash after the October 27 national vote pits Prime Minister Benjamin Netanyahu against former military chief Gadi Eisenkot in a neck-and-neck fight to form a government, as neither major bloc won a 61-seat majority in the 120-seat Knesset",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/8n5v84/article71634105.ece/alternates/LANDSCAPE_1200/Israel_Elections_69116.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "International",
-   "category": "World",
-   "type": "explainer",
-   "significance": 3,
-   "url": "https://www.thehindu.com/news/international/how-israel-elections-work-understanding-knesset-elections-vs-india/article71634802.ece",
-   "published_at": "2026-10-28T11:26:20+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 0.8,
-   "importance": 4.979
+   "age_hours": 5.1,
+   "importance": 4.859
   },
   {
    "id": "a290fb05488c",
@@ -1353,7 +2365,7 @@
    "image": "https://th-i.thgim.com/public/news/national/mmqdql/article71635582.ece/alternates/LANDSCAPE_1200/iStock-1358183711%2012.jpg",
    "video_url": null,
    "source": "The Hindu",
-   "section": "National",
+   "section": "Business",
    "category": "Business",
    "type": "news",
    "significance": 3,
@@ -1362,8 +2374,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.9,
-   "importance": 4.976
+   "age_hours": 5.2,
+   "importance": 4.855
   },
   {
    "id": "5cedf921b265",
@@ -1385,8 +2397,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.0,
-   "importance": 4.971
+   "age_hours": 5.4,
+   "importance": 4.851
   },
   {
    "id": "80495a81f0ce",
@@ -1408,8 +2420,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.1,
-   "importance": 4.971
+   "age_hours": 5.4,
+   "importance": 4.85
   },
   {
    "id": "150632ffa450",
@@ -1431,8 +2443,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.1,
-   "importance": 4.968
+   "age_hours": 5.5,
+   "importance": 4.848
   },
   {
    "id": "3c910cfa6f61",
@@ -1454,8 +2466,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.2,
-   "importance": 4.968
+   "age_hours": 5.5,
+   "importance": 4.847
   },
   {
    "id": "1712bc826529",
@@ -1477,8 +2489,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.2,
-   "importance": 4.967
+   "age_hours": 5.5,
+   "importance": 4.847
   },
   {
    "id": "611f58349fe4",
@@ -1500,31 +2512,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.4,
-   "importance": 4.962
-  },
-  {
-   "id": "0a3ac9f83b8a",
-   "kind": "summary",
-   "headline": "Yair Golan calls on Israeli opposition bloc to form government with Arab parties",
-   "title": "Israel polls: Golan urges Eisenkot's bloc to form government with Arab parties to oust Netanyahu",
-   "summary": "Democratic Party leader Yair Golan urged opposition figures led by Gadi Eisenkot to partner with Arab-led parties to replace Prime Minister Benjamin Netanyahu following recent elections. Golan emphasised that Arab citizens' votes carry equal weight, though opposition allies remain divided over coalition cooperation. Partial results indicated Netanyahu's bloc secured fifty-four seats while opposition groups held various combinations.",
-   "description": "Several allies in the Opposition's change bloc have rejected the proposal to include Arab parties in a governing coalition, while some have also ruled out relying on their support from outside",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/ejx400/article71635462.ece/alternates/LANDSCAPE_1200/2026-10-28T000841Z_1992612297_RC2ZBOAKSMS7_RTRMADP_3_ISRAEL-ELECTION.JPG",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "International",
-   "category": "World",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.thehindu.com/news/international/israel-polls-golan-urges-eisenkots-bloc-to-form-government-with-arab-parties-to-oust-netanyahu/article71635413.ece",
-   "published_at": "2026-10-28T10:49:54+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 1.4,
-   "importance": 4.962
+   "age_hours": 5.7,
+   "importance": 4.842
   },
   {
    "id": "cf786b0c1c07",
@@ -1546,8 +2535,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.4,
-   "importance": 4.962
+   "age_hours": 5.7,
+   "importance": 4.841
   },
   {
    "id": "7721b4a98a96",
@@ -1569,8 +2558,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.5,
-   "importance": 4.959
+   "age_hours": 5.8,
+   "importance": 4.838
   },
   {
    "id": "b0f3a152f9ae",
@@ -1592,8 +2581,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.5,
-   "importance": 4.959
+   "age_hours": 5.8,
+   "importance": 4.838
   },
   {
    "id": "0a4cd7c2ca71",
@@ -1615,8 +2604,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.8,
-   "importance": 4.95
+   "age_hours": 6.1,
+   "importance": 4.829
   },
   {
    "id": "8dd5a4f41cc8",
@@ -1638,8 +2627,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.9,
-   "importance": 4.947
+   "age_hours": 6.2,
+   "importance": 4.827
   },
   {
    "id": "dfa34ba19611",
@@ -1661,8 +2650,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.9,
-   "importance": 4.947
+   "age_hours": 6.2,
+   "importance": 4.827
   },
   {
    "id": "e10c764fb9f9",
@@ -1684,8 +2673,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 2.2,
-   "importance": 4.94
+   "age_hours": 6.5,
+   "importance": 4.82
   },
   {
    "id": "94ac8658b415",
@@ -1707,31 +2696,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 2.3,
-   "importance": 4.937
-  },
-  {
-   "id": "d61ef566e086",
-   "kind": "summary",
-   "headline": "Expert panel recommends winding up Kerala Infrastructure Investment Fund Board",
-   "title": "On the question of KIIFB’s future",
-   "summary": "An expert panel established by Keralam's government has recommended winding up the Kerala Infrastructure Investment Fund Board and absorbing its functions into the state administration. The committee's report, submitted to the State Assembly, concluded that the special purpose vehicle lost its primary purpose after its borrowing functions were integrated directly into the state budget.",
-   "description": "An expert panel constituted by Keralam’s UDF government to review the functioning of KIIFB has recommended winding it up and absorbing its functions into the State government, prompting a closer look at the merits of off-budget borrowings by States and the need to boost public investment in Keralam",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/r70a85/article71633080.ece/alternates/LANDSCAPE_1200/KIIFB.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "Business",
-   "category": "Business",
-   "type": "analysis",
-   "significance": 3,
-   "url": "https://www.thehindu.com/news/national/kerala/on-the-question-of-kiifbs-future/article71633074.ece",
-   "published_at": "2026-10-28T09:45:30+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 2.4,
-   "importance": 4.932
+   "age_hours": 6.6,
+   "importance": 4.816
   },
   {
    "id": "a2059011ba30",
@@ -1753,8 +2719,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 2.5,
-   "importance": 4.93
+   "age_hours": 6.8,
+   "importance": 4.81
   },
   {
    "id": "59937c1c9e6e",
@@ -1776,8 +2742,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 2.7,
-   "importance": 4.925
+   "age_hours": 7.0,
+   "importance": 4.805
   },
   {
    "id": "6a556485be8a",
@@ -1799,31 +2765,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 2.7,
-   "importance": 4.924
-  },
-  {
-   "id": "28d27422dc48",
-   "kind": "summary",
-   "headline": "Flavio Bolsonaro travels to Ecuador after fleeing Brazil following defeat",
-   "title": "Flavio Bolsonaro on his way to Ecuador after fleeing Brazil",
-   "summary": "Defeated right-wing presidential candidate Flavio Bolsonaro traveled to Ecuador after fleeing Brazil through Argentina, according to government statements. The 45-year-old departed from Puerto Iguazu on a private flight despite a Supreme Court ban on leaving the country. Bolsonaro remains under investigation for corruption and money laundering, and faces the impending loss of his parliamentary immunity following his runoff election defeat to Mr. Lula.",
-   "description": "Flavio Bolsonaro, who lost Brazil’s runoff election to Lula da Silva on October 25, entered Argentina before boarding a flight to Ecuador, the country’s National Directorate of Migration said on X",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/itfyi3/article71634930.ece/alternates/LANDSCAPE_1200/2026-10-26T022201Z_878003507_RC2PAOAYPYXJ_RTRMADP_3_BRAZIL-ELECTION.JPG",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "International",
-   "category": "World",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.thehindu.com/news/international/flavio-bolsonaro-flees-brazil-and-boards-a-flight-to-ecuador-after-election-loss-to-lula/article71634871.ece",
-   "published_at": "2026-10-28T09:19:46+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 2.9,
-   "importance": 4.92
+   "age_hours": 7.1,
+   "importance": 4.804
   },
   {
    "id": "53df4f73cab9",
@@ -1845,8 +2788,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 3.4,
-   "importance": 4.907
+   "age_hours": 7.7,
+   "importance": 4.786
   },
   {
    "id": "77e3a69b7ff0",
@@ -1868,16 +2811,16 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 3.7,
-   "importance": 4.897
+   "age_hours": 8.0,
+   "importance": 4.777
   },
   {
    "id": "b5e8975730f7",
    "kind": "summary",
    "headline": "Kenyan family protests extradition hearing delay for former soldier",
-   "title": "Kenyan family protest extradition hearing delay of ex-British soldier accused of murdering kin",
+   "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
    "summary": "Relatives of Agnes Wanjiru expressed outrage after a UK extradition hearing for Robert James Purkiss, a former British soldier accused of murdering her in 2012, was postponed until May 2027. The victim's niece criticized the lack of official explanation. Purkiss denies the allegation and is fighting extradition from the United Kingdom to face trial in Kenya.",
-   "description": "No official reason has been given for postponing next month’s hearing to May 2027, family says.",
+   "description": "No official reason has been given for postponing next month’s hearing to May 2027, the family says.",
    "long": false,
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d546/live/12047420-d2a3-11f1-9aa6-4f9b16403e50.png",
    "video_url": null,
@@ -1891,8 +2834,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 3.7,
-   "importance": 4.896
+   "age_hours": 8.1,
+   "importance": 4.776
   },
   {
    "id": "32a71747ae90",
@@ -1914,8 +2857,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 3.7,
-   "importance": 4.896
+   "age_hours": 8.1,
+   "importance": 4.776
   },
   {
    "id": "03ec2eb7bc52",
@@ -1937,8 +2880,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 3.8,
-   "importance": 4.896
+   "age_hours": 8.1,
+   "importance": 4.775
   },
   {
    "id": "b5f7921e8e7a",
@@ -1960,8 +2903,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 3.9,
-   "importance": 4.892
+   "age_hours": 8.2,
+   "importance": 4.772
   },
   {
    "id": "7c24cd5ca8ea",
@@ -1983,8 +2926,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.0,
-   "importance": 4.889
+   "age_hours": 8.3,
+   "importance": 4.768
   },
   {
    "id": "130b169c9097",
@@ -2006,8 +2949,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.1,
-   "importance": 4.887
+   "age_hours": 8.4,
+   "importance": 4.767
   },
   {
    "id": "7d3c1c25a689",
@@ -2029,8 +2972,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.3,
-   "importance": 4.881
+   "age_hours": 8.6,
+   "importance": 4.761
   },
   {
    "id": "28f76fad3f60",
@@ -2052,8 +2995,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.3,
-   "importance": 4.881
+   "age_hours": 8.6,
+   "importance": 4.76
   },
   {
    "id": "bbf2b1958b9e",
@@ -2075,8 +3018,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.6,
-   "importance": 4.873
+   "age_hours": 8.9,
+   "importance": 4.753
   },
   {
    "id": "10eca9e09499",
@@ -2098,8 +3041,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.8,
-   "importance": 4.868
+   "age_hours": 9.1,
+   "importance": 4.747
   },
   {
    "id": "6aff626cede0",
@@ -2121,8 +3064,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.8,
-   "importance": 4.865
+   "age_hours": 9.2,
+   "importance": 4.745
   },
   {
    "id": "684c3890bfdd",
@@ -2135,7 +3078,7 @@
    "image": "https://th-i.thgim.com/public/incoming/xv9nz0/article71634696.ece/alternates/LANDSCAPE_1200/Switzerland_Tennis_5_22.jpg",
    "video_url": null,
    "source": "The Hindu",
-   "section": "International",
+   "section": "Sport",
    "category": "Sports",
    "type": "news",
    "significance": 3,
@@ -2144,8 +3087,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.9,
-   "importance": 4.863
+   "age_hours": 9.3,
+   "importance": 4.743
   },
   {
    "id": "56fd053b1ea7",
@@ -2167,8 +3110,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 5.9,
-   "importance": 4.835
+   "age_hours": 10.3,
+   "importance": 4.715
   },
   {
    "id": "c04d6f5167ed",
@@ -2190,8 +3133,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 7.3,
-   "importance": 4.797
+   "age_hours": 11.6,
+   "importance": 4.677
   },
   {
    "id": "a6cd062bb706",
@@ -2213,8 +3156,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 7.7,
-   "importance": 4.787
+   "age_hours": 12.0,
+   "importance": 4.667
   },
   {
    "id": "a13e6a03cee8",
@@ -2236,8 +3179,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.5,
-   "importance": 4.764
+   "age_hours": 12.8,
+   "importance": 4.644
   },
   {
    "id": "507575ce1423",
@@ -2259,8 +3202,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.8,
-   "importance": 4.728
+   "age_hours": 14.1,
+   "importance": 4.607
   },
   {
    "id": "5d3c494f3c8b",
@@ -2282,8 +3225,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.8,
-   "importance": 4.727
+   "age_hours": 14.2,
+   "importance": 4.606
   },
   {
    "id": "28aeb55720c8",
@@ -2305,8 +3248,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.9,
-   "importance": 4.726
+   "age_hours": 14.2,
+   "importance": 4.606
   },
   {
    "id": "ba3cece69efb",
@@ -2328,8 +3271,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 15.4,
-   "importance": 4.573
+   "age_hours": 19.7,
+   "importance": 4.452
   },
   {
    "id": "3b4ab57bd224",
@@ -2351,8 +3294,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 15.5,
-   "importance": 4.571
+   "age_hours": 19.8,
+   "importance": 4.45
   },
   {
    "id": "1f3d54b2a11c",
@@ -2374,8 +3317,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 17.3,
-   "importance": 4.52
+   "age_hours": 21.6,
+   "importance": 4.399
   },
   {
    "id": "11a3c1ae8496",
@@ -2397,8 +3340,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.0,
-   "importance": 4.473
+   "age_hours": 23.3,
+   "importance": 4.353
   },
   {
    "id": "5d9174dd4f1a",
@@ -2420,8 +3363,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.3,
-   "importance": 4.463
+   "age_hours": 23.7,
+   "importance": 4.342
   },
   {
    "id": "65f4a59ddd57",
@@ -2443,8 +3386,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.6,
-   "importance": 4.455
+   "age_hours": 23.9,
+   "importance": 4.335
   },
   {
    "id": "3513fbe8e952",
@@ -2466,8 +3409,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.2,
-   "importance": 4.439
+   "age_hours": 24.5,
+   "importance": 4.318
   },
   {
    "id": "500db364734b",
@@ -2489,8 +3432,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.4,
-   "importance": 4.434
+   "age_hours": 24.7,
+   "importance": 4.314
   },
   {
    "id": "ca379335b0df",
@@ -2512,8 +3455,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.9,
-   "importance": 4.42
+   "age_hours": 25.2,
+   "importance": 4.299
   },
   {
    "id": "1e43fcb983d0",
@@ -2535,8 +3478,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 21.5,
-   "importance": 4.404
+   "age_hours": 25.8,
+   "importance": 4.284
   },
   {
    "id": "6b9d6b83985d",
@@ -2558,8 +3501,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 21.7,
-   "importance": 4.397
+   "age_hours": 26.0,
+   "importance": 4.277
   },
   {
    "id": "f6f9a0db4185",
@@ -2581,8 +3524,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.2,
-   "importance": 4.383
+   "age_hours": 26.5,
+   "importance": 4.263
   },
   {
    "id": "0d516a24ee36",
@@ -2604,8 +3547,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.4,
-   "importance": 4.379
+   "age_hours": 26.7,
+   "importance": 4.259
   },
   {
    "id": "4017193a99f5",
@@ -2627,8 +3570,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.1,
-   "importance": 4.359
+   "age_hours": 27.4,
+   "importance": 4.239
   },
   {
    "id": "5484c1184001",
@@ -2650,8 +3593,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.1,
-   "importance": 4.359
+   "age_hours": 27.4,
+   "importance": 4.239
   },
   {
    "id": "30d678250b76",
@@ -2673,8 +3616,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.1,
-   "importance": 4.359
+   "age_hours": 27.4,
+   "importance": 4.239
   },
   {
    "id": "bd92b3fc75e1",
@@ -2696,8 +3639,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.4,
-   "importance": 4.351
+   "age_hours": 27.7,
+   "importance": 4.23
   },
   {
    "id": "d988f7c6be07",
@@ -2719,8 +3662,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.4,
-   "importance": 4.35
+   "age_hours": 27.7,
+   "importance": 4.229
   },
   {
    "id": "af880d90ada0",
@@ -2742,8 +3685,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.8,
-   "importance": 4.312
+   "age_hours": 29.1,
+   "importance": 4.192
   },
   {
    "id": "ef2da6cf0c5f",
@@ -2765,8 +3708,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.9,
-   "importance": 4.309
+   "age_hours": 29.2,
+   "importance": 4.188
   },
   {
    "id": "a9ae89e7d70a",
@@ -2788,31 +3731,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 27.2,
-   "importance": 4.243
-  },
-  {
-   "id": "eb36129b3a17",
-   "kind": "summary",
-   "headline": "Poor education and training infrastructure constrains India military space plans",
-   "title": "How poor education, training infra constrains India's military space plans",
-   "summary": "India's military space capabilities depend heavily on classrooms, laboratories, and degree programmes that produce engineers for defense assets. During Operation Sindoor in May 2025, the Indian Space Research Organisation kept at least ten satellites on standby for strategic military needs, highlighting the critical role of space infrastructure in modern warfare.",
-   "description": "Despite its proper structure, India’s only dedicated space university has just 1,356 students across all levels, a small base to feed a rapidly scaling space and defence-space programme",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/bzz0if/article71622898.ece/alternates/LANDSCAPE_1200/image%208.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "Science",
-   "category": "India",
-   "type": "analysis",
-   "significance": 4,
-   "url": "https://www.thehindu.com/education/specialised-institutes-funding-required-to-boost-indias-military-space-mission/article71622844.ece",
-   "published_at": "2026-10-25T12:32:35+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 71.7,
-   "importance": 4.009
+   "age_hours": 31.6,
+   "importance": 4.123
   },
   {
    "id": "bba291662c45",
@@ -2834,8 +3754,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 36.6,
-   "importance": 3.983
+   "age_hours": 41.0,
+   "importance": 3.862
   },
   {
    "id": "96b9f45bb2e6",
@@ -2857,8 +3777,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 38.4,
-   "importance": 3.932
+   "age_hours": 42.8,
+   "importance": 3.812
   },
   {
    "id": "f7b9bc5b7e40",
@@ -2880,8 +3800,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 42.4,
-   "importance": 3.821
+   "age_hours": 46.8,
+   "importance": 3.701
   },
   {
    "id": "67160bc1e72b",
@@ -2903,8 +3823,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 51.2,
-   "importance": 3.578
+   "age_hours": 55.5,
+   "importance": 3.458
   },
   {
    "id": "f4c2ee8ea76f",
@@ -2926,8 +3846,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 51.9,
-   "importance": 3.557
+   "age_hours": 56.3,
+   "importance": 3.437
   },
   {
    "id": "e4c2d0a60113",
@@ -2949,8 +3869,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 56.9,
-   "importance": 3.421
+   "age_hours": 61.2,
+   "importance": 3.3
   },
   {
    "id": "4f64e1e6a37c",
@@ -2972,31 +3892,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 63.8,
-   "importance": 3.229
-  },
-  {
-   "id": "ca74d309ef62",
-   "kind": "preview",
-   "headline": "How people’s genes are revealing why some languages are so unique",
-   "title": "How people’s genes are revealing why some languages are so unique",
-   "summary": null,
-   "description": "A new study measured how different neighbouring languages were from one another. The authors say that linguistic hotspots may offer glimpses into how human languages became more varied before large migrations and population movements reshaped much of the world",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/news/b6r7ed/article71218689.ece/alternates/LANDSCAPE_1200/iStock-2236164423.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "Science",
-   "category": "Science",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.thehindu.com/sci-tech/science/how-genetic-history-reveals-why-some-languages-are-so-unique/article71217585.ece",
-   "published_at": "2026-10-25T14:09:33+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 70.0,
-   "importance": 3.054
+   "age_hours": 68.1,
+   "importance": 3.109
   }
  ]
 }
