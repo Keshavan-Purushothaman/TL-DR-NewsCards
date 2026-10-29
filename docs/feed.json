@@ -1,13 +1,36 @@
 {
- "generated_at": "2026-10-29T17:07:32+00:00",
+ "generated_at": "2026-10-29T19:03:59+00:00",
  "window_hours": 72,
- "count": 400,
+ "count": 415,
  "kinds": {
-  "summary": 349,
-  "video": 47,
+  "summary": 363,
+  "video": 48,
   "preview": 4
  },
  "articles": [
+  {
+   "id": "a45a8da270ec",
+   "kind": "video",
+   "headline": "At least 14 people killed in attack on Ukraine train station",
+   "title": "At least 14 people killed in attack on Ukraine train station",
+   "summary": null,
+   "description": "A Russian drone strike killed at least 14 people at Dnipro’s main railway station in central Ukraine.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793296995.jpg?resize=1920%2C1080&amp;quality=80",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "news",
+   "significance": 5,
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss",
+   "published_at": "2026-10-29T18:03:21+00:00",
+   "fetch_status": "video_only",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.0,
+   "importance": 6.972
+  },
   {
    "id": "638fc5440f4a",
    "kind": "summary",
@@ -28,8 +51,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.7,
-   "importance": 6.98
+   "age_hours": 2.7,
+   "importance": 6.926
   },
   {
    "id": "2556f533cb0c",
@@ -51,8 +74,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 10.8,
-   "importance": 6.699
+   "age_hours": 12.8,
+   "importance": 6.646
   },
   {
    "id": "aa7a3ff91ac0",
@@ -74,8 +97,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 13.8,
-   "importance": 6.618
+   "age_hours": 15.7,
+   "importance": 6.564
   },
   {
    "id": "5c65953d93c0",
@@ -97,8 +120,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 17.1,
-   "importance": 6.525
+   "age_hours": 19.0,
+   "importance": 6.471
   },
   {
    "id": "4e9d8ac39ff8",
@@ -120,8 +143,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.5,
-   "importance": 6.459
+   "age_hours": 21.4,
+   "importance": 6.405
   },
   {
    "id": "c0f3d39ca29e",
@@ -143,8 +166,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 21.6,
-   "importance": 6.401
+   "age_hours": 23.5,
+   "importance": 6.347
   },
   {
    "id": "3999cd45bb96",
@@ -166,8 +189,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.0,
-   "importance": 6.388
+   "age_hours": 24.0,
+   "importance": 6.334
   },
   {
    "id": "ece698ab3c8d",
@@ -189,8 +212,100 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 30.1,
-   "importance": 6.164
+   "age_hours": 32.0,
+   "importance": 6.11
+  },
+  {
+   "id": "3681510f3024",
+   "kind": "summary",
+   "headline": "Cyclone Arnab causes estimated forty six billion rupees damage in Andhra Pradesh",
+   "title": "Cyclone Arnab: Andhra Pradesh puts estimated loss at ₹4,600 crore",
+   "summary": "Andhra Pradesh Chief Minister N. Chandrababu Naidu reported an estimated loss of forty six billion rupees following Cyclone Arnab. Naidu conducted aerial surveys and interacted with flood victims in the Krishna and Godavari regions. Seven casualties were recorded while restoration efforts continue. A Central team will visit affected districts on Friday to assess agricultural damage and provide compensation to residents.",
+   "description": "Central team to arrive in Andhra Pradesh to assess cyclone damage October 30; A.P. urges Telangana to deploy 1,000 personnel for power restoration work in the Godavari region",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/646czm/article71641039.ece/alternates/LANDSCAPE_1200/10237_29_10_2026_18_29_19_1_WHATSAPPIMAGE2026_10_29AT60454PM.JPEG",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-andhra-pradesh-puts-estimated-loss-at-4600-crore/article71640441.ece",
+   "published_at": "2026-10-29T17:56:23+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.1,
+   "importance": 5.969
+  },
+  {
+   "id": "4e2b3f7acc01",
+   "kind": "summary",
+   "headline": "Emirati court sentences eight individuals to life imprisonment over Sudan arms supplies",
+   "title": "UAE sentences eight people to life over arms supplies to Sudan’s army",
+   "summary": "An Emirati court sentenced eight people to life imprisonment for arms trafficking and money laundering linked to Sudan's army. The Abu Dhabi Federal Court of Appeal stated the accused operated an illicit network supplying military equipment while forging documents through local companies. The convicts will face deportation after serving their sentences, according to state media reports published Thursday.",
+   "description": "Defendants handed ⁠life sentences amid tensions between Khartoum and Abu Dhabi over Sudan's war and the RSF.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8e5fbf41d6-1787715519.jpg?resize=1920%2C1440",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.aljazeera.com/news/2026/10/29/uae-sentences-eight-people-to-life-over-arms-supplies-to-sudans-army?traffic_source=rss",
+   "published_at": "2026-10-29T17:25:17+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.6,
+   "importance": 5.954
+  },
+  {
+   "id": "5a184a1b8b3d",
+   "kind": "summary",
+   "headline": "Supreme Court expresses concern over widespread violation of firecracker restrictions",
+   "title": "Our orders breached ‘left and right’, Deepavali was a festival of lights before gunpowder, Supreme Court says in firecrackers case",
+   "summary": "The Supreme Court stated that its orders restricting firecrackers during Deepavali had been breached repeatedly. Justices M.M. Sundresh and P.B. Varale emphasized that religious freedom remains subject to public health protections. The bench directed authorities to enhance enforcement against sellers of banned crackers and requested an affidavit detailing preventive measures taken by the government.",
+   "description": "A complete ban may have a ‘spiralling effect’, the court says, asks the Centre and the Delhi government to ensure enforcement against sellers of spurious and banned crackers",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/l5agv6/article71642202.ece/alternates/LANDSCAPE_1200/India_Kashmir_Hindu_Festival_11362.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.thehindu.com/news/national/our-orders-breached-left-and-right-deepavali-was-a-festival-of-lights-before-gunpowder-supreme-court-says-in-firecrackers-case/article71641952.ece",
+   "published_at": "2026-10-29T17:23:16+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.7,
+   "importance": 5.953
+  },
+  {
+   "id": "1ea95bac008e",
+   "kind": "summary",
+   "headline": "Oracle will offer Google Tensor Processing Units through cloud platform from 2027",
+   "title": "Oracle opens cloud to Google’s AI chips, challenging GPU dominance",
+   "summary": "Oracle announced on October 27 at an event in Las Vegas that it will offer Google's Tensor Processing Units through its cloud infrastructure platform starting in 2027. The partnership allows Oracle customers to access Google's custom AI chips alongside other architectures, providing more options for training and deploying artificial intelligence models.",
+   "description": "Oracle Cloud Infrastructure will offer Google’s TPUs from 2027, giving customers another option for AI training and inference",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/business/asgsth/article71640360.ece/alternates/LANDSCAPE_1200/Oracle.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "Business",
+   "category": "Tech",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.thehindu.com/business/Industry/oracle-opens-cloud-to-googles-ai-chips-challenging-gpu-dominance/article71640128.ece",
+   "published_at": "2026-10-29T16:59:12+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 2.1,
+   "importance": 5.942
   },
   {
    "id": "8cb62ef01fe5",
@@ -212,8 +327,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.2,
-   "importance": 5.994
+   "age_hours": 2.2,
+   "importance": 5.94
   },
   {
    "id": "081cf479d9e5",
@@ -235,8 +350,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.5,
-   "importance": 5.986
+   "age_hours": 2.4,
+   "importance": 5.932
   },
   {
    "id": "2d7bbe4f4d94",
@@ -258,8 +373,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.5,
-   "importance": 5.985
+   "age_hours": 2.5,
+   "importance": 5.931
   },
   {
    "id": "c5e975be447b",
@@ -281,8 +396,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.6,
-   "importance": 5.984
+   "age_hours": 2.5,
+   "importance": 5.93
   },
   {
    "id": "51825ec2b776",
@@ -304,8 +419,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.7,
-   "importance": 5.982
+   "age_hours": 2.6,
+   "importance": 5.928
   },
   {
    "id": "bb33e277ad06",
@@ -327,8 +442,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.7,
-   "importance": 5.982
+   "age_hours": 2.6,
+   "importance": 5.928
   },
   {
    "id": "6ce5afb7c490",
@@ -350,8 +465,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.9,
-   "importance": 5.976
+   "age_hours": 2.8,
+   "importance": 5.922
   },
   {
    "id": "45b4ef0b726f",
@@ -373,8 +488,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.1,
-   "importance": 5.969
+   "age_hours": 3.1,
+   "importance": 5.915
   },
   {
    "id": "75ef9e225636",
@@ -396,8 +511,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.3,
-   "importance": 5.963
+   "age_hours": 3.3,
+   "importance": 5.909
   },
   {
    "id": "894b84f8deb3",
@@ -419,8 +534,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.4,
-   "importance": 5.961
+   "age_hours": 3.3,
+   "importance": 5.907
   },
   {
    "id": "b7b408e62f01",
@@ -442,8 +557,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.9,
-   "importance": 5.947
+   "age_hours": 3.9,
+   "importance": 5.893
   },
   {
    "id": "5d1a6c31fcfa",
@@ -465,8 +580,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 2.5,
-   "importance": 5.931
+   "age_hours": 4.4,
+   "importance": 5.877
   },
   {
    "id": "a0b0fd354f2a",
@@ -488,8 +603,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 2.6,
-   "importance": 5.927
+   "age_hours": 4.6,
+   "importance": 5.873
   },
   {
    "id": "a77f10128be7",
@@ -511,8 +626,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 2.8,
-   "importance": 5.921
+   "age_hours": 4.8,
+   "importance": 5.867
   },
   {
    "id": "f7ca6741c469",
@@ -534,8 +649,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.2,
-   "importance": 5.884
+   "age_hours": 6.1,
+   "importance": 5.83
   },
   {
    "id": "a84d8c13baac",
@@ -557,8 +672,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.3,
-   "importance": 5.88
+   "age_hours": 6.2,
+   "importance": 5.827
   },
   {
    "id": "39fee0add44f",
@@ -580,8 +695,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.4,
-   "importance": 5.879
+   "age_hours": 6.3,
+   "importance": 5.825
   },
   {
    "id": "3d3e9948e16c",
@@ -603,8 +718,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.5,
-   "importance": 5.875
+   "age_hours": 6.4,
+   "importance": 5.821
   },
   {
    "id": "1884257a86dc",
@@ -626,8 +741,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.5,
-   "importance": 5.875
+   "age_hours": 6.5,
+   "importance": 5.821
   },
   {
    "id": "70d9f380cac7",
@@ -649,31 +764,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.6,
-   "importance": 5.871
-  },
-  {
-   "id": "1ea95bac008e",
-   "kind": "summary",
-   "headline": "Oracle will offer Google Tensor Processing Units through cloud platform from 2027",
-   "title": "Oracle opens cloud to Google’s AI chips, challenging GPU dominance",
-   "summary": "Oracle announced on October 27 at an event in Las Vegas that it will offer Google's Tensor Processing Units through its cloud infrastructure platform starting in 2027. The partnership allows Oracle customers to access Google's custom AI chips alongside other architectures, providing more options for training and deploying artificial intelligence models.",
-   "description": "Oracle Cloud Infrastructure will offer Google’s TPUs from 2027, giving customers another option for AI training and inference",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/business/asgsth/article71640360.ece/alternates/LANDSCAPE_1200/Oracle.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "Business",
-   "category": "Tech",
-   "type": "news",
-   "significance": 4,
-   "url": "https://www.thehindu.com/business/Industry/oracle-opens-cloud-to-googles-ai-chips-challenging-gpu-dominance/article71640128.ece",
-   "published_at": "2026-10-29T12:07:03+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 5.0,
-   "importance": 5.861
+   "age_hours": 6.6,
+   "importance": 5.817
   },
   {
    "id": "6adef308ab3d",
@@ -695,8 +787,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 5.4,
-   "importance": 5.849
+   "age_hours": 7.4,
+   "importance": 5.795
   },
   {
    "id": "c93d95695d87",
@@ -718,8 +810,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 5.7,
-   "importance": 5.842
+   "age_hours": 7.6,
+   "importance": 5.789
   },
   {
    "id": "96db290cf4e4",
@@ -741,8 +833,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 5.7,
-   "importance": 5.842
+   "age_hours": 7.6,
+   "importance": 5.788
   },
   {
    "id": "20dcedb73ff2",
@@ -764,8 +856,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 5.7,
-   "importance": 5.842
+   "age_hours": 7.6,
+   "importance": 5.788
   },
   {
    "id": "befd9aa704e4",
@@ -787,16 +879,16 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 5.9,
-   "importance": 5.836
+   "age_hours": 7.9,
+   "importance": 5.782
   },
   {
    "id": "687b52daddb5",
    "kind": "summary",
    "headline": "Spanish authorities investigate audio recordings following deadly train collision",
-   "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+   "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
    "summary": "Published audio recordings from Spanish media reveal communications between railway control personnel and train drivers preceding a fatal collision in Spain on Wednesday. The crash involved a state-operated Renfe train and a stationary Iryo service, resulting in at least sixty-nine deaths. According to Spain's transport minister Oscar Puente, investigators are reviewing why the moving train received clearance to proceed despite a technical failure affecting signaling systems.",
-   "description": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+   "description": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
    "long": false,
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dc9/live/708f0da0-d34a-11f1-8a05-59afc813496d.jpg",
    "video_url": null,
@@ -810,8 +902,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 6.0,
-   "importance": 5.833
+   "age_hours": 7.9,
+   "importance": 5.779
   },
   {
    "id": "9b41f58999f2",
@@ -833,8 +925,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 6.3,
-   "importance": 5.826
+   "age_hours": 8.2,
+   "importance": 5.772
   },
   {
    "id": "35e661ac0e6b",
@@ -856,8 +948,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 6.5,
-   "importance": 5.82
+   "age_hours": 8.4,
+   "importance": 5.766
   },
   {
    "id": "8be4f3468164",
@@ -879,8 +971,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 6.8,
-   "importance": 5.812
+   "age_hours": 8.7,
+   "importance": 5.758
   },
   {
    "id": "b0ca121b3040",
@@ -902,8 +994,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 6.8,
-   "importance": 5.812
+   "age_hours": 8.7,
+   "importance": 5.758
   },
   {
    "id": "bda2fdb52382",
@@ -925,8 +1017,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 6.8,
-   "importance": 5.811
+   "age_hours": 8.8,
+   "importance": 5.757
   },
   {
    "id": "e00c31dbf534",
@@ -948,8 +1040,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 6.8,
-   "importance": 5.81
+   "age_hours": 8.8,
+   "importance": 5.756
   },
   {
    "id": "d210fdcb8596",
@@ -971,8 +1063,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 7.1,
-   "importance": 5.803
+   "age_hours": 9.0,
+   "importance": 5.749
   },
   {
    "id": "9cd5509199bf",
@@ -994,8 +1086,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 7.1,
-   "importance": 5.802
+   "age_hours": 9.1,
+   "importance": 5.748
   },
   {
    "id": "2135950ee65a",
@@ -1017,8 +1109,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 7.4,
-   "importance": 5.796
+   "age_hours": 9.3,
+   "importance": 5.742
   },
   {
    "id": "d57fc58a2469",
@@ -1040,8 +1132,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 7.6,
-   "importance": 5.789
+   "age_hours": 9.5,
+   "importance": 5.735
   },
   {
    "id": "ed7ab4200989",
@@ -1063,8 +1155,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.0,
-   "importance": 5.777
+   "age_hours": 10.0,
+   "importance": 5.724
   },
   {
    "id": "b93096b58816",
@@ -1086,8 +1178,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.3,
-   "importance": 5.77
+   "age_hours": 10.2,
+   "importance": 5.716
   },
   {
    "id": "985c1afacb3c",
@@ -1109,8 +1201,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.3,
-   "importance": 5.768
+   "age_hours": 10.3,
+   "importance": 5.714
   },
   {
    "id": "9a88a1cd2cbb",
@@ -1132,8 +1224,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.6,
-   "importance": 5.762
+   "age_hours": 10.5,
+   "importance": 5.708
   },
   {
    "id": "658964aa4596",
@@ -1155,8 +1247,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.7,
-   "importance": 5.757
+   "age_hours": 10.7,
+   "importance": 5.703
   },
   {
    "id": "938fb5d1522a",
@@ -1178,8 +1270,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.8,
-   "importance": 5.756
+   "age_hours": 10.7,
+   "importance": 5.702
   },
   {
    "id": "03fc71812921",
@@ -1201,8 +1293,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.1,
-   "importance": 5.747
+   "age_hours": 11.0,
+   "importance": 5.694
   },
   {
    "id": "403bb8d4ba20",
@@ -1224,8 +1316,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.2,
-   "importance": 5.743
+   "age_hours": 11.2,
+   "importance": 5.689
   },
   {
    "id": "1ef8f758f511",
@@ -1247,8 +1339,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.3,
-   "importance": 5.743
+   "age_hours": 11.2,
+   "importance": 5.689
   },
   {
    "id": "c797c2beae77",
@@ -1270,8 +1362,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.5,
-   "importance": 5.735
+   "age_hours": 11.5,
+   "importance": 5.681
   },
   {
    "id": "9a87bfeb70b2",
@@ -1293,8 +1385,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.7,
-   "importance": 5.73
+   "age_hours": 11.6,
+   "importance": 5.677
   },
   {
    "id": "537383d80819",
@@ -1316,8 +1408,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.7,
-   "importance": 5.73
+   "age_hours": 11.7,
+   "importance": 5.676
   },
   {
    "id": "0fb880f125f2",
@@ -1339,8 +1431,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.8,
-   "importance": 5.729
+   "age_hours": 11.7,
+   "importance": 5.675
   },
   {
    "id": "d5fcb96e2ab8",
@@ -1362,8 +1454,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 10.1,
-   "importance": 5.719
+   "age_hours": 12.0,
+   "importance": 5.665
   },
   {
    "id": "b74ccf3e0154",
@@ -1385,8 +1477,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 10.5,
-   "importance": 5.707
+   "age_hours": 12.5,
+   "importance": 5.653
   },
   {
    "id": "4b512f253636",
@@ -1408,8 +1500,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 10.6,
-   "importance": 5.705
+   "age_hours": 12.6,
+   "importance": 5.651
   },
   {
    "id": "ee186b92d804",
@@ -1431,8 +1523,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 46.7,
-   "importance": 5.704
+   "age_hours": 48.6,
+   "importance": 5.65
   },
   {
    "id": "775a263f062e",
@@ -1454,8 +1546,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 10.7,
-   "importance": 5.703
+   "age_hours": 12.6,
+   "importance": 5.649
   },
   {
    "id": "9ddd05ecb2c0",
@@ -1477,8 +1569,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 10.9,
-   "importance": 5.697
+   "age_hours": 12.8,
+   "importance": 5.643
   },
   {
    "id": "a5b8d49bb0b8",
@@ -1500,8 +1592,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 11.0,
-   "importance": 5.694
+   "age_hours": 12.9,
+   "importance": 5.64
   },
   {
    "id": "38c5c7239428",
@@ -1523,8 +1615,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 11.1,
-   "importance": 5.692
+   "age_hours": 13.0,
+   "importance": 5.638
   },
   {
    "id": "15f1b1f7b417",
@@ -1546,8 +1638,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 11.4,
-   "importance": 5.684
+   "age_hours": 13.3,
+   "importance": 5.63
   },
   {
    "id": "e64fcecb5eb2",
@@ -1569,8 +1661,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 11.8,
-   "importance": 5.674
+   "age_hours": 13.7,
+   "importance": 5.62
   },
   {
    "id": "f9a87d043fd1",
@@ -1592,8 +1684,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 12.0,
-   "importance": 5.666
+   "age_hours": 14.0,
+   "importance": 5.612
   },
   {
    "id": "3d165b65507e",
@@ -1615,8 +1707,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 13.9,
-   "importance": 5.614
+   "age_hours": 15.9,
+   "importance": 5.56
   },
   {
    "id": "15817e100da6",
@@ -1638,8 +1730,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.3,
-   "importance": 5.602
+   "age_hours": 16.3,
+   "importance": 5.548
   },
   {
    "id": "afa317cde47e",
@@ -1661,8 +1753,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.4,
-   "importance": 5.6
+   "age_hours": 16.3,
+   "importance": 5.546
   },
   {
    "id": "4a29fda1aa0f",
@@ -1684,8 +1776,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 15.1,
-   "importance": 5.581
+   "age_hours": 17.0,
+   "importance": 5.527
   },
   {
    "id": "1588baceb499",
@@ -1707,8 +1799,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 15.6,
-   "importance": 5.566
+   "age_hours": 17.6,
+   "importance": 5.512
   },
   {
    "id": "84a77a1d5222",
@@ -1730,8 +1822,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 15.9,
-   "importance": 5.56
+   "age_hours": 17.8,
+   "importance": 5.506
   },
   {
    "id": "024362b0eb15",
@@ -1753,8 +1845,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 15.9,
-   "importance": 5.559
+   "age_hours": 17.8,
+   "importance": 5.505
   },
   {
    "id": "e11fc8fc994f",
@@ -1776,8 +1868,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 16.5,
-   "importance": 5.541
+   "age_hours": 18.5,
+   "importance": 5.487
   },
   {
    "id": "89f76ea45baa",
@@ -1799,8 +1891,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 16.6,
-   "importance": 5.54
+   "age_hours": 18.5,
+   "importance": 5.486
   },
   {
    "id": "0898fb9fce38",
@@ -1822,8 +1914,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 17.9,
-   "importance": 5.502
+   "age_hours": 19.9,
+   "importance": 5.448
   },
   {
    "id": "c997ada4c43b",
@@ -1845,8 +1937,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.7,
-   "importance": 5.452
+   "age_hours": 21.7,
+   "importance": 5.398
   },
   {
    "id": "d40c52ba3492",
@@ -1868,8 +1960,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.2,
-   "importance": 5.438
+   "age_hours": 22.2,
+   "importance": 5.384
   },
   {
    "id": "cf4de280e000",
@@ -1891,8 +1983,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.8,
-   "importance": 5.423
+   "age_hours": 22.7,
+   "importance": 5.37
   },
   {
    "id": "fc7d1d71bde9",
@@ -1914,8 +2006,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 21.1,
-   "importance": 5.415
+   "age_hours": 23.0,
+   "importance": 5.361
   },
   {
    "id": "ec86b81cf420",
@@ -1937,8 +2029,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 21.9,
-   "importance": 5.393
+   "age_hours": 23.8,
+   "importance": 5.339
   },
   {
    "id": "22c43f17fa5f",
@@ -1960,8 +2052,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 21.9,
-   "importance": 5.393
+   "age_hours": 23.8,
+   "importance": 5.339
   },
   {
    "id": "f5fab88b263d",
@@ -1983,8 +2075,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 21.9,
-   "importance": 5.393
+   "age_hours": 23.8,
+   "importance": 5.339
   },
   {
    "id": "e23ba5b81f91",
@@ -2006,8 +2098,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 21.9,
-   "importance": 5.392
+   "age_hours": 23.8,
+   "importance": 5.338
   },
   {
    "id": "24683ee2049a",
@@ -2029,8 +2121,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.1,
-   "importance": 5.387
+   "age_hours": 24.0,
+   "importance": 5.333
   },
   {
    "id": "239472e3baa2",
@@ -2052,8 +2144,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.1,
-   "importance": 5.386
+   "age_hours": 24.0,
+   "importance": 5.332
   },
   {
    "id": "d2850f59aa05",
@@ -2075,8 +2167,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.3,
-   "importance": 5.379
+   "age_hours": 24.3,
+   "importance": 5.325
   },
   {
    "id": "2e81a964f426",
@@ -2098,8 +2190,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.6,
-   "importance": 5.372
+   "age_hours": 24.5,
+   "importance": 5.318
   },
   {
    "id": "edcf9f1b26b2",
@@ -2121,8 +2213,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.2,
-   "importance": 5.356
+   "age_hours": 25.1,
+   "importance": 5.302
   },
   {
    "id": "3463dcd376be",
@@ -2144,8 +2236,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.3,
-   "importance": 5.352
+   "age_hours": 25.3,
+   "importance": 5.298
   },
   {
    "id": "5deec064c22d",
@@ -2167,8 +2259,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.6,
-   "importance": 5.344
+   "age_hours": 25.5,
+   "importance": 5.29
   },
   {
    "id": "d851d9084364",
@@ -2190,8 +2282,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.7,
-   "importance": 5.342
+   "age_hours": 25.6,
+   "importance": 5.288
   },
   {
    "id": "e6569ef9a816",
@@ -2213,8 +2305,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.4,
-   "importance": 5.323
+   "age_hours": 26.3,
+   "importance": 5.269
   },
   {
    "id": "ca826c4c6bd3",
@@ -2236,8 +2328,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.4,
-   "importance": 5.323
+   "age_hours": 26.3,
+   "importance": 5.269
   },
   {
    "id": "1447c217577f",
@@ -2259,8 +2351,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.5,
-   "importance": 5.318
+   "age_hours": 26.5,
+   "importance": 5.265
   },
   {
    "id": "32980ef41d09",
@@ -2282,8 +2374,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.6,
-   "importance": 5.318
+   "age_hours": 26.5,
+   "importance": 5.264
   },
   {
    "id": "57d488816e35",
@@ -2305,8 +2397,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.8,
-   "importance": 5.312
+   "age_hours": 26.7,
+   "importance": 5.258
   },
   {
    "id": "42cec9020ca8",
@@ -2328,8 +2420,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.8,
-   "importance": 5.31
+   "age_hours": 26.8,
+   "importance": 5.256
   },
   {
    "id": "e9f5c31dd49c",
@@ -2351,8 +2443,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.9,
-   "importance": 5.308
+   "age_hours": 26.9,
+   "importance": 5.254
   },
   {
    "id": "f0a8e099cc3e",
@@ -2374,8 +2466,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.9,
-   "importance": 5.307
+   "age_hours": 26.9,
+   "importance": 5.253
   },
   {
    "id": "3f670249f747",
@@ -2397,8 +2489,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.9,
-   "importance": 5.307
+   "age_hours": 26.9,
+   "importance": 5.253
   },
   {
    "id": "41d62a185cb6",
@@ -2420,8 +2512,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 25.0,
-   "importance": 5.305
+   "age_hours": 27.0,
+   "importance": 5.251
   },
   {
    "id": "6d8aed2ea9b8",
@@ -2443,8 +2535,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 26.1,
-   "importance": 5.275
+   "age_hours": 28.0,
+   "importance": 5.221
   },
   {
    "id": "e3c578f1e004",
@@ -2466,8 +2558,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 26.3,
-   "importance": 5.268
+   "age_hours": 28.3,
+   "importance": 5.214
   },
   {
    "id": "f876ecc3b9e0",
@@ -2489,8 +2581,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 26.6,
-   "importance": 5.261
+   "age_hours": 28.5,
+   "importance": 5.208
   },
   {
    "id": "57ec599a8c0d",
@@ -2512,8 +2604,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 26.7,
-   "importance": 5.259
+   "age_hours": 28.6,
+   "importance": 5.205
   },
   {
    "id": "dd6b63718d05",
@@ -2535,8 +2627,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 27.3,
-   "importance": 5.241
+   "age_hours": 29.3,
+   "importance": 5.187
   },
   {
    "id": "478f321a9856",
@@ -2558,8 +2650,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 28.2,
-   "importance": 5.216
+   "age_hours": 30.2,
+   "importance": 5.162
   },
   {
    "id": "665f080ebc25",
@@ -2581,8 +2673,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 28.3,
-   "importance": 5.215
+   "age_hours": 30.2,
+   "importance": 5.161
   },
   {
    "id": "9e59c0ad5ba4",
@@ -2604,8 +2696,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 28.8,
-   "importance": 5.201
+   "age_hours": 30.7,
+   "importance": 5.147
   },
   {
    "id": "ac7681a907dc",
@@ -2627,8 +2719,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 29.1,
-   "importance": 5.192
+   "age_hours": 31.0,
+   "importance": 5.138
   },
   {
    "id": "f5b8933fc304",
@@ -2650,8 +2742,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 29.3,
-   "importance": 5.186
+   "age_hours": 31.3,
+   "importance": 5.132
   },
   {
    "id": "3b19e1547bcf",
@@ -2673,8 +2765,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 29.3,
-   "importance": 5.185
+   "age_hours": 31.3,
+   "importance": 5.131
   },
   {
    "id": "9c6684c4371e",
@@ -2696,8 +2788,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 29.4,
-   "importance": 5.182
+   "age_hours": 31.4,
+   "importance": 5.129
   },
   {
    "id": "764acdca1ab9",
@@ -2719,8 +2811,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 29.4,
-   "importance": 5.182
+   "age_hours": 31.4,
+   "importance": 5.128
   },
   {
    "id": "e1dc7c44a9f0",
@@ -2742,8 +2834,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 29.6,
-   "importance": 5.179
+   "age_hours": 31.5,
+   "importance": 5.125
   },
   {
    "id": "fba0feaf5ca6",
@@ -2765,8 +2857,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 30.4,
-   "importance": 5.155
+   "age_hours": 32.4,
+   "importance": 5.101
   },
   {
    "id": "f0f9d42d04bc",
@@ -2788,8 +2880,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 30.4,
-   "importance": 5.154
+   "age_hours": 32.4,
+   "importance": 5.101
   },
   {
    "id": "29a407ace633",
@@ -2811,8 +2903,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 30.5,
-   "importance": 5.153
+   "age_hours": 32.4,
+   "importance": 5.099
   },
   {
    "id": "e7ddc6e3d1c0",
@@ -2834,8 +2926,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 30.5,
-   "importance": 5.152
+   "age_hours": 32.5,
+   "importance": 5.098
   },
   {
    "id": "f81bf98eb094",
@@ -2857,8 +2949,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 30.6,
-   "importance": 5.15
+   "age_hours": 32.5,
+   "importance": 5.096
   },
   {
    "id": "159afd01932d",
@@ -2880,8 +2972,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 30.6,
-   "importance": 5.15
+   "age_hours": 32.5,
+   "importance": 5.096
   },
   {
    "id": "a8a55a9b5ff8",
@@ -2903,8 +2995,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 31.4,
-   "importance": 5.128
+   "age_hours": 33.3,
+   "importance": 5.074
   },
   {
    "id": "34d73bfabbb9",
@@ -2926,8 +3018,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 31.5,
-   "importance": 5.125
+   "age_hours": 33.5,
+   "importance": 5.071
   },
   {
    "id": "a34ced614104",
@@ -2949,8 +3041,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 31.7,
-   "importance": 5.12
+   "age_hours": 33.6,
+   "importance": 5.066
   },
   {
    "id": "329db33fd1f4",
@@ -2972,8 +3064,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 32.9,
-   "importance": 5.087
+   "age_hours": 34.8,
+   "importance": 5.033
   },
   {
    "id": "486bcef73d9c",
@@ -2995,8 +3087,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 32.9,
-   "importance": 5.087
+   "age_hours": 34.8,
+   "importance": 5.033
   },
   {
    "id": "46fd82656d13",
@@ -3018,8 +3110,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 33.0,
-   "importance": 5.083
+   "age_hours": 34.9,
+   "importance": 5.029
   },
   {
    "id": "8c5364f55668",
@@ -3041,8 +3133,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 33.1,
-   "importance": 5.079
+   "age_hours": 35.1,
+   "importance": 5.025
   },
   {
    "id": "166dfc0891d5",
@@ -3064,8 +3156,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 33.2,
-   "importance": 5.078
+   "age_hours": 35.1,
+   "importance": 5.024
   },
   {
    "id": "95bcc36bb7cd",
@@ -3087,8 +3179,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 33.5,
-   "importance": 5.068
+   "age_hours": 35.5,
+   "importance": 5.015
   },
   {
    "id": "21f0d05744eb",
@@ -3110,8 +3202,215 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 33.6,
-   "importance": 5.066
+   "age_hours": 35.6,
+   "importance": 5.012
+  },
+  {
+   "id": "2a1a8a7c88a0",
+   "kind": "summary",
+   "headline": "Google adds direct document generation and editing features inside Gemini chats",
+   "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+   "summary": "Google introduced new file capabilities allowing all users to generate, preview, and edit various formats directly within Gemini chats. The update enables users to modify documents in full-screen mode and prompt the assistant for changes without leaving the application. While PDF features are available on both web and mobile, other formats currently remain limited to the web version.",
+   "description": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in […]",
+   "long": false,
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK255_Google_Gemini_B_474198.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+   "video_url": "https://www.youtube.com/embed/dJ-SIBF1nJQ",
+   "source": "The Verge",
+   "section": "AI",
+   "category": "Tech",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+   "published_at": "2026-10-29T18:45:31+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.3,
+   "importance": 4.991
+  },
+  {
+   "id": "9f3848a2cc5a",
+   "kind": "summary",
+   "headline": "Texas Republican group files federal lawsuit seeking to block state election certification",
+   "title": "Texas Republican group seeks to block certification of state’s election",
+   "summary": "The Potter County Republican Party filed a lawsuit asking a federal judge to halt the certification of upcoming Texas midterm elections. The plaintiffs cited potential artificial intelligence interference and Chinese-made components in voting machines. They requested a complete hand count of paper ballots from every precinct, while state officials declined to comment on the ongoing legal challenge.",
+   "description": "Republicans in a Texas county have filed a lawsuit asking for ballots in the state's midterm races to be hand-counted.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-03-02T210126Z_802057580_RC2JWJAT6J85_RTRMADP_3_USA-ELECTION-TEXAS-1-1-1779863550.jpg?resize=1200%2C630",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.aljazeera.com/news/2026/10/29/texas-republican-group-seeks-to-block-certification-of-states-election?traffic_source=rss",
+   "published_at": "2026-10-29T18:40:01+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.4,
+   "importance": 4.989
+  },
+  {
+   "id": "585e162bc446",
+   "kind": "summary",
+   "headline": "Enforcement Directorate searches cryptocurrency platforms over alleged FEMA violations",
+   "title": "ED searches premises linked to Mudrex, Instadapp over alleged ₹4,600-crore FEMA violations",
+   "summary": "The Directorate of Enforcement conducted searches at multiple premises in Bengaluru and Madhya Pradesh on October 27, 2026, targeting cryptocurrency platforms Mudrex and Instadapp. According to the agency, the investigation involves unauthorized cross-border money transfers exceeding four thousand six hundred crore rupees utilizing stablecoins. Authorities stated that entities bypassed authorized banking channels through virtual digital assets, and the ongoing inquiry centers on alleged Foreign Exchange Management Act violations.",
+   "description": "",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/jsiy8h/article71642307.ece/alternates/LANDSCAPE_1200/ED-raids-againsG4EG4E9K6.4.jpg.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "Business",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/karnataka/ed-searches-mudrex-instadapp-linked-premises-in-bengaluru-and-madhya-pradesh-over-alleged-4600-crore-fema-violations/article71640629.ece",
+   "published_at": "2026-10-29T18:38:57+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.4,
+   "importance": 4.988
+  },
+  {
+   "id": "bf90c9b34d56",
+   "kind": "summary",
+   "headline": "Directorate of Vigilance and Anti-Corruption searches former minister K.N. Nehru's residence",
+   "title": "DVAC searches premises linked to ex-Minister K.N. Nehru",
+   "summary": "Anti-corruption officials in Tamil Nadu searched the Tiruchi residence of former minister K.N. Nehru on Thursday as part of an investigation into an alleged cash-for-jobs scam. The Directorate of Vigilance and Anti-Corruption launched operations across 25 locations following a Madras High Court clearance. DMK chief M.K. Stalin condemned the raids as politically motivated vendetta tactics ahead of upcoming by-elections.",
+   "description": "The search at Mr. Nehru’s residence, carried out by a team headed by a Deputy Superintendent of Police, began around 7 a.m.",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/ntke69/article71638842.ece/alternates/LANDSCAPE_1200/DVAC-books-K.N.G1JGGH5G7.3.jpg.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/dvac-launches-search-at-ex-minister-kn-nehrus-residence-in-tiruchi/article71638830.ece",
+   "published_at": "2026-10-29T18:35:07+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.5,
+   "importance": 4.987
+  },
+  {
+   "id": "5d20d67af8b3",
+   "kind": "summary",
+   "headline": "National Investigation Agency takes over synagogue arson probe in Kerala",
+   "title": "NIA takes over probe into alleged arson attack at Kadavumbhagam synagogue in Keralam",
+   "summary": "The National Investigation Agency has assumed control of the investigation into an arson attack at the Kadavumbhagam Synagogue in Ernakulam following a directive from the Union Home Ministry. Kochi City police previously invoked the Unlawful Activities Prevention Act against the primary suspect, Ebin Paul. Investigators are examining potential international terror links, cryptocurrency transactions, and recovered communications referencing sensitive religious sites.",
+   "description": "Police cite suspected cryptocurrency payments, alleged reconnaissance videos and possible international terror links as grounds for a wider probe",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/gtupd8/article71642161.ece/alternates/LANDSCAPE_1200/SIT-formed-to-pG80GLQ30G.3.jpg.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/kerala/nia-takes-over-probe-into-alleged-arson-attack-at-kadavumbhagam-synagogue/article71641712.ece",
+   "published_at": "2026-10-29T18:32:47+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.5,
+   "importance": 4.986
+  },
+  {
+   "id": "45d293aa9c63",
+   "kind": "summary",
+   "headline": "Foreign Secretary Vikram Misri to visit Kathmandu for bilateral talks",
+   "title": "Foreign Secretary to visit Kathmandu as plans get underway for Nepal PM’s India visit",
+   "summary": "Indian Foreign Secretary Vikram Misri is scheduled to travel to Kathmandu on November 4, 2026, alongside ambassador Sudhakar Dalela. The visit aims to finalize preparations for Nepalese Prime Minister Balendra Shah's upcoming trip to India. Discussions will address bilateral cooperation, disaster management regarding the Bhote Koshi River floods, and the appointment process for new diplomatic envoys following recent political changes in Nepal.",
+   "description": "Nepal PM Balendra Shah is expected to visit Delhi by the end of the year, in what would be his first bilateral visit abroad, as he has been focused on domestic issues",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/bhvv04/article71642272.ece/alternates/LANDSCAPE_1200/PTI09_26_2026_000058B.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/foreign-secretary-to-visit-kathmandu-as-plans-get-underway-for-nepal-pms-india-visit/article71641874.ece",
+   "published_at": "2026-10-29T18:31:38+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.5,
+   "importance": 4.985
+  },
+  {
+   "id": "bd98aad53fe4",
+   "kind": "summary",
+   "headline": "Finnish police investigate Google over data centre environmental damage",
+   "title": "Finland launches criminal probe of suspected environmental damage by Google",
+   "summary": "Finnish authorities have initiated a criminal investigation into Tuike Finland, a local subsidiary of Alphabet’s Google, concerning suspected environmental violations at a data centre construction site near Muhos. Police are examining whether forest clearing and drainage activities breached the Water Act prior to required assessments. The probe follows a fifteen billion dollar infrastructure investment announcement, prompting local public scrutiny regarding water management and regulatory compliance.",
+   "description": "The US tech giant is investing $15bn in a huge new data centre project in northern Finland.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae35000-1793282048.jpg?resize=1920%2C1440",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "Tech",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.aljazeera.com/economy/2026/10/29/finland-launches-criminal-probe-of-suspected-environmental-damage-by-google?traffic_source=rss",
+   "published_at": "2026-10-29T18:24:13+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.7,
+   "importance": 4.982
+  },
+  {
+   "id": "301bb93b4aea",
+   "kind": "summary",
+   "headline": "India defeats China in Asian Champions Trophy hockey match",
+   "title": "ACT: India registers hard-fought victory over a spirited China",
+   "summary": "The Indian men's hockey team secured a five to two victory against China at the Asian Champions Trophy on Thursday. Sukhjeet Singh and Harmanpreet Singh scored multiple goals, supported by Jugraj Singh, to overcome a structured Chinese defense. Despite a competitive challenge and penalty corner conversions from Yang Peng and Chen Chongcong, India maintained offensive momentum to claim the win under coach Craig Fulton.",
+   "description": "Sukhjeet and skipper Harmanpreet score a brace each for the home team",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/8ohftn/article71642179.ece/alternates/LANDSCAPE_1200/TH30-HARMANPREET.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "Sport",
+   "category": "Sports",
+   "type": "sport_result",
+   "significance": 3,
+   "url": "https://www.thehindu.com/sport/hockey/act-india-registers-hard-fought-victory-over-a-spirited-china/article71642185.ece",
+   "published_at": "2026-10-29T18:18:24+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.8,
+   "importance": 4.979
+  },
+  {
+   "id": "4aa05f39b008",
+   "kind": "summary",
+   "headline": "Albanian opposition members storm parliament and trigger smoke bombs",
+   "title": "Albanian opposition storms parliament, sets off flares and smoke bombs",
+   "summary": "Lawmakers in Albania disrupted a parliamentary session on Thursday by setting off smoke bombs and flares in Tirana. The protest was led by Sali Berisha, head of the Democratic Party of Albania, in support of demonstrators demanding the resignation of Prime Minister Edi Rama. Rama has faced months of anti-government protests triggered by economic stagnation and a luxury resort project.",
+   "description": "Opposition lawmakers disrupt parliament session, accusing prime minister of downplaying ongoing antigovernment protests.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ae3695e9d7e-1793288542.jpg?resize=1920%2C1440",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.aljazeera.com/news/2026/10/29/albanian-opposition-storms-parliament-sets-off-flares-and-smoke-bombs?traffic_source=rss",
+   "published_at": "2026-10-29T18:11:46+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.9,
+   "importance": 4.976
   },
   {
    "id": "8b03954589ae",
@@ -3133,8 +3432,123 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 35.0,
-   "importance": 5.028
+   "age_hours": 36.9,
+   "importance": 4.974
+  },
+  {
+   "id": "99ca86a94fa2",
+   "kind": "summary",
+   "headline": "India Meteorological Department warns of heavy rainfall in coastal Andhra Pradesh",
+   "title": "Coastal Andhra Pradesh may receive heavy rain from November 1 as low-pressure area brewing over Bay of Bengal",
+   "summary": "Following Cyclone Arnab, the India Meteorological Department announced that coastal Andhra Pradesh could experience another spell of heavy rain beginning November 1, 2026. A low-pressure area formed over the south Andaman Sea is expected to intensify into a depression and move northwest toward the coast by November 2. Officials noted that several districts remain rain-deficient from the previous storm.",
+   "description": "Formed over Andaman Sea, the low-pressure area may strengthen over the next three days and approach Andhra Pradesh coast, says IMD",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/oaqsei/article71641282.ece/alternates/LANDSCAPE_1200/02Sea.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/coastal-andhra-pradesh-may-receive-heavy-rain-from-november-1-as-low-pressure-area-brewing-over-bay-of-bengal-revised-copy-for-print/article71640142.ece",
+   "published_at": "2026-10-29T17:59:45+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.1,
+   "importance": 4.97
+  },
+  {
+   "id": "68edd242689d",
+   "kind": "summary",
+   "headline": "Supreme Court orders NCLT and NCLAT leaders to submit proposals",
+   "title": "Corporate Affairs Ministry has ‘hijacked’ staff appointments in NCLT: Supreme Court",
+   "summary": "The Supreme Court of India directed the presidents of the National Company Law Tribunal and the National Company Law Appellate Tribunal to submit comprehensive infrastructure and staffing proposals within four weeks. The directive follows concerns over collapsing facilities at the NCLT Principal Bench and severe staffing shortages affecting daily operations.",
+   "description": "The court said the power to make staff appointments must remain with the NCLT president, and an employer-employee relationship must prevail between staff members and the tribunal",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/e6ea7c/article71639896.ece/alternates/LANDSCAPE_1200/NCLT.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/sc-nclat-nclt-presidents-proposals-on-infrastructure-staff-requirements/article71639787.ece",
+   "published_at": "2026-10-29T17:51:56+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.2,
+   "importance": 4.967
+  },
+  {
+   "id": "9293ff448458",
+   "kind": "summary",
+   "headline": "Uttar Pradesh bars violent system-change protesters from state government jobs",
+   "title": "No government jobs in Uttar Pradesh for protesters ‘involved in regime change through violence’",
+   "summary": "The Uttar Pradesh government updated its direct recruitment rules to disqualify individuals associated with organisations seeking to alter the established political system through violence. Issued by Principal Secretary M Devaraj, the revised character verification framework applies across government departments and local bodies, drawing criticism from opposition parties including the Samajwadi Party and Congress.",
+   "description": "The revised guidelines will apply to character verification in government departments, public sector corporations, boards and urban and rural local bodies; the government added, however, that political ideology alone cannot be grounds for disqualification",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/bn0b5z/article71641429.ece/alternates/LANDSCAPE_1200/PTI10_26_2026_000513B.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/uttar-pradesh/no-government-jobs-in-uttar-pradesh-for-protesters-involved-in-regime-change-through-violence/article71641261.ece",
+   "published_at": "2026-10-29T17:50:05+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.2,
+   "importance": 4.966
+  },
+  {
+   "id": "4b72ad82c0e4",
+   "kind": "summary",
+   "headline": "Uttar Pradesh MLC election results provide lessons for BJP",
+   "title": "Lessons for the BJP from Uttar Pradesh MLC election",
+   "summary": "The Bharatiya Janata Party secured six out of eleven contested seats in the legislative council elections across Graduates and Teachers constituencies. Published on October 29, 2026, the outcomes indicate potential challenges for the ruling party ahead of the upcoming Assembly election as leadership considers significant changes among sitting members of the legislative assembly.",
+   "description": "The first big takeaway for the BJP is that the results of the MLC election demonstrate the 2024 Lok Sabha results may not be a fluke, when the SP, with 37 seats, brought down the BJP’s handsome tallies of 71 seats in 2014 and 62 seats in 2019 to 33 seats in 2024",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/5i9en5/article71640553.ece/alternates/LANDSCAPE_1200/PTI10_24_2026_000314B.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "analysis",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/uttar-pradesh/lessons-for-the-bjp-from-uttar-pradesh-mlc-election/article71640197.ece",
+   "published_at": "2026-10-29T17:40:47+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.4,
+   "importance": 4.961
+  },
+  {
+   "id": "70e6e19fbdf2",
+   "kind": "summary",
+   "headline": "Samajwadi Party wins five Legislative Council seats in Uttar Pradesh polls",
+   "title": "U.P. MLC poll results mark a defeat of BJP’s anti-education policies: Opposition leaders",
+   "summary": "The opposition INDIA bloc declared the Samajwadi Party securing five of 11 Legislative Council seats in Uttar Pradesh as a rejection of Bharatiya Janata Party policies. Samajwadi Party chief Akhilesh Yadav stated the outcome signals growing public discontent ahead of the 2027 assembly elections. Meanwhile, Congress officials alleged that administrative delays during vote counting favoured the ruling party.",
+   "description": "INDIA bloc leaders say SP victory in five of 11 Legislative Council seats provides a boost to the Opposition ahead of U.P.’s 2027 Assembly election; ‘Double defeat of the double engine,’ says SP chief",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/jo68me/article71642222.ece/alternates/LANDSCAPE_1200/PTI10_27_2026_000306A.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-mlc-poll-results-mark-a-defeat-of-bjps-anti-education-policies-opposition-leaders/article71641269.ece",
+   "published_at": "2026-10-29T17:35:10+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.5,
+   "importance": 4.959
   },
   {
    "id": "8d0f3871e953",
@@ -3156,8 +3570,31 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 35.6,
-   "importance": 5.011
+   "age_hours": 37.5,
+   "importance": 4.958
+  },
+  {
+   "id": "7e158bdeb7b5",
+   "kind": "summary",
+   "headline": "Pakistani court sentences human rights lawyers to ten years in prison",
+   "title": "Pakistan rights activist Imaan Mazari and husband jailed for 10 years",
+   "summary": "An antiterrorism court in Rawalpindi sentenced human rights lawyer Imaan Mazari and her husband, Hadi Ali Chattha, to ten years in prison on Thursday. Judge Tahir Abbas Sipra convicted the couple for security breaches involving England cricket team route barriers in Islamabad during October 2024. Relatives and Amnesty International criticized the trial as politically motivated and lacking due process.",
+   "description": "Couple say they are 'prisoners of conscience' being made an example of by Pakistan's military-backed authorities.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/HVyqlYFbYAAb_2V-1793287798.jpg?resize=1200%2C630",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.aljazeera.com/news/2026/10/29/pakistan-rights-activist-imaan-mazari-and-husband-jailed-for-10-years?traffic_source=rss",
+   "published_at": "2026-10-29T17:28:18+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.6,
+   "importance": 4.956
   },
   {
    "id": "37d286960b0f",
@@ -3179,8 +3616,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.1,
-   "importance": 4.998
+   "age_hours": 2.0,
+   "importance": 4.944
   },
   {
    "id": "853bc993bedc",
@@ -3202,8 +3639,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.1,
-   "importance": 4.996
+   "age_hours": 2.1,
+   "importance": 4.943
   },
   {
    "id": "3ed949b8e8b8",
@@ -3225,8 +3662,31 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.2,
-   "importance": 4.994
+   "age_hours": 2.1,
+   "importance": 4.94
+  },
+  {
+   "id": "971b293313ab",
+   "kind": "summary",
+   "headline": "Indian pharmaceutical exports grow to sixteen billion dollars in first half",
+   "title": "Pharma H1 exports up 5% to $16.14-bn. as Europe offsets U.S. slowdown",
+   "summary": "India's pharmaceutical exports rose 4.90 percent year-on-year to $16.14 billion in the first half of fiscal year 2027, according to the Pharmaceuticals Export Promotion Council of India. Increased demand from Europe, Latin America, and ASEAN markets compensated for a 2.05 percent decline in shipments to North America. Drug formulations and biologicals comprised the largest export category at $11.91 billion.",
+   "description": "Market diversification strategy pays as exports to Europe, Africa, LAC and ASEAN gain momentum",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/okn45l/article71642079.ece/alternates/LANDSCAPE_1200/IMG_CCI_UDHindu_KSL_U206_2_1_4I9S95H2.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "Business",
+   "category": "Business",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/business/Industry/pharma-h1-exports-up-5-to-1614-bn-as-europe-offsets-us-slowdown/article71641947.ece",
+   "published_at": "2026-10-29T16:50:50+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 2.2,
+   "importance": 4.938
   },
   {
    "id": "a75122b43e55",
@@ -3248,8 +3708,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.4,
-   "importance": 4.988
+   "age_hours": 2.4,
+   "importance": 4.934
   },
   {
    "id": "c9c52dac99b8",
@@ -3271,8 +3731,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.5,
-   "importance": 4.987
+   "age_hours": 2.4,
+   "importance": 4.933
   },
   {
    "id": "03825844bc03",
@@ -3285,7 +3745,7 @@
    "image": "https://th-i.thgim.com/public/incoming/1zff13/article71642074.ece/alternates/LANDSCAPE_1200/20260926278L.jpg",
    "video_url": null,
    "source": "The Hindu",
-   "section": "National",
+   "section": "Business",
    "category": "Business",
    "type": "news",
    "significance": 3,
@@ -3294,8 +3754,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.5,
-   "importance": 4.987
+   "age_hours": 2.4,
+   "importance": 4.933
   },
   {
    "id": "d113c149be03",
@@ -3317,8 +3777,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.6,
-   "importance": 4.984
+   "age_hours": 2.5,
+   "importance": 4.93
   },
   {
    "id": "e5e40bfa917d",
@@ -3340,8 +3800,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.7,
-   "importance": 4.981
+   "age_hours": 2.6,
+   "importance": 4.927
   },
   {
    "id": "dc6478ba2ea0",
@@ -3363,8 +3823,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.7,
-   "importance": 4.981
+   "age_hours": 2.6,
+   "importance": 4.927
   },
   {
    "id": "8848ba4a5542",
@@ -3386,8 +3846,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 36.7,
-   "importance": 4.979
+   "age_hours": 38.7,
+   "importance": 4.925
   },
   {
    "id": "2a7968a67a64",
@@ -3409,8 +3869,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.8,
-   "importance": 4.978
+   "age_hours": 2.7,
+   "importance": 4.924
   },
   {
    "id": "38a63f1abf42",
@@ -3432,8 +3892,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.8,
-   "importance": 4.977
+   "age_hours": 2.8,
+   "importance": 4.923
   },
   {
    "id": "973cb2e0af74",
@@ -3455,8 +3915,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 36.9,
-   "importance": 4.976
+   "age_hours": 38.8,
+   "importance": 4.922
   },
   {
    "id": "b094d24a97aa",
@@ -3478,8 +3938,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.1,
-   "importance": 4.971
+   "age_hours": 3.0,
+   "importance": 4.917
   },
   {
    "id": "9d19a0415622",
@@ -3501,8 +3961,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.5,
-   "importance": 4.958
+   "age_hours": 3.4,
+   "importance": 4.905
   },
   {
    "id": "48742a365e86",
@@ -3524,8 +3984,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.5,
-   "importance": 4.958
+   "age_hours": 3.5,
+   "importance": 4.904
   },
   {
    "id": "5b27daeba0f2",
@@ -3547,8 +4007,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.7,
-   "importance": 4.953
+   "age_hours": 3.6,
+   "importance": 4.899
   },
   {
    "id": "778c182caf6a",
@@ -3570,8 +4030,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.8,
-   "importance": 4.95
+   "age_hours": 3.8,
+   "importance": 4.896
   },
   {
    "id": "0d3861245e4d",
@@ -3593,8 +4053,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 37.9,
-   "importance": 4.947
+   "age_hours": 39.8,
+   "importance": 4.893
   },
   {
    "id": "5474c028a302",
@@ -3616,31 +4076,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 2.2,
-   "importance": 4.94
-  },
-  {
-   "id": "9293ff448458",
-   "kind": "summary",
-   "headline": "Uttar Pradesh bars violent system-change protesters from state government jobs",
-   "title": "No government jobs in Uttar Pradesh for protesters ‘involved in regime change through violence’",
-   "summary": "The Uttar Pradesh government updated its direct recruitment rules to disqualify individuals associated with organisations seeking to alter the established political system through violence. Issued by Principal Secretary M Devaraj, the revised character verification framework applies across government departments and local bodies, drawing criticism from opposition parties including the Samajwadi Party and Congress.",
-   "description": "The revised guidelines will apply to character verification in government departments, public sector corporations, boards and urban and rural local bodies; the government added, however, that political ideology alone cannot be grounds for disqualification",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/bn0b5z/article71641429.ece/alternates/LANDSCAPE_1200/PTI10_26_2026_000513B.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "National",
-   "category": "India",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.thehindu.com/news/national/uttar-pradesh/no-government-jobs-in-uttar-pradesh-for-protesters-involved-in-regime-change-through-violence/article71641261.ece",
-   "published_at": "2026-10-29T14:51:42+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 2.3,
-   "importance": 4.937
+   "age_hours": 4.1,
+   "importance": 4.886
   },
   {
    "id": "169bc2a67fed",
@@ -3662,8 +4099,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 2.4,
-   "importance": 4.932
+   "age_hours": 4.4,
+   "importance": 4.878
   },
   {
    "id": "167eff8c7254",
@@ -3685,8 +4122,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 2.5,
-   "importance": 4.932
+   "age_hours": 4.4,
+   "importance": 4.878
   },
   {
    "id": "9d92d4ec6e5e",
@@ -3708,8 +4145,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 2.5,
-   "importance": 4.932
+   "age_hours": 4.4,
+   "importance": 4.878
   },
   {
    "id": "1e28805a7032",
@@ -3731,8 +4168,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 2.5,
-   "importance": 4.931
+   "age_hours": 4.4,
+   "importance": 4.877
   },
   {
    "id": "76315b587c7b",
@@ -3754,8 +4191,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 2.5,
-   "importance": 4.93
+   "age_hours": 4.5,
+   "importance": 4.876
   },
   {
    "id": "a10c181b2801",
@@ -3777,8 +4214,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 2.7,
-   "importance": 4.925
+   "age_hours": 4.6,
+   "importance": 4.871
   },
   {
    "id": "7c0cd164767a",
@@ -3800,8 +4237,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 3.1,
-   "importance": 4.913
+   "age_hours": 5.1,
+   "importance": 4.859
   },
   {
    "id": "f38d505e00b9",
@@ -3823,8 +4260,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 3.2,
-   "importance": 4.912
+   "age_hours": 5.1,
+   "importance": 4.858
   },
   {
    "id": "2888c291ca41",
@@ -3846,8 +4283,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 3.2,
-   "importance": 4.912
+   "age_hours": 5.1,
+   "importance": 4.858
   },
   {
    "id": "b80b36adb650",
@@ -3869,8 +4306,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 3.4,
-   "importance": 4.906
+   "age_hours": 5.3,
+   "importance": 4.852
   },
   {
    "id": "96d86ad6f9db",
@@ -3892,8 +4329,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 3.6,
-   "importance": 4.9
+   "age_hours": 5.6,
+   "importance": 4.846
   },
   {
    "id": "0b3918620b86",
@@ -3915,8 +4352,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 3.6,
-   "importance": 4.899
+   "age_hours": 5.6,
+   "importance": 4.845
   },
   {
    "id": "6d8bbd7b0dc5",
@@ -3938,8 +4375,8 @@
    "fetch_status": "short",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 3.6,
-   "importance": 4.899
+   "age_hours": 5.6,
+   "importance": 4.845
   },
   {
    "id": "93aa345a1d43",
@@ -3961,8 +4398,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 3.7,
-   "importance": 4.897
+   "age_hours": 5.6,
+   "importance": 4.844
   },
   {
    "id": "d01ff1bdeeb2",
@@ -3984,8 +4421,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.0,
-   "importance": 4.888
+   "age_hours": 6.0,
+   "importance": 4.834
   },
   {
    "id": "3fe4c4b2ef47",
@@ -4007,8 +4444,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 40.1,
-   "importance": 4.886
+   "age_hours": 42.0,
+   "importance": 4.832
   },
   {
    "id": "7928c3c7f455",
@@ -4030,8 +4467,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.2,
-   "importance": 4.884
+   "age_hours": 6.1,
+   "importance": 4.83
   },
   {
    "id": "fd22d8f137b2",
@@ -4053,8 +4490,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.3,
-   "importance": 4.881
+   "age_hours": 6.2,
+   "importance": 4.827
   },
   {
    "id": "83230f81bfcd",
@@ -4076,8 +4513,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.4,
-   "importance": 4.877
+   "age_hours": 6.4,
+   "importance": 4.823
   },
   {
    "id": "ee676642c84c",
@@ -4099,8 +4536,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.4,
-   "importance": 4.877
+   "age_hours": 6.4,
+   "importance": 4.823
   },
   {
    "id": "c3916fccaad7",
@@ -4122,31 +4559,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.6,
-   "importance": 4.873
-  },
-  {
-   "id": "4b72ad82c0e4",
-   "kind": "summary",
-   "headline": "Uttar Pradesh MLC election results provide lessons for BJP",
-   "title": "Lessons for the BJP from Uttar Pradesh MLC election",
-   "summary": "The Bharatiya Janata Party secured six out of eleven contested seats in the legislative council elections across Graduates and Teachers constituencies. Published on October 29, 2026, the outcomes indicate potential challenges for the ruling party ahead of the upcoming Assembly election as leadership considers significant changes among sitting members of the legislative assembly.",
-   "description": "The first big takeaway for the BJP is that the results of the MLC election demonstrate the 2024 Lok Sabha results may not be a fluke, when the SP, with 37 seats, brought down the BJP’s handsome tallies of 71 seats in 2014 and 62 seats in 2019 to 33 seats in 2024",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/5i9en5/article71640553.ece/alternates/LANDSCAPE_1200/PTI10_24_2026_000314B.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "National",
-   "category": "India",
-   "type": "analysis",
-   "significance": 3,
-   "url": "https://www.thehindu.com/news/national/uttar-pradesh/lessons-for-the-bjp-from-uttar-pradesh-mlc-election/article71640197.ece",
-   "published_at": "2026-10-29T12:28:28+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 4.7,
-   "importance": 4.871
+   "age_hours": 6.5,
+   "importance": 4.819
   },
   {
    "id": "96c7ba858ead",
@@ -4168,8 +4582,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.7,
-   "importance": 4.869
+   "age_hours": 6.6,
+   "importance": 4.815
   },
   {
    "id": "8274788e1929",
@@ -4191,8 +4605,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.8,
-   "importance": 4.867
+   "age_hours": 6.7,
+   "importance": 4.813
   },
   {
    "id": "d7260ca7e0dd",
@@ -4214,8 +4628,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.8,
-   "importance": 4.866
+   "age_hours": 6.8,
+   "importance": 4.812
   },
   {
    "id": "e5fee78871fe",
@@ -4237,8 +4651,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 5.0,
-   "importance": 4.862
+   "age_hours": 6.9,
+   "importance": 4.809
   },
   {
    "id": "5001ae9d00ae",
@@ -4260,8 +4674,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 5.0,
-   "importance": 4.862
+   "age_hours": 6.9,
+   "importance": 4.808
   },
   {
    "id": "8ad15c43ee8f",
@@ -4283,8 +4697,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 41.0,
-   "importance": 4.861
+   "age_hours": 43.0,
+   "importance": 4.807
   },
   {
    "id": "bb861977a167",
@@ -4306,8 +4720,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 5.2,
-   "importance": 4.856
+   "age_hours": 7.1,
+   "importance": 4.802
   },
   {
    "id": "6984c91551b5",
@@ -4329,8 +4743,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 5.6,
-   "importance": 4.843
+   "age_hours": 7.6,
+   "importance": 4.789
   },
   {
    "id": "76ce91b22622",
@@ -4352,31 +4766,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 5.7,
-   "importance": 4.843
-  },
-  {
-   "id": "bf90c9b34d56",
-   "kind": "summary",
-   "headline": "Directorate of Vigilance and Anti-Corruption searches former minister K.N. Nehru's residence",
-   "title": "DVAC searches ex-Minister K.N. Nehru’s residence in Tiruchi",
-   "summary": "Anti-corruption officials in Tamil Nadu searched the Tiruchi residence of former minister K.N. Nehru on Thursday as part of an investigation into an alleged cash-for-jobs scam. The Directorate of Vigilance and Anti-Corruption launched operations across 25 locations following a Madras High Court clearance. DMK chief M.K. Stalin condemned the raids as politically motivated vendetta tactics ahead of upcoming by-elections.",
-   "description": "The search at Mr. Nehru’s residence, carried out by a team headed by a Deputy Superintendent of Police, began around 7 a.m.",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/ntke69/article71638842.ece/alternates/LANDSCAPE_1200/DVAC-books-K.N.G1JGGH5G7.3.jpg.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "National",
-   "category": "India",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/dvac-launches-search-at-ex-minister-kn-nehrus-residence-in-tiruchi/article71638830.ece",
-   "published_at": "2026-10-29T11:26:18+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 5.7,
-   "importance": 4.842
+   "age_hours": 7.6,
+   "importance": 4.789
   },
   {
    "id": "8ff247715f5f",
@@ -4398,8 +4789,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 5.8,
-   "importance": 4.84
+   "age_hours": 7.7,
+   "importance": 4.786
   },
   {
    "id": "26ad9738e017",
@@ -4421,8 +4812,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 5.8,
-   "importance": 4.838
+   "age_hours": 7.8,
+   "importance": 4.784
   },
   {
    "id": "701ff3082663",
@@ -4444,8 +4835,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 41.9,
-   "importance": 4.837
+   "age_hours": 43.8,
+   "importance": 4.783
   },
   {
    "id": "16cd24c03c2a",
@@ -4467,8 +4858,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 6.0,
-   "importance": 4.834
+   "age_hours": 7.9,
+   "importance": 4.78
   },
   {
    "id": "b9c3367c1312",
@@ -4490,8 +4881,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 6.0,
-   "importance": 4.832
+   "age_hours": 8.0,
+   "importance": 4.778
   },
   {
    "id": "e89e727fc4d6",
@@ -4513,8 +4904,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 6.1,
-   "importance": 4.832
+   "age_hours": 8.0,
+   "importance": 4.778
   },
   {
    "id": "da40a6404c2d",
@@ -4536,8 +4927,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 6.2,
-   "importance": 4.828
+   "age_hours": 8.1,
+   "importance": 4.775
   },
   {
    "id": "8d8125acfa76",
@@ -4559,8 +4950,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 42.9,
-   "importance": 4.807
+   "age_hours": 44.9,
+   "importance": 4.753
   },
   {
    "id": "c04c1b5e3ff5",
@@ -4582,8 +4973,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 7.1,
-   "importance": 4.803
+   "age_hours": 9.0,
+   "importance": 4.749
   },
   {
    "id": "f35d70a814c8",
@@ -4605,8 +4996,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 7.2,
-   "importance": 4.801
+   "age_hours": 9.1,
+   "importance": 4.747
   },
   {
    "id": "56ddbe0588a9",
@@ -4628,8 +5019,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 7.2,
-   "importance": 4.8
+   "age_hours": 9.2,
+   "importance": 4.746
   },
   {
    "id": "9b45b5388c9b",
@@ -4651,31 +5042,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 7.3,
-   "importance": 4.797
-  },
-  {
-   "id": "68edd242689d",
-   "kind": "summary",
-   "headline": "Supreme Court orders NCLT and NCLAT leaders to submit proposals",
-   "title": "Supreme Court directs NCLAT, NCLT presidents to submit proposals on infrastructure, staff requirements",
-   "summary": "The Supreme Court of India directed the presidents of the National Company Law Tribunal and the National Company Law Appellate Tribunal to submit comprehensive infrastructure and staffing proposals within four weeks. The directive follows concerns over collapsing facilities at the NCLT Principal Bench and severe staffing shortages affecting daily operations.",
-   "description": "The NCLT Bar Association has filed an application in a pending matter contending that at least 18 benches of NCLT are holding only half-day sittings because of shortage of members",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/e6ea7c/article71639896.ece/alternates/LANDSCAPE_1200/NCLT.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "National",
-   "category": "India",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.thehindu.com/news/national/sc-nclat-nclt-presidents-proposals-on-infrastructure-staff-requirements/article71639787.ece",
-   "published_at": "2026-10-29T09:48:51+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 7.3,
-   "importance": 4.797
+   "age_hours": 9.2,
+   "importance": 4.744
   },
   {
    "id": "9de2c87236e3",
@@ -4697,8 +5065,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 43.3,
-   "importance": 4.796
+   "age_hours": 45.3,
+   "importance": 4.742
   },
   {
    "id": "497818d26d2c",
@@ -4720,8 +5088,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 7.5,
-   "importance": 4.793
+   "age_hours": 9.4,
+   "importance": 4.739
   },
   {
    "id": "441f35c796b3",
@@ -4743,8 +5111,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 7.5,
-   "importance": 4.792
+   "age_hours": 9.4,
+   "importance": 4.738
   },
   {
    "id": "03fd89a12d4b",
@@ -4766,8 +5134,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 7.8,
-   "importance": 4.783
+   "age_hours": 9.7,
+   "importance": 4.729
   },
   {
    "id": "e826811016fb",
@@ -4789,8 +5157,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 7.8,
-   "importance": 4.782
+   "age_hours": 9.8,
+   "importance": 4.728
   },
   {
    "id": "dfb38c502896",
@@ -4812,8 +5180,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 7.9,
-   "importance": 4.78
+   "age_hours": 9.9,
+   "importance": 4.726
   },
   {
    "id": "75777a6cb8b2",
@@ -4835,8 +5203,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.1,
-   "importance": 4.774
+   "age_hours": 10.1,
+   "importance": 4.72
   },
   {
    "id": "7e76bf3fd585",
@@ -4858,8 +5226,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.2,
-   "importance": 4.773
+   "age_hours": 10.1,
+   "importance": 4.719
   },
   {
    "id": "46dafeb4d307",
@@ -4881,8 +5249,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.2,
-   "importance": 4.772
+   "age_hours": 10.2,
+   "importance": 4.718
   },
   {
    "id": "3d3436d43345",
@@ -4904,8 +5272,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.2,
-   "importance": 4.771
+   "age_hours": 10.2,
+   "importance": 4.717
   },
   {
    "id": "5dd80e1cff48",
@@ -4927,8 +5295,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.3,
-   "importance": 4.77
+   "age_hours": 10.2,
+   "importance": 4.716
   },
   {
    "id": "68a57eee168a",
@@ -4950,8 +5318,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 44.4,
-   "importance": 4.766
+   "age_hours": 46.4,
+   "importance": 4.712
   },
   {
    "id": "c1d5cc93981b",
@@ -4973,8 +5341,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.6,
-   "importance": 4.761
+   "age_hours": 10.5,
+   "importance": 4.707
   },
   {
    "id": "7ce1e69e6e03",
@@ -4996,8 +5364,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.6,
-   "importance": 4.761
+   "age_hours": 10.5,
+   "importance": 4.707
   },
   {
    "id": "dce4947e9fac",
@@ -5019,8 +5387,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.6,
-   "importance": 4.761
+   "age_hours": 10.6,
+   "importance": 4.707
   },
   {
    "id": "e68936cec605",
@@ -5042,8 +5410,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.6,
-   "importance": 4.76
+   "age_hours": 10.6,
+   "importance": 4.706
   },
   {
    "id": "8a1e7922d381",
@@ -5065,8 +5433,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.6,
-   "importance": 4.76
+   "age_hours": 10.6,
+   "importance": 4.706
   },
   {
    "id": "d2178be2feae",
@@ -5088,8 +5456,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.8,
-   "importance": 4.757
+   "age_hours": 10.7,
+   "importance": 4.703
   },
   {
    "id": "93980d566128",
@@ -5111,8 +5479,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.9,
-   "importance": 4.754
+   "age_hours": 10.8,
+   "importance": 4.7
   },
   {
    "id": "6c74aa4bf1a7",
@@ -5134,8 +5502,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.9,
-   "importance": 4.753
+   "age_hours": 10.8,
+   "importance": 4.699
   },
   {
    "id": "12ee41da1c97",
@@ -5157,8 +5525,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.9,
-   "importance": 4.752
+   "age_hours": 10.9,
+   "importance": 4.698
   },
   {
    "id": "585899b1f558",
@@ -5180,8 +5548,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.9,
-   "importance": 4.752
+   "age_hours": 10.9,
+   "importance": 4.698
   },
   {
    "id": "a671997c5b77",
@@ -5203,8 +5571,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.0,
-   "importance": 4.75
+   "age_hours": 10.9,
+   "importance": 4.696
   },
   {
    "id": "bd0106cd6273",
@@ -5226,8 +5594,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.0,
-   "importance": 4.749
+   "age_hours": 11.0,
+   "importance": 4.695
   },
   {
    "id": "ee0984485524",
@@ -5249,8 +5617,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.1,
-   "importance": 4.747
+   "age_hours": 11.1,
+   "importance": 4.693
   },
   {
    "id": "e27d7b217e2f",
@@ -5272,8 +5640,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.2,
-   "importance": 4.745
+   "age_hours": 11.1,
+   "importance": 4.691
   },
   {
    "id": "9d59ed8efd65",
@@ -5295,8 +5663,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.2,
-   "importance": 4.743
+   "age_hours": 11.2,
+   "importance": 4.689
   },
   {
    "id": "4bf4908dde97",
@@ -5318,8 +5686,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.3,
-   "importance": 4.742
+   "age_hours": 11.2,
+   "importance": 4.688
   },
   {
    "id": "aecbc2ab862a",
@@ -5341,8 +5709,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.3,
-   "importance": 4.741
+   "age_hours": 11.3,
+   "importance": 4.687
   },
   {
    "id": "5b14ad9f14c1",
@@ -5364,8 +5732,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.3,
-   "importance": 4.741
+   "age_hours": 11.3,
+   "importance": 4.687
   },
   {
    "id": "a128ad48e4de",
@@ -5387,8 +5755,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.4,
-   "importance": 4.738
+   "age_hours": 11.4,
+   "importance": 4.684
   },
   {
    "id": "87c536b43d0f",
@@ -5410,8 +5778,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.5,
-   "importance": 4.736
+   "age_hours": 11.5,
+   "importance": 4.682
   },
   {
    "id": "c440845f735c",
@@ -5433,8 +5801,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.8,
-   "importance": 4.729
+   "age_hours": 11.7,
+   "importance": 4.675
   },
   {
    "id": "dfc8c3c2cdd7",
@@ -5456,8 +5824,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 10.2,
-   "importance": 4.715
+   "age_hours": 12.2,
+   "importance": 4.661
   },
   {
    "id": "cde34a142286",
@@ -5479,8 +5847,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 10.4,
-   "importance": 4.711
+   "age_hours": 12.4,
+   "importance": 4.657
   },
   {
    "id": "b0f3a152f9ae",
@@ -5502,8 +5870,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 10.5,
-   "importance": 4.709
+   "age_hours": 12.4,
+   "importance": 4.655
   },
   {
    "id": "53de1dd68ab4",
@@ -5525,8 +5893,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 10.6,
-   "importance": 4.706
+   "age_hours": 12.5,
+   "importance": 4.652
   },
   {
    "id": "4ed36db318ab",
@@ -5548,8 +5916,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 10.7,
-   "importance": 4.702
+   "age_hours": 12.7,
+   "importance": 4.649
   },
   {
    "id": "5650b3df0c55",
@@ -5571,8 +5939,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 10.8,
-   "importance": 4.7
+   "age_hours": 12.7,
+   "importance": 4.646
   },
   {
    "id": "cc067273dbb3",
@@ -5594,8 +5962,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 10.9,
-   "importance": 4.698
+   "age_hours": 12.8,
+   "importance": 4.644
   },
   {
    "id": "4af99a612741",
@@ -5617,8 +5985,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 10.9,
-   "importance": 4.696
+   "age_hours": 12.9,
+   "importance": 4.642
   },
   {
    "id": "8d60a996bd68",
@@ -5640,8 +6008,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 11.5,
-   "importance": 4.68
+   "age_hours": 13.5,
+   "importance": 4.626
   },
   {
    "id": "461f7630e5a7",
@@ -5663,8 +6031,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 11.6,
-   "importance": 4.678
+   "age_hours": 13.5,
+   "importance": 4.624
   },
   {
    "id": "a70a8bfa8009",
@@ -5686,8 +6054,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 11.6,
-   "importance": 4.677
+   "age_hours": 13.6,
+   "importance": 4.623
   },
   {
    "id": "a3708190c5c8",
@@ -5709,8 +6077,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 11.8,
-   "importance": 4.672
+   "age_hours": 13.7,
+   "importance": 4.618
   },
   {
    "id": "be983b728831",
@@ -5732,8 +6100,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 12.3,
-   "importance": 4.658
+   "age_hours": 14.3,
+   "importance": 4.604
   },
   {
    "id": "e03247b5ca29",
@@ -5755,8 +6123,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 13.5,
-   "importance": 4.626
+   "age_hours": 15.4,
+   "importance": 4.572
   },
   {
    "id": "38118f432114",
@@ -5778,8 +6146,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.1,
-   "importance": 4.608
+   "age_hours": 16.1,
+   "importance": 4.554
   },
   {
    "id": "fe316def99b9",
@@ -5801,8 +6169,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.4,
-   "importance": 4.6
+   "age_hours": 16.3,
+   "importance": 4.546
   },
   {
    "id": "bd793da6f024",
@@ -5824,8 +6192,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.4,
-   "importance": 4.599
+   "age_hours": 16.4,
+   "importance": 4.546
   },
   {
    "id": "e68859a8b1cf",
@@ -5847,8 +6215,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.6,
-   "importance": 4.595
+   "age_hours": 16.5,
+   "importance": 4.542
   },
   {
    "id": "4461c6fefe1c",
@@ -5870,8 +6238,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 15.1,
-   "importance": 4.58
+   "age_hours": 17.0,
+   "importance": 4.526
   },
   {
    "id": "de2a9f1a8595",
@@ -5893,8 +6261,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 15.2,
-   "importance": 4.577
+   "age_hours": 17.2,
+   "importance": 4.523
   },
   {
    "id": "31accb2c5747",
@@ -5916,8 +6284,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 15.8,
-   "importance": 4.56
+   "age_hours": 17.8,
+   "importance": 4.506
   },
   {
    "id": "19f5aa994bf2",
@@ -5939,8 +6307,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 15.9,
-   "importance": 4.559
+   "age_hours": 17.8,
+   "importance": 4.505
   },
   {
    "id": "780e7055330a",
@@ -5962,8 +6330,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 15.9,
-   "importance": 4.557
+   "age_hours": 17.9,
+   "importance": 4.503
   },
   {
    "id": "4cb1a3907d1b",
@@ -5985,8 +6353,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 52.0,
-   "importance": 4.557
+   "age_hours": 53.9,
+   "importance": 4.503
   },
   {
    "id": "ba2dfbfcbe17",
@@ -6008,8 +6376,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 52.0,
-   "importance": 4.555
+   "age_hours": 54.0,
+   "importance": 4.501
   },
   {
    "id": "f405f1be4525",
@@ -6031,8 +6399,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 16.6,
-   "importance": 4.54
+   "age_hours": 18.5,
+   "importance": 4.486
   },
   {
    "id": "0601d2f212e3",
@@ -6054,8 +6422,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 17.4,
-   "importance": 4.516
+   "age_hours": 19.3,
+   "importance": 4.463
   },
   {
    "id": "09f762edab0d",
@@ -6077,8 +6445,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 18.0,
-   "importance": 4.499
+   "age_hours": 20.0,
+   "importance": 4.445
   },
   {
    "id": "121e07341d57",
@@ -6100,8 +6468,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 18.5,
-   "importance": 4.485
+   "age_hours": 20.5,
+   "importance": 4.431
   },
   {
    "id": "fe444e1bd592",
@@ -6123,8 +6491,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 54.8,
-   "importance": 4.477
+   "age_hours": 56.8,
+   "importance": 4.423
   },
   {
    "id": "415aa97d276f",
@@ -6146,8 +6514,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 55.1,
-   "importance": 4.469
+   "age_hours": 57.1,
+   "importance": 4.415
   },
   {
    "id": "49387afbb0ba",
@@ -6169,8 +6537,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.5,
-   "importance": 4.458
+   "age_hours": 21.5,
+   "importance": 4.404
   },
   {
    "id": "70ede1f0cbfd",
@@ -6192,8 +6560,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.7,
-   "importance": 4.452
+   "age_hours": 21.7,
+   "importance": 4.398
   },
   {
    "id": "5fef33744fec",
@@ -6215,8 +6583,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.3,
-   "importance": 4.436
+   "age_hours": 22.2,
+   "importance": 4.382
   },
   {
    "id": "8afc5a38b1f7",
@@ -6238,8 +6606,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.5,
-   "importance": 4.431
+   "age_hours": 22.4,
+   "importance": 4.377
   },
   {
    "id": "6341d4fa44f4",
@@ -6261,8 +6629,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.5,
-   "importance": 4.43
+   "age_hours": 22.5,
+   "importance": 4.376
   },
   {
    "id": "4e6fa7e13315",
@@ -6284,8 +6652,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.7,
-   "importance": 4.425
+   "age_hours": 22.7,
+   "importance": 4.371
   },
   {
    "id": "879837b72ebb",
@@ -6307,8 +6675,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 21.3,
-   "importance": 4.407
+   "age_hours": 23.3,
+   "importance": 4.353
   },
   {
    "id": "d8c1b4d22f99",
@@ -6330,8 +6698,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 21.6,
-   "importance": 4.399
+   "age_hours": 23.6,
+   "importance": 4.346
   },
   {
    "id": "8497f418fcc0",
@@ -6353,8 +6721,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.0,
-   "importance": 4.389
+   "age_hours": 23.9,
+   "importance": 4.335
   },
   {
    "id": "62879fa27c9d",
@@ -6376,8 +6744,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.1,
-   "importance": 4.387
+   "age_hours": 24.0,
+   "importance": 4.334
   },
   {
    "id": "1e7868d0cdd5",
@@ -6399,8 +6767,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.1,
-   "importance": 4.387
+   "age_hours": 24.0,
+   "importance": 4.333
   },
   {
    "id": "0e6ffa0bad56",
@@ -6422,8 +6790,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.2,
-   "importance": 4.382
+   "age_hours": 24.2,
+   "importance": 4.328
   },
   {
    "id": "c929075a64a7",
@@ -6445,8 +6813,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.3,
-   "importance": 4.381
+   "age_hours": 24.2,
+   "importance": 4.327
   },
   {
    "id": "d0753be868cc",
@@ -6468,8 +6836,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.5,
-   "importance": 4.374
+   "age_hours": 24.5,
+   "importance": 4.321
   },
   {
    "id": "cc0156d011b0",
@@ -6491,8 +6859,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.2,
-   "importance": 4.355
+   "age_hours": 25.2,
+   "importance": 4.301
   },
   {
    "id": "14ba893ac142",
@@ -6514,8 +6882,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.5,
-   "importance": 4.346
+   "age_hours": 25.5,
+   "importance": 4.292
   },
   {
    "id": "f96242c0fc70",
@@ -6537,8 +6905,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.9,
-   "importance": 4.337
+   "age_hours": 25.8,
+   "importance": 4.284
   },
   {
    "id": "0f5c27799081",
@@ -6560,8 +6928,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.9,
-   "importance": 4.337
+   "age_hours": 25.8,
+   "importance": 4.283
   },
   {
    "id": "70775fa20a9b",
@@ -6583,8 +6951,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.9,
-   "importance": 4.337
+   "age_hours": 25.8,
+   "importance": 4.283
   },
   {
    "id": "3b1fa355883c",
@@ -6606,8 +6974,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.0,
-   "importance": 4.334
+   "age_hours": 25.9,
+   "importance": 4.28
   },
   {
    "id": "c9fc376a6e35",
@@ -6629,8 +6997,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.0,
-   "importance": 4.332
+   "age_hours": 26.0,
+   "importance": 4.278
   },
   {
    "id": "543a768f8e25",
@@ -6652,8 +7020,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.2,
-   "importance": 4.327
+   "age_hours": 26.2,
+   "importance": 4.274
   },
   {
    "id": "d61174ec10c7",
@@ -6675,8 +7043,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.4,
-   "importance": 4.321
+   "age_hours": 26.4,
+   "importance": 4.267
   },
   {
    "id": "45b6b0849a76",
@@ -6698,8 +7066,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.5,
-   "importance": 4.319
+   "age_hours": 26.5,
+   "importance": 4.265
   },
   {
    "id": "701fd8866acc",
@@ -6721,8 +7089,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.5,
-   "importance": 4.318
+   "age_hours": 26.5,
+   "importance": 4.264
   },
   {
    "id": "d714b565ab12",
@@ -6744,8 +7112,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.6,
-   "importance": 4.316
+   "age_hours": 26.6,
+   "importance": 4.262
   },
   {
    "id": "2949ce7fa043",
@@ -6767,8 +7135,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.7,
-   "importance": 4.314
+   "age_hours": 26.6,
+   "importance": 4.26
   },
   {
    "id": "286ff8513233",
@@ -6790,8 +7158,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.8,
-   "importance": 4.311
+   "age_hours": 26.7,
+   "importance": 4.257
   },
   {
    "id": "1739307690c3",
@@ -6813,8 +7181,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.9,
-   "importance": 4.309
+   "age_hours": 26.8,
+   "importance": 4.255
   },
   {
    "id": "4b7e9febb1b3",
@@ -6836,8 +7204,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.9,
-   "importance": 4.308
+   "age_hours": 26.8,
+   "importance": 4.255
   },
   {
    "id": "46978109e5d1",
@@ -6859,8 +7227,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 25.0,
-   "importance": 4.306
+   "age_hours": 26.9,
+   "importance": 4.252
   },
   {
    "id": "8e883b533bb5",
@@ -6882,8 +7250,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 25.0,
-   "importance": 4.305
+   "age_hours": 26.9,
+   "importance": 4.251
   },
   {
    "id": "47573ceb1950",
@@ -6905,8 +7273,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 25.0,
-   "importance": 4.305
+   "age_hours": 27.0,
+   "importance": 4.251
   },
   {
    "id": "b70213f9498a",
@@ -6928,8 +7296,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 25.1,
-   "importance": 4.304
+   "age_hours": 27.0,
+   "importance": 4.25
   },
   {
    "id": "b576c42f8732",
@@ -6951,8 +7319,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 25.2,
-   "importance": 4.3
+   "age_hours": 27.1,
+   "importance": 4.246
   },
   {
    "id": "e51facaefa8f",
@@ -6974,8 +7342,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 25.5,
-   "importance": 4.293
+   "age_hours": 27.4,
+   "importance": 4.239
   },
   {
    "id": "a99305258961",
@@ -6997,8 +7365,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 25.5,
-   "importance": 4.291
+   "age_hours": 27.5,
+   "importance": 4.237
   },
   {
    "id": "6162849d74c8",
@@ -7020,8 +7388,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 25.5,
-   "importance": 4.291
+   "age_hours": 27.5,
+   "importance": 4.237
   },
   {
    "id": "33a600870296",
@@ -7043,8 +7411,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 25.6,
-   "importance": 4.29
+   "age_hours": 27.5,
+   "importance": 4.236
   },
   {
    "id": "12ff395a46d9",
@@ -7066,8 +7434,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 25.8,
-   "importance": 4.283
+   "age_hours": 27.8,
+   "importance": 4.229
   },
   {
    "id": "39f76e0bdf9b",
@@ -7089,8 +7457,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 26.2,
-   "importance": 4.271
+   "age_hours": 28.2,
+   "importance": 4.217
   },
   {
    "id": "5d76245baa42",
@@ -7112,8 +7480,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 26.3,
-   "importance": 4.27
+   "age_hours": 28.2,
+   "importance": 4.216
   },
   {
    "id": "5283652bd524",
@@ -7135,8 +7503,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 26.4,
-   "importance": 4.267
+   "age_hours": 28.3,
+   "importance": 4.213
   },
   {
    "id": "4a1cc102ee59",
@@ -7158,8 +7526,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 26.6,
-   "importance": 4.261
+   "age_hours": 28.6,
+   "importance": 4.207
   },
   {
    "id": "f30346ad5855",
@@ -7181,8 +7549,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 26.6,
-   "importance": 4.26
+   "age_hours": 28.6,
+   "importance": 4.206
   },
   {
    "id": "28d27422dc48",
@@ -7204,8 +7572,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 26.7,
-   "importance": 4.258
+   "age_hours": 28.7,
+   "importance": 4.204
   },
   {
    "id": "54a86b161063",
@@ -7227,8 +7595,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 27.1,
-   "importance": 4.248
+   "age_hours": 29.0,
+   "importance": 4.194
   },
   {
    "id": "1344d124d3b0",
@@ -7250,8 +7618,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 27.2,
-   "importance": 4.245
+   "age_hours": 29.1,
+   "importance": 4.191
   },
   {
    "id": "f7cf3d5629ff",
@@ -7273,8 +7641,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 27.3,
-   "importance": 4.241
+   "age_hours": 29.3,
+   "importance": 4.187
   },
   {
    "id": "5eae5b26eb17",
@@ -7296,8 +7664,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 63.3,
-   "importance": 4.24
+   "age_hours": 65.3,
+   "importance": 4.186
   },
   {
    "id": "cb1249ea8dc1",
@@ -7319,8 +7687,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 28.1,
-   "importance": 4.22
+   "age_hours": 30.0,
+   "importance": 4.167
   },
   {
    "id": "c005e70fc8ec",
@@ -7342,8 +7710,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 28.2,
-   "importance": 4.217
+   "age_hours": 30.1,
+   "importance": 4.163
   },
   {
    "id": "d61ef566e086",
@@ -7365,8 +7733,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 28.2,
-   "importance": 4.216
+   "age_hours": 30.2,
+   "importance": 4.162
   },
   {
    "id": "0bfb7a9770a3",
@@ -7388,8 +7756,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 28.5,
-   "importance": 4.207
+   "age_hours": 30.5,
+   "importance": 4.153
   },
   {
    "id": "0a3ac9f83b8a",
@@ -7411,8 +7779,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 29.1,
-   "importance": 4.191
+   "age_hours": 31.1,
+   "importance": 4.137
   },
   {
    "id": "8030d1b5c635",
@@ -7434,8 +7802,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 29.1,
-   "importance": 4.191
+   "age_hours": 31.1,
+   "importance": 4.137
   },
   {
    "id": "85069581580d",
@@ -7457,8 +7825,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 29.1,
-   "importance": 4.191
+   "age_hours": 31.1,
+   "importance": 4.137
   },
   {
    "id": "398490fa9731",
@@ -7480,8 +7848,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 65.1,
-   "importance": 4.191
+   "age_hours": 67.1,
+   "importance": 4.137
   },
   {
    "id": "2bd01123e4a4",
@@ -7503,8 +7871,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 29.2,
-   "importance": 4.189
+   "age_hours": 31.1,
+   "importance": 4.135
   },
   {
    "id": "1d71c9d45b6b",
@@ -7526,8 +7894,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 29.3,
-   "importance": 4.186
+   "age_hours": 31.2,
+   "importance": 4.132
   },
   {
    "id": "5bc82eea9903",
@@ -7549,8 +7917,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 29.4,
-   "importance": 4.184
+   "age_hours": 31.3,
+   "importance": 4.13
   },
   {
    "id": "b3250c9c370a",
@@ -7572,8 +7940,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 29.4,
-   "importance": 4.183
+   "age_hours": 31.3,
+   "importance": 4.129
   },
   {
    "id": "b7c3bc8cd75b",
@@ -7595,8 +7963,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 29.5,
-   "importance": 4.181
+   "age_hours": 31.4,
+   "importance": 4.127
   },
   {
    "id": "5d32ed72e5f2",
@@ -7618,8 +7986,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 29.5,
-   "importance": 4.18
+   "age_hours": 31.5,
+   "importance": 4.126
   },
   {
    "id": "779ca2b2a764",
@@ -7641,8 +8009,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 29.5,
-   "importance": 4.179
+   "age_hours": 31.5,
+   "importance": 4.125
   },
   {
    "id": "6e55d7ac3a7f",
@@ -7664,8 +8032,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 29.6,
-   "importance": 4.179
+   "age_hours": 31.5,
+   "importance": 4.125
   },
   {
    "id": "c1fa37c9240c",
@@ -7687,8 +8055,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 29.6,
-   "importance": 4.178
+   "age_hours": 31.5,
+   "importance": 4.124
   },
   {
    "id": "bfb49b90b2ef",
@@ -7710,8 +8078,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 29.7,
-   "importance": 4.176
+   "age_hours": 31.6,
+   "importance": 4.122
   },
   {
    "id": "946821ec58cb",
@@ -7733,8 +8101,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 29.7,
-   "importance": 4.176
+   "age_hours": 31.6,
+   "importance": 4.122
   },
   {
    "id": "a290fb05488c",
@@ -7756,8 +8124,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 29.8,
-   "importance": 4.172
+   "age_hours": 31.7,
+   "importance": 4.118
   },
   {
    "id": "5cedf921b265",
@@ -7779,8 +8147,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 30.0,
-   "importance": 4.168
+   "age_hours": 31.9,
+   "importance": 4.114
   },
   {
    "id": "80495a81f0ce",
@@ -7802,8 +8170,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 30.0,
-   "importance": 4.167
+   "age_hours": 31.9,
+   "importance": 4.113
   },
   {
    "id": "150632ffa450",
@@ -7825,8 +8193,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 30.1,
-   "importance": 4.165
+   "age_hours": 32.0,
+   "importance": 4.111
   },
   {
    "id": "3c910cfa6f61",
@@ -7848,8 +8216,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 30.1,
-   "importance": 4.164
+   "age_hours": 32.0,
+   "importance": 4.11
   },
   {
    "id": "1712bc826529",
@@ -7871,8 +8239,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 30.1,
-   "importance": 4.163
+   "age_hours": 32.1,
+   "importance": 4.11
   },
   {
    "id": "64461f94e8a6",
@@ -7894,8 +8262,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 30.2,
-   "importance": 4.161
+   "age_hours": 32.1,
+   "importance": 4.107
   },
   {
    "id": "611f58349fe4",
@@ -7917,8 +8285,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 30.3,
-   "importance": 4.159
+   "age_hours": 32.2,
+   "importance": 4.105
   },
   {
    "id": "cf786b0c1c07",
@@ -7940,8 +8308,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 30.3,
-   "importance": 4.158
+   "age_hours": 32.2,
+   "importance": 4.104
   },
   {
    "id": "7721b4a98a96",
@@ -7963,8 +8331,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 30.4,
-   "importance": 4.155
+   "age_hours": 32.3,
+   "importance": 4.101
   },
   {
    "id": "0a4cd7c2ca71",
@@ -7986,8 +8354,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 30.7,
-   "importance": 4.146
+   "age_hours": 32.7,
+   "importance": 4.092
   },
   {
    "id": "8dd5a4f41cc8",
@@ -8009,8 +8377,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 30.8,
-   "importance": 4.144
+   "age_hours": 32.8,
+   "importance": 4.09
   },
   {
    "id": "dfa34ba19611",
@@ -8032,8 +8400,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 30.8,
-   "importance": 4.144
+   "age_hours": 32.8,
+   "importance": 4.09
   },
   {
    "id": "e10c764fb9f9",
@@ -8055,8 +8423,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 31.1,
-   "importance": 4.137
+   "age_hours": 33.0,
+   "importance": 4.083
   },
   {
    "id": "94ac8658b415",
@@ -8078,8 +8446,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 31.2,
-   "importance": 4.133
+   "age_hours": 33.1,
+   "importance": 4.08
   },
   {
    "id": "a2059011ba30",
@@ -8101,8 +8469,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 31.4,
-   "importance": 4.127
+   "age_hours": 33.4,
+   "importance": 4.073
   },
   {
    "id": "59937c1c9e6e",
@@ -8124,8 +8492,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 31.6,
-   "importance": 4.122
+   "age_hours": 33.6,
+   "importance": 4.068
   },
   {
    "id": "6a556485be8a",
@@ -8147,8 +8515,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 31.6,
-   "importance": 4.121
+   "age_hours": 33.6,
+   "importance": 4.067
   },
   {
    "id": "a660f33c7ff2",
@@ -8170,8 +8538,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 32.2,
-   "importance": 4.105
+   "age_hours": 34.1,
+   "importance": 4.051
   },
   {
    "id": "53df4f73cab9",
@@ -8193,8 +8561,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 32.3,
-   "importance": 4.103
+   "age_hours": 34.2,
+   "importance": 4.05
   },
   {
    "id": "77e3a69b7ff0",
@@ -8216,8 +8584,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 32.6,
-   "importance": 4.094
+   "age_hours": 34.6,
+   "importance": 4.04
   },
   {
    "id": "b5e8975730f7",
@@ -8239,8 +8607,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 32.6,
-   "importance": 4.093
+   "age_hours": 34.6,
+   "importance": 4.039
   },
   {
    "id": "32a71747ae90",
@@ -8262,8 +8630,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 32.7,
-   "importance": 4.093
+   "age_hours": 34.6,
+   "importance": 4.039
   },
   {
    "id": "03ec2eb7bc52",
@@ -8285,8 +8653,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 32.7,
-   "importance": 4.092
+   "age_hours": 34.6,
+   "importance": 4.038
   },
   {
    "id": "b5f7921e8e7a",
@@ -8308,8 +8676,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 32.8,
-   "importance": 4.089
+   "age_hours": 34.8,
+   "importance": 4.035
   },
   {
    "id": "7c24cd5ca8ea",
@@ -8331,8 +8699,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 32.9,
-   "importance": 4.085
+   "age_hours": 34.9,
+   "importance": 4.031
   },
   {
    "id": "130b169c9097",
@@ -8354,8 +8722,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 33.0,
-   "importance": 4.084
+   "age_hours": 34.9,
+   "importance": 4.03
   },
   {
    "id": "7d3c1c25a689",
@@ -8377,8 +8745,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 33.2,
-   "importance": 4.078
+   "age_hours": 35.1,
+   "importance": 4.024
   },
   {
    "id": "28f76fad3f60",
@@ -8400,8 +8768,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 33.2,
-   "importance": 4.077
+   "age_hours": 35.2,
+   "importance": 4.023
   },
   {
    "id": "bbf2b1958b9e",
@@ -8423,8 +8791,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 33.5,
-   "importance": 4.07
+   "age_hours": 35.4,
+   "importance": 4.016
   },
   {
    "id": "10eca9e09499",
@@ -8446,8 +8814,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 33.7,
-   "importance": 4.064
+   "age_hours": 35.6,
+   "importance": 4.01
   },
   {
    "id": "6aff626cede0",
@@ -8469,8 +8837,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 33.8,
-   "importance": 4.062
+   "age_hours": 35.7,
+   "importance": 4.008
   },
   {
    "id": "684c3890bfdd",
@@ -8492,8 +8860,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 33.9,
-   "importance": 4.06
+   "age_hours": 35.8,
+   "importance": 4.006
   },
   {
    "id": "56fd053b1ea7",
@@ -8515,8 +8883,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 34.8,
-   "importance": 4.032
+   "age_hours": 36.8,
+   "importance": 3.978
   },
   {
    "id": "c04d6f5167ed",
@@ -8538,8 +8906,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 36.2,
-   "importance": 3.994
+   "age_hours": 38.2,
+   "importance": 3.94
   },
   {
    "id": "a6cd062bb706",
@@ -8561,8 +8929,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 36.6,
-   "importance": 3.984
+   "age_hours": 38.5,
+   "importance": 3.93
   },
   {
    "id": "a13e6a03cee8",
@@ -8584,8 +8952,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 37.4,
-   "importance": 3.961
+   "age_hours": 39.3,
+   "importance": 3.907
   },
   {
    "id": "507575ce1423",
@@ -8607,8 +8975,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 38.7,
-   "importance": 3.924
+   "age_hours": 40.7,
+   "importance": 3.87
   },
   {
    "id": "5d3c494f3c8b",
@@ -8630,8 +8998,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 38.8,
-   "importance": 3.923
+   "age_hours": 40.7,
+   "importance": 3.87
   },
   {
    "id": "28aeb55720c8",
@@ -8653,8 +9021,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 38.8,
-   "importance": 3.923
+   "age_hours": 40.7,
+   "importance": 3.869
   },
   {
    "id": "ba3cece69efb",
@@ -8676,8 +9044,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 44.3,
-   "importance": 3.769
+   "age_hours": 46.3,
+   "importance": 3.715
   },
   {
    "id": "3b4ab57bd224",
@@ -8699,8 +9067,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 44.4,
-   "importance": 3.767
+   "age_hours": 46.3,
+   "importance": 3.713
   },
   {
    "id": "1f3d54b2a11c",
@@ -8722,8 +9090,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 46.2,
-   "importance": 3.716
+   "age_hours": 48.2,
+   "importance": 3.662
   },
   {
    "id": "11a3c1ae8496",
@@ -8745,8 +9113,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 47.9,
-   "importance": 3.67
+   "age_hours": 49.8,
+   "importance": 3.616
   },
   {
    "id": "5d9174dd4f1a",
@@ -8768,8 +9136,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 48.3,
-   "importance": 3.659
+   "age_hours": 50.2,
+   "importance": 3.605
   },
   {
    "id": "65f4a59ddd57",
@@ -8791,8 +9159,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 48.5,
-   "importance": 3.652
+   "age_hours": 50.5,
+   "importance": 3.598
   },
   {
    "id": "3513fbe8e952",
@@ -8814,8 +9182,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 49.1,
-   "importance": 3.635
+   "age_hours": 51.1,
+   "importance": 3.581
   },
   {
    "id": "500db364734b",
@@ -8837,8 +9205,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 49.3,
-   "importance": 3.631
+   "age_hours": 51.2,
+   "importance": 3.577
   },
   {
    "id": "ca379335b0df",
@@ -8860,8 +9228,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 49.8,
-   "importance": 3.616
+   "age_hours": 51.7,
+   "importance": 3.563
   },
   {
    "id": "1e43fcb983d0",
@@ -8883,8 +9251,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 50.4,
-   "importance": 3.6
+   "age_hours": 52.3,
+   "importance": 3.547
   },
   {
    "id": "6b9d6b83985d",
@@ -8906,8 +9274,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 50.6,
-   "importance": 3.594
+   "age_hours": 52.6,
+   "importance": 3.54
   },
   {
    "id": "f6f9a0db4185",
@@ -8929,8 +9297,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 51.1,
-   "importance": 3.58
+   "age_hours": 53.1,
+   "importance": 3.526
   },
   {
    "id": "0d516a24ee36",
@@ -8952,8 +9320,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 51.3,
-   "importance": 3.576
+   "age_hours": 53.2,
+   "importance": 3.522
   },
   {
    "id": "4017193a99f5",
@@ -8975,8 +9343,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 52.0,
-   "importance": 3.556
+   "age_hours": 53.9,
+   "importance": 3.502
   },
   {
    "id": "5484c1184001",
@@ -8998,8 +9366,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 52.0,
-   "importance": 3.556
+   "age_hours": 53.9,
+   "importance": 3.502
   },
   {
    "id": "30d678250b76",
@@ -9021,8 +9389,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 52.0,
-   "importance": 3.556
+   "age_hours": 53.9,
+   "importance": 3.502
   },
   {
    "id": "bd92b3fc75e1",
@@ -9044,8 +9412,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 52.3,
-   "importance": 3.547
+   "age_hours": 54.2,
+   "importance": 3.493
   },
   {
    "id": "d988f7c6be07",
@@ -9067,8 +9435,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 52.3,
-   "importance": 3.546
+   "age_hours": 54.3,
+   "importance": 3.492
   },
   {
    "id": "af880d90ada0",
@@ -9090,8 +9458,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 53.7,
-   "importance": 3.509
+   "age_hours": 55.6,
+   "importance": 3.455
   },
   {
    "id": "ef2da6cf0c5f",
@@ -9113,8 +9481,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 53.8,
-   "importance": 3.505
+   "age_hours": 55.7,
+   "importance": 3.452
   },
   {
    "id": "a9ae89e7d70a",
@@ -9136,8 +9504,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 56.2,
-   "importance": 3.44
+   "age_hours": 58.1,
+   "importance": 3.386
   },
   {
    "id": "bba291662c45",
@@ -9159,8 +9527,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 65.5,
-   "importance": 3.179
+   "age_hours": 67.5,
+   "importance": 3.125
   },
   {
    "id": "96b9f45bb2e6",
@@ -9182,31 +9550,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 67.4,
-   "importance": 3.129
-  },
-  {
-   "id": "f7b9bc5b7e40",
-   "kind": "summary",
-   "headline": "Anthropic files its initial public offering prospectus detailing massive growth and risks",
-   "title": "Will the real Anthropic please stand up",
-   "summary": "Artificial intelligence firm Anthropic filed its initial public offering prospectus, valuing the company at over one billion dollars and warning that advanced machine intelligence could pose catastrophic societal risks. Chief executive officer Dario Amodei defended the organization's race to the top strategy, while critics questioned whether the company functions primarily as a safety advocate or a commercial enterprise pursuing superhuman capabilities.",
-   "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it…",
-   "long": false,
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/anthropic-dario1a.jpg?resize=1200,600",
-   "video_url": null,
-   "source": "MIT Technology Review",
-   "section": "AI",
-   "category": "Tech",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-   "published_at": "2026-10-26T17:45:43+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 71.4,
-   "importance": 3.018
+   "age_hours": 69.3,
+   "importance": 3.075
   }
  ]
 }
