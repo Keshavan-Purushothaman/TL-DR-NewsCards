@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-29T07:04:01+00:00",
+ "generated_at": "2026-10-29T09:04:13+00:00",
  "window_hours": 72,
- "count": 274,
+ "count": 304,
  "kinds": {
-  "summary": 235,
+  "summary": 263,
   "video": 36,
-  "preview": 3
+  "preview": 5
  },
  "articles": [
   {
@@ -28,8 +28,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.8,
-   "importance": 6.979
+   "age_hours": 2.8,
+   "importance": 6.923
   },
   {
    "id": "aa7a3ff91ac0",
@@ -51,8 +51,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 3.7,
-   "importance": 6.897
+   "age_hours": 5.7,
+   "importance": 6.842
   },
   {
    "id": "5c65953d93c0",
@@ -74,8 +74,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 7.0,
-   "importance": 6.804
+   "age_hours": 9.1,
+   "importance": 6.749
   },
   {
    "id": "4e9d8ac39ff8",
@@ -97,8 +97,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.4,
-   "importance": 6.738
+   "age_hours": 11.4,
+   "importance": 6.683
   },
   {
    "id": "c0f3d39ca29e",
@@ -120,8 +120,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 11.5,
-   "importance": 6.68
+   "age_hours": 13.5,
+   "importance": 6.624
   },
   {
    "id": "3999cd45bb96",
@@ -143,8 +143,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 12.0,
-   "importance": 6.667
+   "age_hours": 14.0,
+   "importance": 6.612
   },
   {
    "id": "ece698ab3c8d",
@@ -166,8 +166,192 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.0,
-   "importance": 6.444
+   "age_hours": 22.0,
+   "importance": 6.388
+  },
+  {
+   "id": "985c1afacb3c",
+   "kind": "summary",
+   "headline": "Odisha prepares to airlift flood-stranded residents as cyclone brings heavy rain",
+   "title": "Cyclone Arnab: Odisha prepares to airlift people stranded by floodwater",
+   "summary": "Roads were cut off and hundreds of villages were inundated by floodwaters in Odisha’s Ganjam and Gajapati districts as the State government prepared to airlift stranded people on Thursday, October 29, 2026. Union Home Minister Amit Shah spoke to Chief Minister Mohan Charan Majhi regarding the situation after Cyclonic Storm Arnab weakened. State Chief Secretary Anu Garg stated that approximately 2,000 people were marooned in Ganjam district.",
+   "description": "Two rain gauge stations at Patrapur and Sorada in Odisha’s Ganjam district received rainfall above 50 cm in 24 hours",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/oyilzd/article71639613.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-29%20at%2007.22.34.jpeg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.thehindu.com/news/national/odisha/post-arnab-odisha-preparing-to-airlift-people-stranded-by-floodwater/article71639465.ece",
+   "published_at": "2026-10-29T08:46:41+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.3,
+   "importance": 5.992
+  },
+  {
+   "id": "9a88a1cd2cbb",
+   "kind": "summary",
+   "headline": "Seven killed in Delhi building collapse as authorities face safety scrutiny",
+   "title": "When home in Delhi became a death trap: Satya Niketan building collapse",
+   "summary": "Seven people died and twelve were rescued following the collapse of the Hostel Daze building in south Delhi’s Satya Niketan on September 6, 2026. Students, shopkeepers, and residents initiated rescue efforts before emergency personnel arrived through narrow lanes. According to the Municipal Corporation of Delhi, the five-storey building lacked a sanctioned plan, fire no-objection certificate, and occupancy certificate, exposing widespread regulatory and safety enforcement failures.",
+   "description": "The collapse of a five-storey building in Delhi’s Satya Niketan on September 6 killed seven people. The incident has exposed the precarious housing conditions for students in the capital, where the demand for affordable accommodation far outstrips the availability of institutional hostels. Lavpreet Kaur reports on the rescue and the questions being raised over the safety of paying guest accommodation",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/kcvgpr/article71456706.ece/alternates/LANDSCAPE_1200/shashi_BUILDING_COLLAPSE_NEW_DELHI_24_.JPG",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "feature",
+   "significance": 4,
+   "url": "https://www.thehindu.com/news/cities/Delhi/when-home-in-delhi-became-a-death-trap-satya-niketan-building-collapse/article71456359.ece",
+   "published_at": "2026-10-29T08:32:38+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.5,
+   "importance": 5.985
+  },
+  {
+   "id": "938fb5d1522a",
+   "kind": "summary",
+   "headline": "At least 68 killed in high-speed train collision in central Spain",
+   "title": "‘I held this woman in my arms. She died’: Spain mourns train crash victims",
+   "summary": "At least 68 people were killed and 77 others injured after a high-speed train traveling from Madrid to Seville collided with a stationary locomotive in a rural area between Urda and Los Yebenes on Wednesday. Spain’s national train operator Renfe launched an investigation into the disaster. Transport Minister Oscar Puente stated that the train was authorized to continue despite an active red signal caused by a computer communications failure.",
+   "description": "Second tragedy on line in about nine months raises questions about levels of investment in railway maintenance.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-28T145707Z_1622502881_RC2ECOAJZ53C_RTRMADP_3_SPAIN-ACCIDENT-1793261998.jpg?resize=1920%2C1440",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.aljazeera.com/news/2026/10/29/i-held-this-woman-in-my-arms-she-died-spain-mourns-train-crash-victims?traffic_source=rss",
+   "published_at": "2026-10-29T08:20:34+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.7,
+   "importance": 5.98
+  },
+  {
+   "id": "a0b0fd354f2a",
+   "kind": "summary",
+   "headline": "Israel faces political deadlock after general election yields no clear majority",
+   "title": "Israel elections 2026: Benjamin Netanyahu is down but not out",
+   "summary": "Israel’s October 27, 2026 election resulted in a divided parliament where no single bloc secured the 61 seats needed for a majority in the Knesset. Prime Minister Benjamin Netanyahu’s right-religious coalition won 53 seats, while the opposition bloc led by Gadi Eisenkot secured 48 seats. Arab parties emerged as a third bloc with 19 seats, creating a political deadlock that could lead to another election within months.",
+   "description": "Israel’s tight election leaves Benjamin Netanyahu with a fractured majority and a possible caretaker role amid a three-bloc divide and looming coalition uncertainties",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/31qgu3/article71639564.ece/alternates/LANDSCAPE_1200/2026-10-28T013812Z_135561772_RC21COAAC2E7_RTRMADP_3_ISRAEL-ELECTION.JPG",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "International",
+   "category": "World",
+   "type": "analysis",
+   "significance": 4,
+   "url": "https://www.thehindu.com/news/international/israel-election-2026-benjamin-netanyahu-is-down-but-not-out/article71639548.ece",
+   "published_at": "2026-10-29T08:17:35+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.8,
+   "importance": 5.978
+  },
+  {
+   "id": "03fc71812921",
+   "kind": "summary",
+   "headline": "United States bans imports from three Chinese genomics companies over forced labour",
+   "title": "U.S. bans imports from Chinese genomics companies over forced labour concerns",
+   "summary": "The United States Department of Homeland Security banned imports from BGI Genomics, MGI Tech, and Shenzhen BGI Technology on Wednesday, October 28, 2026, alleging they collected genetic material used to track persecuted ethnic minorities in Xinjiang. The companies were added to the Uyghur Forced Labor Prevention Act Entity List. Beijing strongly condemned the ban, while the firms denied all allegations involving forced labour.",
+   "description": "According to the U.S. Homeland Security, the companies “helped collect genetic material used to track persecuted ethnic minorities, including people subjected to forced labour...”",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/8v2av6/article71639462.ece/alternates/LANDSCAPE_1200/istockphoto-496280562-612x612.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "International",
+   "category": "World",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.thehindu.com/news/international/us-bans-chinese-genomics-imports-from-companies-forced-labour-concerns-alleged-detention-of-uyghurs-muslims-minorities/article71639437.ece",
+   "published_at": "2026-10-29T08:02:01+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.0,
+   "importance": 5.971
+  },
+  {
+   "id": "403bb8d4ba20",
+   "kind": "summary",
+   "headline": "Andhra Pradesh Chief Minister N. Chandrababu Naidu announces relief package after Cyclone Arnab",
+   "title": "Cyclone Arnab claims five lives in Andhra Pradesh; Naidu announces relief package",
+   "summary": "Cyclone Arnab resulted in five fatalities across Andhra Pradesh, leading Chief Minister N. Chandrababu Naidu to unveil a comprehensive compensation package on October 28, 2026. Addressing reporters in Visakhapatnam, Naidu detailed financial aid for damaged homes, crops, and businesses following winds reaching 150 kmph. The government aims to assist affected residents while recovery efforts continue.",
+   "description": "₹5 lakh ex gratia for each victim; aid announced for farmers, fishermen, households and businesses",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/vgen5l/article71636170.ece/alternates/LANDSCAPE_1200/PTI10_28_2026_000163B.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-claims-five-lives-in-andhra-pradesh-naidu-announces-relief-package/article71636008.ece",
+   "published_at": "2026-10-29T07:52:59+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.2,
+   "importance": 5.967
+  },
+  {
+   "id": "1ef8f758f511",
+   "kind": "summary",
+   "headline": "Poland pivots toward India to strengthen economic and defense cooperation",
+   "title": "Poland pivots towards India as ‘strategic partnership’ with China develops cracks",
+   "summary": "Poland is strengthening its strategic partnership with India through improved economic and defense collaboration following Prime Minister Donald Tusk’s recent visit. This diplomatic shift comes as Warsaw distances itself from China due to trade imbalances and concerns regarding the Russia-Ukraine war. A recent Polish government study warned that European industries face significant economic pressure and job losses from Chinese state-led industrial strategies.",
+   "description": "Poland and India seek to raise bilateral trade from $6 bn to $12 bn; PM Modi visited Poland in 2024, during which ties were elevated to ‘strategic partnership’; Warsaw is also trying to diversify partnerships as trade imbalance and Beijing’s support for Russia deepen disillusionment with China",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/k4z9xe/article71637682.ece/alternates/LANDSCAPE_1200/20261022372L.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "World",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.thehindu.com/news/national/poland-pivots-towards-india-as-strategic-partnership-with-china-develops-cracks/article71636517.ece",
+   "published_at": "2026-10-29T07:52:30+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.2,
+   "importance": 5.967
+  },
+  {
+   "id": "c797c2beae77",
+   "kind": "summary",
+   "headline": "United Nations reports surge in Afghan opium poppy cultivation despite Taliban ban",
+   "title": "Afghanistan opium poppy cultivation surges despite Taliban government ban: UN",
+   "summary": "Opium poppy cultivation in Afghanistan quadrupled to 43,000 hectares in 2026 despite an ongoing Taliban government ban, according to a United Nations Office on Drugs and Crime report released on October 29, 2026. Executive Director Monica Juma stated that impoverished farmers lack viable alternatives to the lucrative trade. The United Nations emphasized the urgent need for international support and sustainable livelihoods.",
+   "description": "Afghanistan’s 2022 crackdown drove cultivated areas down from more than 2,00,000 hectares to 10,000 hectares in 2025",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/news/national/2ksqx6/article71639481.ece/alternates/LANDSCAPE_1200/AFP__20261029__D3XL8TB__v2__HighRes__TopshotAfghanistanDrugsAgriculture.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "International",
+   "category": "World",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.thehindu.com/news/international/afghanistan-opium-poppy-cultivation-surges-despite-taliban-government-ban-un/article71639446.ece",
+   "published_at": "2026-10-29T07:35:06+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.5,
+   "importance": 5.959
   },
   {
    "id": "9a87bfeb70b2",
@@ -180,17 +364,40 @@
    "image": "https://th-i.thgim.com/public/incoming/gm5j7x/article71639374.ece/alternates/LANDSCAPE_1200/20261029009L.jpg",
    "video_url": null,
    "source": "The Hindu",
-   "section": "National",
+   "section": "International",
    "category": "India",
    "type": "news",
    "significance": 4,
    "url": "https://www.thehindu.com/news/national/rajnath-singh-india-asean-defence-ministers-meeting-plus-conclave-philippines/article71639347.ece",
-   "published_at": "2026-10-29T06:45:24+00:00",
+   "published_at": "2026-10-29T07:25:21+00:00",
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.3,
-   "importance": 5.991
+   "age_hours": 1.6,
+   "importance": 5.954
+  },
+  {
+   "id": "537383d80819",
+   "kind": "summary",
+   "headline": "North Korea launches short-range ballistic missiles following border dispute tensions with Seoul",
+   "title": "North Korea fires missiles as row over landmine blast intensifies",
+   "summary": "North Korea fired approximately ten short-range ballistic missiles off its east coast into the Sea of Japan on Thursday, as reported by South Korea’s Joint Chiefs of Staff. The launch occurred amid escalating hostility surrounding a landmine explosion in the Demilitarized Zone on September 21. Pyongyang rejected joint investigation findings and dismissed recent dialogue overtures proposed by South Korea.",
+   "description": "Seoul accuses Pyongyang of causing a landmine explosion that injured three of its soldiers, an accusation North denies.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-27T044756Z_212017264_RC2EBOAT5PWR_RTRMADP_3_SOUTHKOREA-NORTHKOREA-BORDER-1793248716.jpg?resize=1799%2C1080",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss",
+   "published_at": "2026-10-29T07:24:47+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.7,
+   "importance": 5.954
   },
   {
    "id": "0fb880f125f2",
@@ -208,12 +415,35 @@
    "type": "news",
    "significance": 4,
    "url": "https://www.thehindu.com/news/international/us-judge-rejects-donald-trumps-bid-to-purge-20000-california-ballots-safeguarding-voters-rights-ahead-of-the-midterms/article71639192.ece",
-   "published_at": "2026-10-29T06:43:33+00:00",
+   "published_at": "2026-10-29T07:21:50+00:00",
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.3,
-   "importance": 5.991
+   "age_hours": 1.7,
+   "importance": 5.953
+  },
+  {
+   "id": "d5fcb96e2ab8",
+   "kind": "summary",
+   "headline": "United States Democrats lead national polls as key midterm elections approach",
+   "title": "US midterms: Five days to go – What the polls say as Trump, Harris campaign",
+   "summary": "Democrats hold an 8.2 percentage point lead nationally ahead of the United States midterm elections, though several Senate races remain competitive. Political figures including President Donald Trump and former President Barack Obama campaigned across key states on Wednesday to influence voters. Both parties are heavily targeting control of Congress with just five days remaining until the ballot.",
+   "description": "With five days until the US midterms, here's what polls show, the latest campaign news and what's next.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ae2c23364e7-1793245747.jpg?resize=1920%2C1440",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "analysis",
+   "significance": 4,
+   "url": "https://www.aljazeera.com/news/2026/10/29/us-midterms-five-days-to-go-what-the-polls-say-as-trump-harris-campaign?traffic_source=rss",
+   "published_at": "2026-10-29T07:01:10+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 2.1,
+   "importance": 5.943
   },
   {
    "id": "b74ccf3e0154",
@@ -235,8 +465,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.5,
-   "importance": 5.987
+   "age_hours": 2.5,
+   "importance": 5.931
   },
   {
    "id": "4b512f253636",
@@ -258,8 +488,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.6,
-   "importance": 5.985
+   "age_hours": 2.6,
+   "importance": 5.929
   },
   {
    "id": "ee186b92d804",
@@ -281,8 +511,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 36.6,
-   "importance": 5.983
+   "age_hours": 38.6,
+   "importance": 5.928
   },
   {
    "id": "775a263f062e",
@@ -304,8 +534,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.6,
-   "importance": 5.982
+   "age_hours": 2.7,
+   "importance": 5.926
   },
   {
    "id": "9ddd05ecb2c0",
@@ -327,8 +557,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.8,
-   "importance": 5.977
+   "age_hours": 2.8,
+   "importance": 5.921
   },
   {
    "id": "a5b8d49bb0b8",
@@ -350,8 +580,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.9,
-   "importance": 5.974
+   "age_hours": 2.9,
+   "importance": 5.918
   },
   {
    "id": "38c5c7239428",
@@ -373,8 +603,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.0,
-   "importance": 5.971
+   "age_hours": 3.0,
+   "importance": 5.915
   },
   {
    "id": "15f1b1f7b417",
@@ -396,8 +626,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.3,
-   "importance": 5.964
+   "age_hours": 3.3,
+   "importance": 5.908
   },
   {
    "id": "e64fcecb5eb2",
@@ -419,8 +649,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.7,
-   "importance": 5.953
+   "age_hours": 3.7,
+   "importance": 5.897
   },
   {
    "id": "f9a87d043fd1",
@@ -442,8 +672,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 2.0,
-   "importance": 5.946
+   "age_hours": 4.0,
+   "importance": 5.89
   },
   {
    "id": "d210fdcb8596",
@@ -465,8 +695,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 2.9,
-   "importance": 5.919
+   "age_hours": 4.9,
+   "importance": 5.863
   },
   {
    "id": "3d165b65507e",
@@ -488,8 +718,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 3.9,
-   "importance": 5.893
+   "age_hours": 5.9,
+   "importance": 5.837
   },
   {
    "id": "15817e100da6",
@@ -511,8 +741,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.3,
-   "importance": 5.882
+   "age_hours": 6.3,
+   "importance": 5.826
   },
   {
    "id": "afa317cde47e",
@@ -534,8 +764,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.3,
-   "importance": 5.879
+   "age_hours": 6.3,
+   "importance": 5.824
   },
   {
    "id": "4a29fda1aa0f",
@@ -557,31 +787,31 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 5.0,
-   "importance": 5.86
+   "age_hours": 7.0,
+   "importance": 5.805
   },
   {
-   "id": "1ef8f758f511",
+   "id": "1588baceb499",
    "kind": "summary",
-   "headline": "Poland pivots toward India to strengthen economic and defense cooperation",
-   "title": "Poland pivots towards India as ‘strategic partnership’ with China develops cracks",
-   "summary": "Poland is strengthening its strategic partnership with India through improved economic and defense collaboration following Prime Minister Donald Tusk’s recent visit. This diplomatic shift comes as Warsaw distances itself from China due to trade imbalances and concerns regarding the Russia-Ukraine war. A recent Polish government study warned that European industries face significant economic pressure and job losses from Chinese state-led industrial strategies.",
-   "description": "Poland and India seek to raise bilateral trade from $6 bn to $10 bn; PM Modi visited Poland in 2024, during which ties were elevated to ‘strategic partnership’; Warsaw is also trying to diversify partnerships as trade imbalance and Beijing’s support for Russia deepen disillusionment with China",
+   "headline": "Department of Homeland Security personnel details leaked in major United States cyber breach",
+   "title": "Details of thousands of US immigration agents leaked in major hack",
+   "summary": "Personal details of more than 41,000 personnel from the United States Department of Homeland Security were leaked online in a breach publicized on Wednesday. The leaked database, dubbed Icepick, included names and work addresses of agents from Immigration and Customs Enforcement and Customs and Border Protection. Officials stated the agency is actively investigating the incident involving single sign-on service Okta.",
+   "description": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
    "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/k4z9xe/article71637682.ece/alternates/LANDSCAPE_1200/20261022372L.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c03/live/2996f1b0-d318-11f1-ba7d-b5eab6da6837.jpg",
    "video_url": null,
-   "source": "The Hindu",
-   "section": "International",
-   "category": "World",
+   "source": "BBC",
+   "section": "World",
+   "category": "Tech",
    "type": "news",
    "significance": 4,
-   "url": "https://www.thehindu.com/news/national/poland-pivots-towards-india-as-strategic-partnership-with-china-develops-cracks/article71636517.ece",
-   "published_at": "2026-10-29T01:49:39+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+   "published_at": "2026-10-29T01:30:43+00:00",
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 5.2,
-   "importance": 5.854
+   "age_hours": 7.6,
+   "importance": 5.79
   },
   {
    "id": "84a77a1d5222",
@@ -603,8 +833,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 5.8,
-   "importance": 5.839
+   "age_hours": 7.8,
+   "importance": 5.783
   },
   {
    "id": "024362b0eb15",
@@ -626,8 +856,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 5.8,
-   "importance": 5.838
+   "age_hours": 7.8,
+   "importance": 5.782
   },
   {
    "id": "e11fc8fc994f",
@@ -649,8 +879,31 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 6.5,
-   "importance": 5.821
+   "age_hours": 8.5,
+   "importance": 5.765
+  },
+  {
+   "id": "89f76ea45baa",
+   "kind": "summary",
+   "headline": "European youth launch widespread protests amid economic and educational concerns",
+   "title": "Europe's youth take to the streets - they feel locked out of a promising future",
+   "summary": "Young people across several European countries have taken to the streets in recent weeks, staging demonstrations fueled by education grievances, social inequalities, and the rising cost of living. Organized largely through social media platforms like TikTok, the protests have affected nations including France, Spain, Portugal, and Italy, with participants expressing deep anxiety over future career stagnation and housing affordability.",
+   "description": "The last month has seen youth-driven demonstrations across Europe. What connects them?",
+   "long": false,
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64cf/live/0f06e8c0-d2e9-11f1-b441-2b33b063138f.jpg",
+   "video_url": null,
+   "source": "BBC",
+   "section": "World",
+   "category": "World",
+   "type": "analysis",
+   "significance": 4,
+   "url": "https://www.bbc.co.uk/news/articles/cm2ke80nd929o?at_medium=RSS&at_campaign=rss",
+   "published_at": "2026-10-29T00:33:11+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 8.5,
+   "importance": 5.763
   },
   {
    "id": "0898fb9fce38",
@@ -672,8 +925,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 7.9,
-   "importance": 5.781
+   "age_hours": 9.9,
+   "importance": 5.726
   },
   {
    "id": "c997ada4c43b",
@@ -695,8 +948,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.7,
-   "importance": 5.732
+   "age_hours": 11.7,
+   "importance": 5.676
   },
   {
    "id": "d40c52ba3492",
@@ -718,8 +971,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 10.2,
-   "importance": 5.717
+   "age_hours": 12.2,
+   "importance": 5.661
   },
   {
    "id": "75ef9e225636",
@@ -741,8 +994,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 10.7,
-   "importance": 5.704
+   "age_hours": 12.7,
+   "importance": 5.648
   },
   {
    "id": "cf4de280e000",
@@ -764,8 +1017,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 10.7,
-   "importance": 5.703
+   "age_hours": 12.7,
+   "importance": 5.647
   },
   {
    "id": "fc7d1d71bde9",
@@ -787,8 +1040,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 11.0,
-   "importance": 5.694
+   "age_hours": 13.0,
+   "importance": 5.638
   },
   {
    "id": "ec86b81cf420",
@@ -810,8 +1063,31 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 11.8,
-   "importance": 5.672
+   "age_hours": 13.8,
+   "importance": 5.617
+  },
+  {
+   "id": "22c43f17fa5f",
+   "kind": "summary",
+   "headline": "Vladimir Putin praises Elon Musk following satellite technology discussions",
+   "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+   "summary": "Russian President Vladimir Putin described SpaceX founder Elon Musk as a real genius during the Russia-Africa Summit in Moscow, confirming close contact between the two regarding satellite technology. Putin emphasized the necessity of coordinating between Starlink and Russia's Rassvet internet project to prevent orbital interference, highlighting ongoing communication between American and Russian partners despite broader geopolitical tensions.",
+   "description": "The Russian President praised Musk and said they are in \"close\" contact.",
+   "long": false,
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4e/live/248d87d0-d2fd-11f1-8091-57f2713cabe8.jpg",
+   "video_url": null,
+   "source": "BBC",
+   "section": "World",
+   "category": "World",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+   "published_at": "2026-10-28T19:15:58+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 13.8,
+   "importance": 5.617
   },
   {
    "id": "f5fab88b263d",
@@ -833,8 +1109,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 11.8,
-   "importance": 5.672
+   "age_hours": 13.8,
+   "importance": 5.616
   },
   {
    "id": "e23ba5b81f91",
@@ -856,8 +1132,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 11.8,
-   "importance": 5.671
+   "age_hours": 13.8,
+   "importance": 5.615
   },
   {
    "id": "24683ee2049a",
@@ -879,8 +1155,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 12.0,
-   "importance": 5.666
+   "age_hours": 14.0,
+   "importance": 5.611
   },
   {
    "id": "239472e3baa2",
@@ -902,8 +1178,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 12.0,
-   "importance": 5.666
+   "age_hours": 14.0,
+   "importance": 5.61
   },
   {
    "id": "d2850f59aa05",
@@ -925,8 +1201,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 12.3,
-   "importance": 5.659
+   "age_hours": 14.3,
+   "importance": 5.603
   },
   {
    "id": "2e81a964f426",
@@ -948,8 +1224,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 12.5,
-   "importance": 5.652
+   "age_hours": 14.5,
+   "importance": 5.596
   },
   {
    "id": "edcf9f1b26b2",
@@ -971,8 +1247,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 13.1,
-   "importance": 5.635
+   "age_hours": 15.1,
+   "importance": 5.58
   },
   {
    "id": "3463dcd376be",
@@ -994,8 +1270,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 13.3,
-   "importance": 5.631
+   "age_hours": 15.3,
+   "importance": 5.576
   },
   {
    "id": "5deec064c22d",
@@ -1017,8 +1293,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 13.5,
-   "importance": 5.624
+   "age_hours": 15.5,
+   "importance": 5.568
   },
   {
    "id": "d851d9084364",
@@ -1040,8 +1316,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 13.6,
-   "importance": 5.621
+   "age_hours": 15.6,
+   "importance": 5.566
   },
   {
    "id": "e6569ef9a816",
@@ -1063,8 +1339,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.3,
-   "importance": 5.602
+   "age_hours": 16.3,
+   "importance": 5.547
   },
   {
    "id": "ca826c4c6bd3",
@@ -1086,8 +1362,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.3,
-   "importance": 5.602
+   "age_hours": 16.3,
+   "importance": 5.547
   },
   {
    "id": "1447c217577f",
@@ -1109,8 +1385,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.5,
-   "importance": 5.598
+   "age_hours": 16.5,
+   "importance": 5.542
   },
   {
    "id": "32980ef41d09",
@@ -1132,8 +1408,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.5,
-   "importance": 5.597
+   "age_hours": 16.5,
+   "importance": 5.541
   },
   {
    "id": "57d488816e35",
@@ -1155,8 +1431,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.7,
-   "importance": 5.591
+   "age_hours": 16.7,
+   "importance": 5.535
   },
   {
    "id": "42cec9020ca8",
@@ -1178,8 +1454,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.8,
-   "importance": 5.59
+   "age_hours": 16.8,
+   "importance": 5.534
   },
   {
    "id": "e9f5c31dd49c",
@@ -1201,8 +1477,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.9,
-   "importance": 5.587
+   "age_hours": 16.9,
+   "importance": 5.531
   },
   {
    "id": "f0a8e099cc3e",
@@ -1224,8 +1500,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.9,
-   "importance": 5.587
+   "age_hours": 16.9,
+   "importance": 5.531
   },
   {
    "id": "3f670249f747",
@@ -1247,8 +1523,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.9,
-   "importance": 5.586
+   "age_hours": 16.9,
+   "importance": 5.531
   },
   {
    "id": "41d62a185cb6",
@@ -1270,8 +1546,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 15.0,
-   "importance": 5.584
+   "age_hours": 17.0,
+   "importance": 5.528
   },
   {
    "id": "6d8aed2ea9b8",
@@ -1293,8 +1569,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 16.0,
-   "importance": 5.555
+   "age_hours": 18.0,
+   "importance": 5.499
   },
   {
    "id": "e3c578f1e004",
@@ -1316,8 +1592,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 16.3,
-   "importance": 5.548
+   "age_hours": 18.3,
+   "importance": 5.492
   },
   {
    "id": "f876ecc3b9e0",
@@ -1339,8 +1615,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 16.5,
-   "importance": 5.541
+   "age_hours": 18.5,
+   "importance": 5.485
   },
   {
    "id": "ed7ab4200989",
@@ -1362,8 +1638,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 16.6,
-   "importance": 5.54
+   "age_hours": 18.6,
+   "importance": 5.484
   },
   {
    "id": "57ec599a8c0d",
@@ -1385,8 +1661,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 16.6,
-   "importance": 5.538
+   "age_hours": 18.6,
+   "importance": 5.482
   },
   {
    "id": "dd6b63718d05",
@@ -1408,8 +1684,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 17.3,
-   "importance": 5.52
+   "age_hours": 19.3,
+   "importance": 5.465
   },
   {
    "id": "478f321a9856",
@@ -1431,8 +1707,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 18.2,
-   "importance": 5.495
+   "age_hours": 20.2,
+   "importance": 5.44
   },
   {
    "id": "665f080ebc25",
@@ -1454,8 +1730,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 18.2,
-   "importance": 5.494
+   "age_hours": 20.2,
+   "importance": 5.439
   },
   {
    "id": "9e59c0ad5ba4",
@@ -1477,8 +1753,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 18.7,
-   "importance": 5.481
+   "age_hours": 20.7,
+   "importance": 5.425
   },
   {
    "id": "ac7681a907dc",
@@ -1500,8 +1776,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.0,
-   "importance": 5.472
+   "age_hours": 21.0,
+   "importance": 5.416
   },
   {
    "id": "f5b8933fc304",
@@ -1523,8 +1799,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.3,
-   "importance": 5.465
+   "age_hours": 21.3,
+   "importance": 5.409
   },
   {
    "id": "3b19e1547bcf",
@@ -1546,8 +1822,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.3,
-   "importance": 5.464
+   "age_hours": 21.3,
+   "importance": 5.409
   },
   {
    "id": "9c6684c4371e",
@@ -1569,8 +1845,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.4,
-   "importance": 5.462
+   "age_hours": 21.4,
+   "importance": 5.406
   },
   {
    "id": "764acdca1ab9",
@@ -1592,8 +1868,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.4,
-   "importance": 5.462
+   "age_hours": 21.4,
+   "importance": 5.406
   },
   {
    "id": "e1dc7c44a9f0",
@@ -1615,8 +1891,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.5,
-   "importance": 5.458
+   "age_hours": 21.5,
+   "importance": 5.402
   },
   {
    "id": "fba0feaf5ca6",
@@ -1638,8 +1914,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.4,
-   "importance": 5.435
+   "age_hours": 22.4,
+   "importance": 5.379
   },
   {
    "id": "f0f9d42d04bc",
@@ -1661,8 +1937,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.4,
-   "importance": 5.434
+   "age_hours": 22.4,
+   "importance": 5.378
   },
   {
    "id": "29a407ace633",
@@ -1684,8 +1960,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.4,
-   "importance": 5.432
+   "age_hours": 22.4,
+   "importance": 5.376
   },
   {
    "id": "e7ddc6e3d1c0",
@@ -1707,8 +1983,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.5,
-   "importance": 5.431
+   "age_hours": 22.5,
+   "importance": 5.375
   },
   {
    "id": "f81bf98eb094",
@@ -1730,8 +2006,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.5,
-   "importance": 5.429
+   "age_hours": 22.5,
+   "importance": 5.374
   },
   {
    "id": "159afd01932d",
@@ -1753,8 +2029,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.5,
-   "importance": 5.429
+   "age_hours": 22.5,
+   "importance": 5.374
   },
   {
    "id": "a8a55a9b5ff8",
@@ -1776,8 +2052,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 21.3,
-   "importance": 5.407
+   "age_hours": 23.4,
+   "importance": 5.351
   },
   {
    "id": "34d73bfabbb9",
@@ -1799,8 +2075,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 21.5,
-   "importance": 5.404
+   "age_hours": 23.5,
+   "importance": 5.348
   },
   {
    "id": "a34ced614104",
@@ -1822,8 +2098,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 21.6,
-   "importance": 5.399
+   "age_hours": 23.6,
+   "importance": 5.344
   },
   {
    "id": "329db33fd1f4",
@@ -1845,8 +2121,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.8,
-   "importance": 5.366
+   "age_hours": 24.8,
+   "importance": 5.311
   },
   {
    "id": "486bcef73d9c",
@@ -1868,8 +2144,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.8,
-   "importance": 5.366
+   "age_hours": 24.8,
+   "importance": 5.31
   },
   {
    "id": "46fd82656d13",
@@ -1891,8 +2167,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.9,
-   "importance": 5.363
+   "age_hours": 24.9,
+   "importance": 5.307
   },
   {
    "id": "8c5364f55668",
@@ -1914,8 +2190,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.1,
-   "importance": 5.359
+   "age_hours": 25.1,
+   "importance": 5.303
   },
   {
    "id": "166dfc0891d5",
@@ -1937,8 +2213,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.1,
-   "importance": 5.358
+   "age_hours": 25.1,
+   "importance": 5.302
   },
   {
    "id": "95bcc36bb7cd",
@@ -1960,8 +2236,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.5,
-   "importance": 5.348
+   "age_hours": 25.5,
+   "importance": 5.292
   },
   {
    "id": "21f0d05744eb",
@@ -1983,8 +2259,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.6,
-   "importance": 5.345
+   "age_hours": 25.6,
+   "importance": 5.29
   },
   {
    "id": "8b03954589ae",
@@ -2006,8 +2282,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.9,
-   "importance": 5.308
+   "age_hours": 26.9,
+   "importance": 5.252
   },
   {
    "id": "8d0f3871e953",
@@ -2029,8 +2305,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 25.5,
-   "importance": 5.291
+   "age_hours": 27.5,
+   "importance": 5.235
   },
   {
    "id": "8848ba4a5542",
@@ -2052,8 +2328,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 26.7,
-   "importance": 5.259
+   "age_hours": 28.7,
+   "importance": 5.203
   },
   {
    "id": "973cb2e0af74",
@@ -2075,8 +2351,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 26.8,
-   "importance": 5.255
+   "age_hours": 28.8,
+   "importance": 5.2
   },
   {
    "id": "0d3861245e4d",
@@ -2098,8 +2374,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 27.8,
-   "importance": 5.227
+   "age_hours": 29.8,
+   "importance": 5.171
   },
   {
    "id": "3fe4c4b2ef47",
@@ -2121,8 +2397,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 30.0,
-   "importance": 5.165
+   "age_hours": 32.1,
+   "importance": 5.11
   },
   {
    "id": "8ad15c43ee8f",
@@ -2144,8 +2420,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 31.0,
-   "importance": 5.14
+   "age_hours": 33.0,
+   "importance": 5.084
   },
   {
    "id": "701ff3082663",
@@ -2167,8 +2443,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 31.8,
-   "importance": 5.117
+   "age_hours": 33.8,
+   "importance": 5.061
   },
   {
    "id": "8d8125acfa76",
@@ -2190,8 +2466,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 32.9,
-   "importance": 5.087
+   "age_hours": 34.9,
+   "importance": 5.031
   },
   {
    "id": "9de2c87236e3",
@@ -2213,8 +2489,77 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 33.3,
-   "importance": 5.075
+   "age_hours": 35.3,
+   "importance": 5.02
+  },
+  {
+   "id": "7e76bf3fd585",
+   "kind": "summary",
+   "headline": "GameDev Outlook report highlights capital barriers for Indian developers",
+   "title": "GDAI launches India gaming report, highlights need for stronger funding",
+   "summary": "Approximately seventy-five percent of game developers in India identify capital and publishing investment as major growth barriers, according to a new report launched by the Game Developer Association of India in Chennai. Developed alongside PhonePe Appstore and The Dialogue, the study notes that while India generated over one billion dollars in revenue, monetization potential remains limited relative to the vast player base.",
+   "description": "The report — developed in partnership with PhonePe Appstore and research partner The Dialogue — examines the structural challenges facing Indian game developers and identifies priorities for building globally competitive studios",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/qa3651/article71639723.ece/alternates/LANDSCAPE_1200/HVej_WYbcAAJlyC.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "Business",
+   "category": "Business",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/business/Industry/gdai-launches-india-gaming-report-highlights-need-for-stronger-funding/article71639326.ece",
+   "published_at": "2026-10-29T08:56:20+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.1,
+   "importance": 4.996
+  },
+  {
+   "id": "46dafeb4d307",
+   "kind": "summary",
+   "headline": "New low-pressure area forms in Andaman Sea following Cyclone Arnab",
+   "title": "Low pressure forms in Andaman Sea after Cyclone Arnab, may affect Andhra Pradesh",
+   "summary": "A fresh low-pressure system has formed over the south Andaman Sea under the influence of a cyclonic circulation just a day after Cyclone Arnab crossed the coast of Andhra Pradesh. According to the India Meteorological Department, the system is expected to move west-northwestward and intensify into a depression by October 31, potentially bringing heavy rainfall to Andhra Pradesh as local body elections approach.",
+   "description": "The system is likely to intensify into a depression by October 31, the IMD says",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/todays-paper/e0oi6r/article71638105.ece/alternates/LANDSCAPE_1200/TH28-Sravani-ArGUDGNMB6V.3.jpg.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/low-pressure-forms-in-andaman-sea-after-cyclone-arnab-may-affect-andhra-pradesh/article71639097.ece",
+   "published_at": "2026-10-29T08:54:35+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.2,
+   "importance": 4.996
+  },
+  {
+   "id": "3d3436d43345",
+   "kind": "summary",
+   "headline": "Kerala leaders criticize airlines for steep airfare hikes during festival seasons",
+   "title": "Airfare hikes: Keralam CM and Opposition Leader slam airlines for ‘fleecing’ NRKs",
+   "summary": "Lawmakers in the Kerala Legislative Assembly strongly condemned airlines for sharply increasing ticket prices during festival seasons, particularly on routes connecting the state to West Asia. Chief Minister V.D. Satheesan and opposition leader Pinarayi Vijayan criticized the financial burden placed on non-resident Keralites, noting that state leaders have repeatedly urged the Union government to implement fare caps.",
+   "description": "In Assembly, V.D. Satheesan and Pinarayi Vijayan point out that successive governments in the State have raised the matter with the Centre. Opposition stages walkout over alleged denial of NRK benefits, dissolution of Loka Kerala Sabha",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/1u2afi/article71639718.ece/alternates/LANDSCAPE_1200/NH15PinarayiAndVd07.JPG",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/kerala/airfare-hikes-keralam-cm-and-opposition-leader-slam-airlines-for-fleecing-nrks/article71639343.ece",
+   "published_at": "2026-10-29T08:52:51+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.2,
+   "importance": 4.995
   },
   {
    "id": "68a57eee168a",
@@ -2236,8 +2581,537 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 34.4,
-   "importance": 5.046
+   "age_hours": 36.4,
+   "importance": 4.99
+  },
+  {
+   "id": "8274788e1929",
+   "kind": "summary",
+   "headline": "Cyclone Arnab disrupts rail services as bridge in Andhra Pradesh is inundated",
+   "title": "Cyclone Arnab: Railway bridge near Andhra’s Ichchapuram inundated; trains cancelled, diverted",
+   "summary": "Train operations in the Visakhapatnam Division faced severe disruptions on October 29, 2026, following heavy water inundation at Bridge No. 1052 between Ichchapuram and Jhadupudi. According to South Coast Railway officials, overflowing local rivulets forced authorities to cancel, divert, or short-terminate multiple passenger and express services. Special trains and helpline desks were established at major stations to assist stranded travelers.",
+   "description": "A special train will run between Visakhapatnam and Palasa for stranded passengers",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/pxv6u4/article71639547.ece/alternates/LANDSCAPE_1200/Traxks.jpeg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-railway-bridge-near-andhras-ichchapuram-inundated-trains-cancelled-diverted/article71639000.ece",
+   "published_at": "2026-10-29T08:35:56+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.5,
+   "importance": 4.987
+  },
+  {
+   "id": "26ad9738e017",
+   "kind": "summary",
+   "headline": "Congress prepares for Delhi rally while reassessing electoral strategy against government",
+   "title": "Beyond ‘vote chori’, Congress needs a broader strategy to take on Modi government",
+   "summary": "The Congress party is organizing a demonstration at Ramlila Maidan while members debate balancing the campaign against electronic voting issues with everyday concerns like inflation. Leaders discussed focusing on public grievances alongside ongoing protests concerning the Election Commission, pointing to economic pressures during the festive season and recent local election outcomes.",
+   "description": "Congress and the wider Opposition bloc may need to recalibrate their strategy on the alleged ‘vote chori’ campaign, which has overshadowed issues that affect voters’ everyday lives",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/xwn61l/article71639356.ece/alternates/LANDSCAPE_1200/09_RVM_5486.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "analysis",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/beyond-vote-chori-congress-needs-a-broader-strategy-to-take-on-modi-government/article71639186.ece",
+   "published_at": "2026-10-29T08:32:47+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.5,
+   "importance": 4.985
+  },
+  {
+   "id": "c1d5cc93981b",
+   "kind": "summary",
+   "headline": "VHP accuses Opposition of targeting Hindu festivals with November 1 rally",
+   "title": "‘Desist from targeting Hindu festivals, economy’: VHP to Opposition over November 1 rally",
+   "summary": "The Vishva Hindu Parishad accused the Congress and other Opposition parties on October 27, 2026, of conspiring to damage the economy and disrupt Hindu festivals through their planned November 1 rally at Ramlila Maidan in New Delhi. National spokesperson Vinod Bansal stated that leaders rejected traders requests to postpone the event, which coincides with the Ahoi Ashtami fast, ignoring concerns over security and business disruptions.",
+   "description": "The remarks came a day after traders held a protest at Kashmere Gate in New Delhi, demanding that Congress defer the November 1 rally until after Diwali.",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/lpfnjy/article71630112.ece/alternates/LANDSCAPE_1200/20261021402L.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/desist-from-targeting-hindu-festivals-economy-vhp-to-opposition-over-november-1-rally/article71630070.ece",
+   "published_at": "2026-10-29T08:31:15+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.5,
+   "importance": 4.985
+  },
+  {
+   "id": "7ce1e69e6e03",
+   "kind": "summary",
+   "headline": "European Union drops associate membership term for Canada in draft statement",
+   "title": "European Union backtracks on Canada becoming ‘associate member’",
+   "summary": "The European Union removed references to associate membership for Canada in a joint draft statement ahead of the summit in Montreal hosted by Prime Minister Mark Carney on Thursday. European Commission President Ursula von der Leyen initially proposed the status in September, but pushback from German Chancellor Friedrich Merz and other leaders led negotiators to adopt phrasing calling for an ever closer association.",
+   "description": "German Chancellor Merz and other EU leaders reportedly pushed for the terms to be removed from the draft statement.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae2ef6ef3bde-1793257327.jpg?resize=1200%2C675",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.aljazeera.com/news/2026/10/29/european-union-backtracks-on-canada-becoming-associate-2?traffic_source=rss",
+   "published_at": "2026-10-29T08:31:09+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.6,
+   "importance": 4.985
+  },
+  {
+   "id": "dce4947e9fac",
+   "kind": "summary",
+   "headline": "Delhi traders seek postponement of INDIA bloc rally over festive season disruption",
+   "title": "Delhi traders flag potential impact on 21 markets from INDIA bloc’s November 1 rally, seek postponement",
+   "summary": "The Chamber of Trade and Industry warned on October 27, 2026, that the proposed Congress-led INDIA bloc rally at Ramlila Maidan on November 1 could paralyze business across 21 major markets in Delhi. The traders body urged party leaders Rahul Gandhi and Mallikarjun Kharge to postpone the event or shift it away from commercial hubs, citing potential traffic gridlock from thousands of vehicles and estimated losses of up to 10000 crore rupees.",
+   "description": "It projected that the November 1 rally could bring commercial activity across Old Delhi to a standstill, resulting in losses of up to ₹10,000 crore",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/wqbonl/article71630274.ece/alternates/LANDSCAPE_1200/CHANDNI%20CHOWK%20%20MARKET%20DELHI%202026_08_08_4.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-traders-flag-potential-impact-on-21-markets-from-november-1-congress-rally-seek-postponement/article71630172.ece",
+   "published_at": "2026-10-29T08:30:28+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.6,
+   "importance": 4.984
+  },
+  {
+   "id": "e68936cec605",
+   "kind": "summary",
+   "headline": "Railway authorities cancel 64 train services due to approaching Cyclone Arnab",
+   "title": "Cyclone ‘Arnab’: 64 train services cancelled on October 27 and 28",
+   "summary": "Railway authorities cancelled 64 train services scheduled for October 27 and 28, 2026, as a precautionary measure against Cyclone Arnab along the Andhra Pradesh coast. The cancellations comprise 53 regional passenger routes and 11 express services connecting Telangana, Andhra Pradesh, and Odisha. Officials advised passengers to verify train operational statuses through official channels before traveling.",
+   "description": "Long-distance express trains connecting Telangana with coastal Andhra Pradesh and Odisha among those affected; passengers advised to check status before travel",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/kyz9qz/article71630609.ece/alternates/LANDSCAPE_1200/VSP30_Montha_Railway%201.JPG",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-train-services-cancelled-on-october-27-and-28/article71630352.ece",
+   "published_at": "2026-10-29T08:29:31+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.6,
+   "importance": 4.984
+  },
+  {
+   "id": "8a1e7922d381",
+   "kind": "summary",
+   "headline": "Delhi Police grants no-objection for INDIA bloc rally on November 1",
+   "title": "INDIA bloc’s Nov. 1 rally: Delhi Police grants permission with strict conditions; denies mock impeachment request",
+   "summary": "The Delhi Police confirmed that a no-objection certificate was issued for the opposition INDIA bloc to hold a demonstration at Ramlila Maidan on November 1, 2026. According to Deputy Commissioner of Police Rohit Rajbir Singh, authorities imposed strict security and logistical requirements while stating that no formal application had been filed for a separate mock public impeachment event.",
+   "description": "Police say no separate request was received for the proposed mock impeachment on October 30 and November 1",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/q14bz0/article71631879.ece/alternates/LANDSCAPE_1200/20261027327L.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-police-grants-congress-rally-at-ramlila-maidan-with-strict-conditions-denies-mock-impeachment-request/article71631883.ece",
+   "published_at": "2026-10-29T08:28:48+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.6,
+   "importance": 4.984
+  },
+  {
+   "id": "d2178be2feae",
+   "kind": "summary",
+   "headline": "Delhi Police sets conditions for INDIA bloc protest rally",
+   "title": "INDIA bloc rally on November 1: What are the conditions imposed by Delhi Police",
+   "summary": "Authorities in Delhi permitted the opposition INDIA bloc to conduct a protest demonstration at Ramlila Maidan on November 1, 2026, aimed at demanding the resignation of Chief Election Commissioner Gyanesh Kumar. The clearance issued by the police includes mandates on timing, security monitoring systems, parking arrangements, and restrictions against inflammatory public remarks.",
+   "description": "The INDIA block rally will be held at the Ramlila Maidan, which is one of the three designated protest sites in Delhi after Jantar Mantar was de-notified",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/k9f2v5/article71634692.ece/alternates/LANDSCAPE_1200/20261027325L.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "explainer",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/cities/Delhi/congress-rally-november-1-ramlila-maidan-restrictions-by-delhi-police/article71635407.ece",
+   "published_at": "2026-10-29T08:21:46+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.7,
+   "importance": 4.98
+  },
+  {
+   "id": "93980d566128",
+   "kind": "summary",
+   "headline": "Telangana electoral rolls face high rejection and deletion rates during revision",
+   "title": "Telangana SIR: Form-6 rejections and Form-7 deletions unusually high during pre-SIR period",
+   "summary": "According to the office of the Chief Electoral Officer, Telangana recorded unusually high rejection and deletion rates during the Special Intensive Revision of Electoral Rolls. Out of total applications processed across 119 constituencies, authorities rejected close to 27 percent of Form-6 applications, while millions of voter names were deleted using Form-7, creating significant exclusions in the final voter rolls.",
+   "description": "The number of rejections constitutes close to 27% of the total Form-6 applications processed during Pre-SIR and SIR phases, which is very high",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/nje0a7/article71638926.ece/alternates/LANDSCAPE_1200/_NGP7643.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/telangana/telangana-sir-form-6-rejections-and-form-7-deletions-unusually-high-during-pre-sir-period/article71637814.ece",
+   "published_at": "2026-10-29T08:15:47+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.8,
+   "importance": 4.978
+  },
+  {
+   "id": "6c74aa4bf1a7",
+   "kind": "summary",
+   "headline": "Russia seeks political influence and economic ties at Africa summit",
+   "title": "‘Economic incentives are limited’: What does Russia really offer Africa?",
+   "summary": "Delegations from forty-eight countries gathered in Moscow for the Russia-Africa Summit to discuss bilateral cooperation amid ongoing international sanctions. Analysts noted that while Moscow offers limited financial investments compared to other global powers, the diplomatic engagements provide vital political backing for military regimes in the Sahel region.",
+   "description": "African nations weigh political incentives as Moscow offers limited economic benefits compared with China and the West.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae1bd5972286-1793178969.jpg?resize=1920%2C1440",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "analysis",
+   "significance": 3,
+   "url": "https://www.aljazeera.com/features/2026/10/29/wagners-shadow-looms-as-russia-reshapes-african-military-alliances?traffic_source=rss",
+   "published_at": "2026-10-29T08:14:34+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.8,
+   "importance": 4.977
+  },
+  {
+   "id": "12ee41da1c97",
+   "kind": "summary",
+   "headline": "Prime Minister Narendra Modi questions Congress over MLC election results",
+   "title": "PM questions Congress over party’s MLC election results",
+   "summary": "Prime Minister Narendra Modi criticised the Congress party on Wednesday for failing to win any seats in Member of Legislative Council elections held using ballot papers across Uttar Pradesh, Maharashtra, Bihar and Karnataka. While results in several states showed victories for the Bharatiya Janata Party and regional entities, BJP leaders claimed the outcome highlights a severe lack of public support for the opposition.",
+   "description": "‘MLC elections in 28 seats across four big States — Uttar Pradesh, Maharashtra, Bihar and Karnataka. Elections held using ballot papers. Guess how many seats Congress won? said Narendra Modi in a post on X",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/7anyfc/article71635922.ece/alternates/LANDSCAPE_1200/PM-Modi-to-inauGBHGNH1DC.5.jpg.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/pm-modi-taunts-congress-for-dismal-show-in-mlc-polls-despite-use-of-paper-ballots/article71635894.ece",
+   "published_at": "2026-10-29T08:12:43+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.9,
+   "importance": 4.976
+  },
+  {
+   "id": "585899b1f558",
+   "kind": "summary",
+   "headline": "Congress slams Prime Minister Narendra Modi over Varanasi MLC election losses",
+   "title": "Stop sermonising others; introspect why BJP lost Varanasi seats in MLC polls: Congress slams PM",
+   "summary": "The Congress party criticized Prime Minister Narendra Modi on October 29, 2026, telling him to stop sermonizing after the Bharatiya Janata Party lost both seats in his Varanasi constituency during Legislative Council elections. Congress general secretary Jairam Ramesh stated that citizens across multiple cities have delivered a clear verdict against government policies.",
+   "description": "Jairam Ramesh said that from Varanasi and Nagpur to Lucknow, Prayagraj, and Patna, the people have clearly passed a \"no-confidence motion against\" the PM's policies",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/5esnho/article71639252.ece/alternates/LANDSCAPE_1200/20261005426L.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/stop-sermonising-others-introspect-why-bjp-lost-varanasi-seats-in-mlc-polls-congress-slams-pm/article71639229.ece",
+   "published_at": "2026-10-29T08:12:39+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.9,
+   "importance": 4.976
+  },
+  {
+   "id": "a671997c5b77",
+   "kind": "summary",
+   "headline": "Microsoft introduces voluntary exit offers as artificial intelligence business expands",
+   "title": "Job cuts, retirement plan, voluntary exits: What’s going on at Microsoft?",
+   "summary": "Technology corporation Microsoft launched a voluntary exit programme providing financial and career support to eligible personnel across several countries. Chief People Officer Amy Coleman indicated the measure accompanies ongoing internal reorganisations, as the enterprise increases capital expenditures toward cloud computing and artificial intelligence infrastructure.",
+   "description": "Microsoft’s recent workforce moves come amid strong financial growth and rising investments in AI infrastructure",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/sjaf70/article71639552.ece/alternates/LANDSCAPE_1200/2026-10-28T174120Z_558486899_RC2P56APUBAL_RTRMADP_3_MICROSOFT-RESULTS.JPG",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "Business",
+   "category": "Business",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/business/Industry/microsoft-job-cuts-voluntary-exits-ai-development-indian-workforce-explainer-analysis/article71637608.ece",
+   "published_at": "2026-10-29T08:07:18+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 0.9,
+   "importance": 4.974
+  },
+  {
+   "id": "bd0106cd6273",
+   "kind": "summary",
+   "headline": "Medical specialists highlight importance of prompt stroke treatment",
+   "title": "Experts in stroke medicine emphasise on timely treatment",
+   "summary": "Medical professionals speaking during a webinar organised by Kauvery Hospital for World Stroke Day emphasised the necessity of medical intervention within a four-and-a-half-hour window. Experts discussed rising annual incidence rates, common neurological symptoms, and the utilization of telemedicine services to transfer patients from remote areas to specialized medical facilities.",
+   "description": "The doctors discussed lifestyle-related risks, including poor dietary habits, physical inactivity, and inadequate sleep",
+   "long": false,
+   "image": null,
+   "video_url": "https://www.youtube.com/embed/rMIvIFs7z_Y",
+   "source": "The Hindu",
+   "section": "National",
+   "category": "Science",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/experts-in-stroke-medicine-emphasise-on-timely-treatment/article71637409.ece",
+   "published_at": "2026-10-29T08:05:37+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.0,
+   "importance": 4.973
+  },
+  {
+   "id": "ee0984485524",
+   "kind": "summary",
+   "headline": "Kerala high court prevents arrest of judge involved in car crash",
+   "title": "Cheranalloor luxury car crash: Kerala HC directs police not to arrest accused judge until further orders",
+   "summary": "The Kerala High Court on October 29, 2026, ordered police not to arrest an additional district judge whose teenage son drove a luxury car involved in a fatal accident. The judge was directed to cooperate with the investigation while the victim family joined the anticipatory bail proceedings. The crash occurred at Maraparambu on Container Road in Cheranalloor.",
+   "description": "Justice Kauser Edappagath orally remarks that court ‘cannot succumb to public opinion’. Court allows family members of the accident victim, Jayabalakrishnan, to be impleaded in anticipatory bail petition filed by the judicial officer",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/news/national/kerala/dtj5o/article71639599.ece/alternates/LANDSCAPE_1200/accident_cheranellur_10%201.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/kerala/cheranalloor-luxury-car-crash-kerala-hc-directs-police-not-to-arrest-accused-judge-until-further-orders/article71639225.ece",
+   "published_at": "2026-10-29T08:00:57+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.1,
+   "importance": 4.971
+  },
+  {
+   "id": "e27d7b217e2f",
+   "kind": "summary",
+   "headline": "Jharkhand experiences heavy rainfall as cyclone Arnab impacts region",
+   "title": "Cyclone Arnab effect: Rain intensifies in parts of Jharkhand, to continue till October 30",
+   "summary": "Heavy rainfall intensified across Jharkhand on October 29, 2026, driven by the severe cyclonic storm Arnab that previously made landfall along the Andhra Pradesh coast. The Ranchi Meteorological Centre reported significant precipitation, prompting orange and yellow alerts for multiple districts through October 30. Several regional administrations had already ordered school closures on October 28 and 29.",
+   "description": "An ‘Orange’ alert of heavy rainfall has been issued for Garhwa, Palamu, Latehar, Lohardaga, Gumla and Simdega till 8.30 a.m. on October 30",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/5iktg1/article71639381.ece/alternates/LANDSCAPE_1200/20261028453L.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/jharkhand/cyclone-arnab-triggers-heavy-rainfall-in-jharkhand-with-orange-and-yellow-alerts-issued-across-several-districts-and-school-closures-through-friday/article71639339.ece",
+   "published_at": "2026-10-29T07:56:53+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.1,
+   "importance": 4.969
+  },
+  {
+   "id": "9d59ed8efd65",
+   "kind": "summary",
+   "headline": "North Andhra rivers swell and flood border areas following cyclone Arnab",
+   "title": "Rivers in spate in north Andhra after Cyclone Arnab; flood water enters Ichchapuram",
+   "summary": "Major rivers in north Andhra districts received heavy inflows on October 29, 2026, following cyclone Arnab, causing floods in Ichchapuram and surrounding border areas. Srikakulam and Vizianagaram recorded exceptionally high rainfall, disrupting traffic on National Highway 16 and prompting relief deployments by state authorities and the Indian Red Cross Society.",
+   "description": "A junior lineman dies after falling from an electric pole during repairs in Vizianagaram district",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/auw479/article71639479.ece/alternates/LANDSCAPE_1200/Flood.jpeg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/rivers-in-spate-in-north-andhra-after-cyclone-arnab-flood-water-enters-ichchapuram/article71638931.ece",
+   "published_at": "2026-10-29T07:52:45+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.2,
+   "importance": 4.967
+  },
+  {
+   "id": "4bf4908dde97",
+   "kind": "summary",
+   "headline": "New studies reveal heavy research bias toward vertebrates in ecological literature",
+   "title": "Taxonomic ‘chauvinism’ rife in ecological literature",
+   "summary": "Research from the University of New South Wales analyzing over 1.3 million scientific papers found that vertebrates dominate conservation and ecology literature despite representing a tiny fraction of animal biodiversity. Scientists warn that this taxonomic chauvinism neglects invertebrates, skews funding, and potentially hampers innovations in medicine and engineering.",
+   "description": "For instance, even though birds and mammals comprise less than 1 per cent of animal biodiversity, they dominate both conservation and research efforts, find two studies.",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/d9aws1/article71626463.ece/alternates/LANDSCAPE_1200/istockphoto-517572088-612x612.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "Science",
+   "category": "Science",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/taxonomic-chauvinism-rife-in-ecological-literature/article71626469.ece",
+   "published_at": "2026-10-29T07:50:09+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.2,
+   "importance": 4.966
+  },
+  {
+   "id": "aecbc2ab862a",
+   "kind": "summary",
+   "headline": "Researchers in Keralam study potential links between gut bacteria and Parkinson's disease",
+   "title": "Study in Keralam sheds light on link between gut bacteria, Parkinson’s disease",
+   "summary": "Scientists at Cochin University of Science and Technology and the Sree Chitra Tirunal Institute for Medical Sciences and Technology published findings revealing distinct gut bacteria differences in Parkinson's disease patients. Funded by the Indian Council of Medical Research, the study analyzed stool samples from 65 patients and 65 healthy individuals using metagenomic sequencing to explore early diagnostic tests and treatments.",
+   "description": "Researchers from CUSAT and SCTIMST, Thiruvananthapuram, find significant differences between gut bacteria of Parkinson’s patients and those of healthy individuals",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/news/national/kerala/sdq2uv/article71639104.ece/alternates/LANDSCAPE_1200/gut.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "Science",
+   "category": "Science",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/kerala/study-in-keralam-sheds-light-on-link-between-gut-bacteria-parkinsons-disease/article71638025.ece",
+   "published_at": "2026-10-29T07:47:29+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.3,
+   "importance": 4.964
+  },
+  {
+   "id": "5b14ad9f14c1",
+   "kind": "summary",
+   "headline": "Israel faces political standoff following national elections without outright majority",
+   "title": "Israel elections: Understanding how Knesset polls work vs India’s system",
+   "summary": "Israel entered a political standoff following the October 27 national election after exit polls showed Prime Minister Benjamin Netanyahu and rival Gadi Eisenkot locked in a tight race. Neither camp secured an outright majority in the 120-seat Knesset, requiring coalition negotiations. President Isaac Herzog will consult parliamentary factions to assign a lawmaker the task of forming a government.",
+   "description": "Israel’s political clash after the October 27 national vote pits Prime Minister Benjamin Netanyahu against former military chief Gadi Eisenkot in a neck-and-neck fight to form a government, as neither major bloc won a 61-seat majority in the 120-seat Knesset",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/8n5v84/article71634105.ece/alternates/LANDSCAPE_1200/Israel_Elections_69116.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "International",
+   "category": "World",
+   "type": "explainer",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/international/how-israel-elections-work-understanding-knesset-elections-vs-india/article71634802.ece",
+   "published_at": "2026-10-29T07:47:08+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.3,
+   "importance": 4.964
+  },
+  {
+   "id": "a128ad48e4de",
+   "kind": "summary",
+   "headline": "Former US officials urge 2028 candidates to reject Biden Gaza policy",
+   "title": "Former US officials call on 2028 candidates to denounce Biden’s Gaza policy",
+   "summary": "Twelve former United States officials who resigned from the Joe Biden administration published a joint statement on Wednesday urging 2028 presidential candidates to pledge against hiring individuals responsible for enabling Israel military actions in Gaza. The signatories argued that those officials helped facilitate violations of domestic and international law during the ongoing war.",
+   "description": "Biden-era officials who quit over Gaza urge Democratic candidates for next presidential race to denounce the policy.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae2e57e74587-1793254782.jpg?resize=1920%2C1440",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.aljazeera.com/news/2026/10/29/former-us-officials-call-on-2028-candidates-to-denounce-bidens-gaza-policy?traffic_source=rss",
+   "published_at": "2026-10-29T07:41:04+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.4,
+   "importance": 4.962
+  },
+  {
+   "id": "87c536b43d0f",
+   "kind": "summary",
+   "headline": "El Salvador deploys soldiers to Haiti as electoral timeline faces delay",
+   "title": "El Salvador pledges more than 2,000 soldiers as Haiti delays elections",
+   "summary": "El Salvador announced the deployment of over 2,000 soldiers to Haiti to combat armed gangs and search for four missing aviation technicians as Haitian electoral authorities postponed the first round of presidential and parliamentary voting to July 18, 2027. The security crisis and widespread gang violence have severely hampered voter registration and basic safety.",
+   "description": "El Salvador troops to support rescue mission to find four UN-backed soldiers who disappeared after ambush.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261029__D4R82T3__v1__HighRes__HaitiLifestyleDailyLife-1793254624.jpg?resize=1920%2C1440",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.aljazeera.com/news/2026/10/29/el-salvador-pledges-more-than-2000-soldiers-as-haiti-delays-elections?traffic_source=rss",
+   "published_at": "2026-10-29T07:36:38+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.5,
+   "importance": 4.959
+  },
+  {
+   "id": "c440845f735c",
+   "kind": "preview",
+   "headline": "Two Indian nationals among 28 charged with election fraud in California",
+   "title": "Two Indian nationals among 28 charged with election fraud in California",
+   "summary": null,
+   "description": "According to the Justice Department, Amandeep Kaur (30) and Kamlesh Shah (67) have been charged with fraudulently registering as voters and casting their ballots in the November 2024 U.S. elections",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/l9g4aj/article71603111.ece/alternates/LANDSCAPE_1200/Election_2_26_Noncitizen_Voting_California_84385.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "International",
+   "category": "World",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/international/two-indian-nationals-among-28-charged-with-election-fraud-in-california/article71603104.ece",
+   "published_at": "2026-10-29T07:21:48+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 1.7,
+   "importance": 4.953
   },
   {
    "id": "dfc8c3c2cdd7",
@@ -2259,8 +3133,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.2,
-   "importance": 4.995
+   "age_hours": 2.2,
+   "importance": 4.939
   },
   {
    "id": "cde34a142286",
@@ -2282,31 +3156,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.4,
-   "importance": 4.99
-  },
-  {
-   "id": "26ad9738e017",
-   "kind": "summary",
-   "headline": "Congress prepares for Delhi rally while reassessing electoral strategy against government",
-   "title": "Beyond ‘vote chori’, Congress needs a broader strategy to take on Modi government",
-   "summary": "The Congress party is organizing a demonstration at Ramlila Maidan while members debate balancing the campaign against electronic voting issues with everyday concerns like inflation. Leaders discussed focusing on public grievances alongside ongoing protests concerning the Election Commission, pointing to economic pressures during the festive season and recent local election outcomes.",
-   "description": "Congress and the wider Opposition bloc may need to recalibrate their strategy on the alleged ‘vote chori’ campaign, which has overshadowed issues that affect voters’ everyday lives",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/xwn61l/article71639356.ece/alternates/LANDSCAPE_1200/09_RVM_5486.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "National",
-   "category": "India",
-   "type": "analysis",
-   "significance": 3,
-   "url": "https://www.thehindu.com/news/national/beyond-vote-chori-congress-needs-a-broader-strategy-to-take-on-modi-government/article71639186.ece",
-   "published_at": "2026-10-29T06:39:46+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 0.4,
-   "importance": 4.989
+   "age_hours": 2.4,
+   "importance": 4.934
   },
   {
    "id": "b0f3a152f9ae",
@@ -2328,8 +3179,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.4,
-   "importance": 4.988
+   "age_hours": 2.4,
+   "importance": 4.933
   },
   {
    "id": "53de1dd68ab4",
@@ -2351,31 +3202,31 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.5,
-   "importance": 4.985
+   "age_hours": 2.5,
+   "importance": 4.929
   },
   {
-   "id": "4bf4908dde97",
-   "kind": "summary",
-   "headline": "New studies reveal heavy research bias toward vertebrates in ecological literature",
-   "title": "Taxonomic ‘chauvinism’ rife in ecological literature",
-   "summary": "Research from the University of New South Wales analyzing over 1.3 million scientific papers found that vertebrates dominate conservation and ecology literature despite representing a tiny fraction of animal biodiversity. Scientists warn that this taxonomic chauvinism neglects invertebrates, skews funding, and potentially hampers innovations in medicine and engineering.",
-   "description": "For instance, even though birds and mammals comprise less than 1 per cent of , they dominate both conservation and research efforts, find two studies.",
+   "id": "4ed36db318ab",
+   "kind": "preview",
+   "headline": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+   "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+   "summary": null,
+   "description": "The troops are trying to recover four military personnel who went missing in an ambush on the outskirts of the Haitian capital Port-au-Prince.",
    "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/d9aws1/article71626463.ece/alternates/LANDSCAPE_1200/istockphoto-517572088-612x612.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/846b/live/2e1cb430-d355-11f1-a772-cb496d11fa15.jpg",
    "video_url": null,
-   "source": "The Hindu",
-   "section": "Science",
-   "category": "Science",
+   "source": "BBC",
+   "section": "World",
+   "category": "World",
    "type": "news",
    "significance": 3,
-   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/taxonomic-chauvinism-rife-in-ecological-literature/article71626469.ece",
-   "published_at": "2026-10-29T06:28:07+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
+   "published_at": "2026-10-29T06:24:56+00:00",
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.6,
-   "importance": 4.983
+   "age_hours": 2.7,
+   "importance": 4.926
   },
   {
    "id": "6984c91551b5",
@@ -2397,8 +3248,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.7,
-   "importance": 4.98
+   "age_hours": 2.7,
+   "importance": 4.925
   },
   {
    "id": "5650b3df0c55",
@@ -2420,8 +3271,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.7,
-   "importance": 4.98
+   "age_hours": 2.7,
+   "importance": 4.924
   },
   {
    "id": "cc067273dbb3",
@@ -2443,31 +3294,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.8,
-   "importance": 4.977
-  },
-  {
-   "id": "585899b1f558",
-   "kind": "summary",
-   "headline": "Congress slams Prime Minister Narendra Modi over Varanasi MLC election losses",
-   "title": "Stop sermonising others; introspect why BJP lost Varanasi seats in MLC polls: Congress slams PM",
-   "summary": "The Congress party criticized Prime Minister Narendra Modi on October 29, 2026, telling him to stop sermonizing after the Bharatiya Janata Party lost both seats in his Varanasi constituency during Legislative Council elections. Congress general secretary Jairam Ramesh stated that citizens across multiple cities have delivered a clear verdict against government policies.",
-   "description": "Jairam Ramesh said that from Varanasi and Nagpur to Lucknow, Prayagraj, and Patna, the people have clearly passed a \"no-confidence motion against\" the PM's policies",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/5esnho/article71639252.ece/alternates/LANDSCAPE_1200/20261005426L.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "National",
-   "category": "India",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.thehindu.com/news/national/stop-sermonising-others-introspect-why-bjp-lost-varanasi-seats-in-mlc-polls-congress-slams-pm/article71639229.ece",
-   "published_at": "2026-10-29T06:11:49+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 0.9,
-   "importance": 4.976
+   "age_hours": 2.8,
+   "importance": 4.922
   },
   {
    "id": "4af99a612741",
@@ -2489,31 +3317,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 0.9,
-   "importance": 4.975
-  },
-  {
-   "id": "aecbc2ab862a",
-   "kind": "summary",
-   "headline": "Researchers in Keralam study potential links between gut bacteria and Parkinson's disease",
-   "title": "Study in Keralam sheds light on link between gut bacteria, Parkinson’s disease",
-   "summary": "Scientists at Cochin University of Science and Technology and the Sree Chitra Tirunal Institute for Medical Sciences and Technology published findings revealing distinct gut bacteria differences in Parkinson's disease patients. Funded by the Indian Council of Medical Research, the study analyzed stool samples from 65 patients and 65 healthy individuals using metagenomic sequencing to explore early diagnostic tests and treatments.",
-   "description": "Researchers from CUSAT and SCTIMST, Thiruvananthapuram, find significant differences between gut bacteria of Parkinson’s patients and those of healthy individuals",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/news/national/kerala/sdq2uv/article71639104.ece/alternates/LANDSCAPE_1200/gut.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "Science",
-   "category": "Science",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.thehindu.com/news/national/kerala/study-in-keralam-sheds-light-on-link-between-gut-bacteria-parkinsons-disease/article71638025.ece",
-   "published_at": "2026-10-29T05:59:13+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 1.1,
-   "importance": 4.97
+   "age_hours": 2.9,
+   "importance": 4.92
   },
   {
    "id": "8d60a996bd68",
@@ -2535,8 +3340,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.5,
-   "importance": 4.959
+   "age_hours": 3.5,
+   "importance": 4.904
   },
   {
    "id": "461f7630e5a7",
@@ -2558,8 +3363,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.5,
-   "importance": 4.957
+   "age_hours": 3.5,
+   "importance": 4.901
   },
   {
    "id": "a70a8bfa8009",
@@ -2581,8 +3386,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.6,
-   "importance": 4.956
+   "age_hours": 3.6,
+   "importance": 4.901
   },
   {
    "id": "bf90c9b34d56",
@@ -2604,8 +3409,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.6,
-   "importance": 4.955
+   "age_hours": 3.6,
+   "importance": 4.9
   },
   {
    "id": "a3708190c5c8",
@@ -2627,8 +3432,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 1.7,
-   "importance": 4.952
+   "age_hours": 3.7,
+   "importance": 4.896
   },
   {
    "id": "be983b728831",
@@ -2650,31 +3455,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 2.3,
-   "importance": 4.937
-  },
-  {
-   "id": "93980d566128",
-   "kind": "summary",
-   "headline": "Telangana electoral rolls face high rejection and deletion rates during revision",
-   "title": "Telangana SIR: Form-6 rejections and Form-7 deletions unusually high during pre-SIR period",
-   "summary": "According to the office of the Chief Electoral Officer, Telangana recorded unusually high rejection and deletion rates during the Special Intensive Revision of Electoral Rolls. Out of total applications processed across 119 constituencies, authorities rejected close to 27 percent of Form-6 applications, while millions of voter names were deleted using Form-7, creating significant exclusions in the final voter rolls.",
-   "description": "The number of rejections constitutes close to 27% of the total Form-6 applications processed during Pre-SIR and SIR phases, which is very high",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/nje0a7/article71638926.ece/alternates/LANDSCAPE_1200/_NGP7643.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "National",
-   "category": "India",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.thehindu.com/news/national/telangana/telangana-sir-form-6-rejections-and-form-7-deletions-unusually-high-during-pre-sir-period/article71637814.ece",
-   "published_at": "2026-10-29T04:07:23+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 2.9,
-   "importance": 4.918
+   "age_hours": 4.3,
+   "importance": 4.881
   },
   {
    "id": "e03247b5ca29",
@@ -2696,8 +3478,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 3.4,
-   "importance": 4.905
+   "age_hours": 5.4,
+   "importance": 4.849
   },
   {
    "id": "38118f432114",
@@ -2719,8 +3501,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.1,
-   "importance": 4.887
+   "age_hours": 6.1,
+   "importance": 4.832
   },
   {
    "id": "fe316def99b9",
@@ -2742,8 +3524,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.3,
-   "importance": 4.879
+   "age_hours": 6.4,
+   "importance": 4.824
   },
   {
    "id": "bd793da6f024",
@@ -2765,8 +3547,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.4,
-   "importance": 4.879
+   "age_hours": 6.4,
+   "importance": 4.823
   },
   {
    "id": "e68859a8b1cf",
@@ -2788,8 +3570,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 4.5,
-   "importance": 4.875
+   "age_hours": 6.5,
+   "importance": 4.819
   },
   {
    "id": "4461c6fefe1c",
@@ -2811,8 +3593,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 5.0,
-   "importance": 4.86
+   "age_hours": 7.1,
+   "importance": 4.804
   },
   {
    "id": "de2a9f1a8595",
@@ -2834,8 +3616,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 5.2,
-   "importance": 4.856
+   "age_hours": 7.2,
+   "importance": 4.801
   },
   {
    "id": "31accb2c5747",
@@ -2857,8 +3639,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 5.8,
-   "importance": 4.84
+   "age_hours": 7.8,
+   "importance": 4.784
   },
   {
    "id": "19f5aa994bf2",
@@ -2880,8 +3662,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 5.8,
-   "importance": 4.839
+   "age_hours": 7.8,
+   "importance": 4.783
   },
   {
    "id": "780e7055330a",
@@ -2903,8 +3685,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 5.9,
-   "importance": 4.837
+   "age_hours": 7.9,
+   "importance": 4.781
   },
   {
    "id": "4cb1a3907d1b",
@@ -2926,8 +3708,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 41.9,
-   "importance": 4.836
+   "age_hours": 43.9,
+   "importance": 4.78
   },
   {
    "id": "ba2dfbfcbe17",
@@ -2949,8 +3731,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 42.0,
-   "importance": 4.835
+   "age_hours": 44.0,
+   "importance": 4.779
   },
   {
    "id": "f405f1be4525",
@@ -2972,8 +3754,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 6.5,
-   "importance": 4.82
+   "age_hours": 8.5,
+   "importance": 4.764
   },
   {
    "id": "0601d2f212e3",
@@ -2995,8 +3777,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 7.3,
-   "importance": 4.796
+   "age_hours": 9.4,
+   "importance": 4.74
   },
   {
    "id": "09f762edab0d",
@@ -3018,8 +3800,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.0,
-   "importance": 4.779
+   "age_hours": 10.0,
+   "importance": 4.723
   },
   {
    "id": "121e07341d57",
@@ -3041,8 +3823,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 8.5,
-   "importance": 4.764
+   "age_hours": 10.5,
+   "importance": 4.709
   },
   {
    "id": "fe444e1bd592",
@@ -3064,8 +3846,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 44.8,
-   "importance": 4.756
+   "age_hours": 46.8,
+   "importance": 4.701
   },
   {
    "id": "415aa97d276f",
@@ -3087,8 +3869,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 45.1,
-   "importance": 4.748
+   "age_hours": 47.1,
+   "importance": 4.692
   },
   {
    "id": "49387afbb0ba",
@@ -3110,8 +3892,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.5,
-   "importance": 4.737
+   "age_hours": 11.5,
+   "importance": 4.682
   },
   {
    "id": "70ede1f0cbfd",
@@ -3133,8 +3915,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 9.7,
-   "importance": 4.731
+   "age_hours": 11.7,
+   "importance": 4.675
   },
   {
    "id": "5fef33744fec",
@@ -3156,8 +3938,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 10.2,
-   "importance": 4.716
+   "age_hours": 12.2,
+   "importance": 4.66
   },
   {
    "id": "8afc5a38b1f7",
@@ -3179,8 +3961,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 10.4,
-   "importance": 4.71
+   "age_hours": 12.4,
+   "importance": 4.655
   },
   {
    "id": "6341d4fa44f4",
@@ -3202,8 +3984,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 10.5,
-   "importance": 4.709
+   "age_hours": 12.5,
+   "importance": 4.654
   },
   {
    "id": "4e6fa7e13315",
@@ -3225,8 +4007,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 10.7,
-   "importance": 4.704
+   "age_hours": 12.7,
+   "importance": 4.648
   },
   {
    "id": "497818d26d2c",
@@ -3248,8 +4030,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 11.2,
-   "importance": 4.689
+   "age_hours": 13.2,
+   "importance": 4.633
   },
   {
    "id": "879837b72ebb",
@@ -3271,8 +4053,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 11.3,
-   "importance": 4.687
+   "age_hours": 13.3,
+   "importance": 4.631
   },
   {
    "id": "d8c1b4d22f99",
@@ -3294,8 +4076,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 11.6,
-   "importance": 4.679
+   "age_hours": 13.6,
+   "importance": 4.623
   },
   {
    "id": "9b45b5388c9b",
@@ -3317,8 +4099,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 11.6,
-   "importance": 4.677
+   "age_hours": 13.6,
+   "importance": 4.621
   },
   {
    "id": "8497f418fcc0",
@@ -3340,8 +4122,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 11.9,
-   "importance": 4.669
+   "age_hours": 13.9,
+   "importance": 4.613
   },
   {
    "id": "62879fa27c9d",
@@ -3363,8 +4145,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 12.0,
-   "importance": 4.667
+   "age_hours": 14.0,
+   "importance": 4.611
   },
   {
    "id": "1e7868d0cdd5",
@@ -3386,8 +4168,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 12.0,
-   "importance": 4.666
+   "age_hours": 14.0,
+   "importance": 4.61
   },
   {
    "id": "0e6ffa0bad56",
@@ -3409,8 +4191,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 12.2,
-   "importance": 4.662
+   "age_hours": 14.2,
+   "importance": 4.606
   },
   {
    "id": "c929075a64a7",
@@ -3432,8 +4214,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 12.2,
-   "importance": 4.661
+   "age_hours": 14.2,
+   "importance": 4.605
   },
   {
    "id": "d0753be868cc",
@@ -3455,8 +4237,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 12.5,
-   "importance": 4.654
+   "age_hours": 14.5,
+   "importance": 4.598
   },
   {
    "id": "cc0156d011b0",
@@ -3478,8 +4260,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 13.2,
-   "importance": 4.635
+   "age_hours": 15.2,
+   "importance": 4.579
   },
   {
    "id": "14ba893ac142",
@@ -3501,8 +4283,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 13.5,
-   "importance": 4.625
+   "age_hours": 15.5,
+   "importance": 4.57
   },
   {
    "id": "f96242c0fc70",
@@ -3524,8 +4306,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 13.8,
-   "importance": 4.617
+   "age_hours": 15.8,
+   "importance": 4.561
   },
   {
    "id": "0f5c27799081",
@@ -3547,8 +4329,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 13.8,
-   "importance": 4.617
+   "age_hours": 15.8,
+   "importance": 4.561
   },
   {
    "id": "70775fa20a9b",
@@ -3570,8 +4352,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 13.8,
-   "importance": 4.616
+   "age_hours": 15.8,
+   "importance": 4.56
   },
   {
    "id": "3b1fa355883c",
@@ -3593,8 +4375,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 13.9,
-   "importance": 4.613
+   "age_hours": 15.9,
+   "importance": 4.558
   },
   {
    "id": "c9fc376a6e35",
@@ -3616,8 +4398,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.0,
-   "importance": 4.612
+   "age_hours": 16.0,
+   "importance": 4.556
   },
   {
    "id": "543a768f8e25",
@@ -3639,8 +4421,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.2,
-   "importance": 4.607
+   "age_hours": 16.2,
+   "importance": 4.551
   },
   {
    "id": "d61174ec10c7",
@@ -3662,8 +4444,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.4,
-   "importance": 4.601
+   "age_hours": 16.4,
+   "importance": 4.545
   },
   {
    "id": "45b6b0849a76",
@@ -3685,8 +4467,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.5,
-   "importance": 4.598
+   "age_hours": 16.5,
+   "importance": 4.543
   },
   {
    "id": "701fd8866acc",
@@ -3708,8 +4490,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.5,
-   "importance": 4.598
+   "age_hours": 16.5,
+   "importance": 4.542
   },
   {
    "id": "d714b565ab12",
@@ -3731,8 +4513,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.6,
-   "importance": 4.596
+   "age_hours": 16.6,
+   "importance": 4.54
   },
   {
    "id": "2949ce7fa043",
@@ -3754,8 +4536,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.6,
-   "importance": 4.594
+   "age_hours": 16.6,
+   "importance": 4.538
   },
   {
    "id": "d7260ca7e0dd",
@@ -3777,8 +4559,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.7,
-   "importance": 4.592
+   "age_hours": 16.7,
+   "importance": 4.536
   },
   {
    "id": "286ff8513233",
@@ -3800,31 +4582,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.7,
-   "importance": 4.591
-  },
-  {
-   "id": "12ee41da1c97",
-   "kind": "summary",
-   "headline": "Prime Minister Narendra Modi questions Congress over MLC election results",
-   "title": "PM questions Congress over party’s MLC election results",
-   "summary": "Prime Minister Narendra Modi criticised the Congress party on Wednesday for failing to win any seats in Member of Legislative Council elections held using ballot papers across Uttar Pradesh, Maharashtra, Bihar and Karnataka. While results in several states showed victories for the Bharatiya Janata Party and regional entities, BJP leaders claimed the outcome highlights a severe lack of public support for the opposition.",
-   "description": "‘MLC elections in 28 seats across four big States — Uttar Pradesh, Maharashtra, Bihar and Karnataka. Elections held using ballot papers. Guess how many seats Congress won? said Narendra Modi in a post on X",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/7anyfc/article71635922.ece/alternates/LANDSCAPE_1200/PM-Modi-to-inauGBHGNH1DC.5.jpg.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "National",
-   "category": "India",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.thehindu.com/news/national/pm-modi-taunts-congress-for-dismal-show-in-mlc-polls-despite-use-of-paper-ballots/article71635894.ece",
-   "published_at": "2026-10-28T16:17:51+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 14.8,
-   "importance": 4.59
+   "age_hours": 16.7,
+   "importance": 4.535
   },
   {
    "id": "1739307690c3",
@@ -3846,8 +4605,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.8,
-   "importance": 4.589
+   "age_hours": 16.8,
+   "importance": 4.533
   },
   {
    "id": "4b7e9febb1b3",
@@ -3869,8 +4628,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.8,
-   "importance": 4.588
+   "age_hours": 16.8,
+   "importance": 4.532
   },
   {
    "id": "46978109e5d1",
@@ -3892,8 +4651,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.9,
-   "importance": 4.585
+   "age_hours": 16.9,
+   "importance": 4.529
   },
   {
    "id": "8e883b533bb5",
@@ -3915,8 +4674,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 14.9,
-   "importance": 4.585
+   "age_hours": 17.0,
+   "importance": 4.529
   },
   {
    "id": "47573ceb1950",
@@ -3938,8 +4697,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 15.0,
-   "importance": 4.584
+   "age_hours": 17.0,
+   "importance": 4.529
   },
   {
    "id": "b70213f9498a",
@@ -3961,8 +4720,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 15.0,
-   "importance": 4.583
+   "age_hours": 17.0,
+   "importance": 4.528
   },
   {
    "id": "b576c42f8732",
@@ -3984,8 +4743,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 15.1,
-   "importance": 4.579
+   "age_hours": 17.1,
+   "importance": 4.524
   },
   {
    "id": "e51facaefa8f",
@@ -4007,8 +4766,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 15.4,
-   "importance": 4.572
+   "age_hours": 17.4,
+   "importance": 4.517
   },
   {
    "id": "a99305258961",
@@ -4030,8 +4789,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 15.5,
-   "importance": 4.571
+   "age_hours": 17.5,
+   "importance": 4.515
   },
   {
    "id": "6162849d74c8",
@@ -4053,8 +4812,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 15.5,
-   "importance": 4.571
+   "age_hours": 17.5,
+   "importance": 4.515
   },
   {
    "id": "33a600870296",
@@ -4076,8 +4835,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 15.5,
-   "importance": 4.569
+   "age_hours": 17.5,
+   "importance": 4.514
   },
   {
    "id": "12ff395a46d9",
@@ -4099,8 +4858,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 15.8,
-   "importance": 4.562
+   "age_hours": 17.8,
+   "importance": 4.506
   },
   {
    "id": "39f76e0bdf9b",
@@ -4122,8 +4881,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 16.2,
-   "importance": 4.55
+   "age_hours": 18.2,
+   "importance": 4.495
   },
   {
    "id": "5d76245baa42",
@@ -4145,8 +4904,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 16.2,
-   "importance": 4.55
+   "age_hours": 18.2,
+   "importance": 4.494
   },
   {
    "id": "5283652bd524",
@@ -4168,8 +4927,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 16.3,
-   "importance": 4.546
+   "age_hours": 18.3,
+   "importance": 4.491
   },
   {
    "id": "4a1cc102ee59",
@@ -4191,8 +4950,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 16.6,
-   "importance": 4.54
+   "age_hours": 18.6,
+   "importance": 4.484
   },
   {
    "id": "f30346ad5855",
@@ -4214,8 +4973,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 16.6,
-   "importance": 4.54
+   "age_hours": 18.6,
+   "importance": 4.484
   },
   {
    "id": "28d27422dc48",
@@ -4237,8 +4996,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 16.7,
-   "importance": 4.537
+   "age_hours": 18.7,
+   "importance": 4.482
   },
   {
    "id": "54a86b161063",
@@ -4260,8 +5019,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 17.0,
-   "importance": 4.527
+   "age_hours": 19.0,
+   "importance": 4.472
   },
   {
    "id": "1344d124d3b0",
@@ -4283,8 +5042,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 17.1,
-   "importance": 4.524
+   "age_hours": 19.1,
+   "importance": 4.469
   },
   {
    "id": "f7cf3d5629ff",
@@ -4306,8 +5065,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 17.3,
-   "importance": 4.52
+   "age_hours": 19.3,
+   "importance": 4.465
   },
   {
    "id": "5eae5b26eb17",
@@ -4329,8 +5088,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 53.3,
-   "importance": 4.52
+   "age_hours": 55.3,
+   "importance": 4.464
   },
   {
    "id": "cb1249ea8dc1",
@@ -4352,8 +5111,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 18.0,
-   "importance": 4.5
+   "age_hours": 20.0,
+   "importance": 4.444
   },
   {
    "id": "c005e70fc8ec",
@@ -4375,8 +5134,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 18.1,
-   "importance": 4.496
+   "age_hours": 20.1,
+   "importance": 4.441
   },
   {
    "id": "d61ef566e086",
@@ -4398,8 +5157,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 18.2,
-   "importance": 4.496
+   "age_hours": 20.2,
+   "importance": 4.44
   },
   {
    "id": "0bfb7a9770a3",
@@ -4421,31 +5180,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 18.5,
-   "importance": 4.487
-  },
-  {
-   "id": "5b14ad9f14c1",
-   "kind": "summary",
-   "headline": "Israel faces political standoff following national elections without outright majority",
-   "title": "Israel elections: Understanding how Knesset polls work vs India’s system",
-   "summary": "Israel entered a political standoff following the October 27 national election after exit polls showed Prime Minister Benjamin Netanyahu and rival Gadi Eisenkot locked in a tight race. Neither camp secured an outright majority in the 120-seat Knesset, requiring coalition negotiations. President Isaac Herzog will consult parliamentary factions to assign a lawmaker the task of forming a government.",
-   "description": "Israel’s political clash after the October 27 national vote pits Prime Minister Benjamin Netanyahu against former military chief Gadi Eisenkot in a neck-and-neck fight to form a government, as neither major bloc won a 61-seat majority in the 120-seat Knesset",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/8n5v84/article71634105.ece/alternates/LANDSCAPE_1200/Israel_Elections_69116.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "International",
-   "category": "World",
-   "type": "explainer",
-   "significance": 3,
-   "url": "https://www.thehindu.com/news/international/how-israel-elections-work-understanding-knesset-elections-vs-india/article71634802.ece",
-   "published_at": "2026-10-28T12:05:04+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 19.0,
-   "importance": 4.473
+   "age_hours": 20.5,
+   "importance": 4.431
   },
   {
    "id": "0a3ac9f83b8a",
@@ -4467,31 +5203,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.1,
-   "importance": 4.471
-  },
-  {
-   "id": "398490fa9731",
-   "kind": "summary",
-   "headline": "Jio Platforms prepares for record stock market debut in India",
-   "title": "India's largest share sale could end cheap mobile internet for millions",
-   "summary": "Jio Platforms, backed by Meta and Google and owned by billionaire Mukesh Ambani, is set for a historic 3.2 billion dollar initial public offering in India. Analysts warn that the stock market debut could end the era of ultra-cheap mobile data tariffs as the company answers to minority shareholders and focuses on increasing average revenue per user.",
-   "description": "Jio's IPO promises a windfall for investors, but could signal the end of cheap mobile data for millions.",
-   "long": false,
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06b7/live/fccc6560-d13d-11f1-b441-2b33b063138f.jpg",
-   "video_url": null,
-   "source": "BBC",
-   "section": "India",
-   "category": "Business",
-   "type": "analysis",
-   "significance": 4,
-   "url": "https://www.bbc.co.uk/news/articles/cw78pe7vlej5o?at_medium=RSS&at_campaign=rss",
-   "published_at": "2026-10-27T00:00:30+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 55.1,
-   "importance": 4.471
+   "age_hours": 21.1,
+   "importance": 4.415
   },
   {
    "id": "8030d1b5c635",
@@ -4513,8 +5226,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.1,
-   "importance": 4.47
+   "age_hours": 21.1,
+   "importance": 4.415
   },
   {
    "id": "85069581580d",
@@ -4536,8 +5249,31 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.1,
-   "importance": 4.47
+   "age_hours": 21.1,
+   "importance": 4.415
+  },
+  {
+   "id": "398490fa9731",
+   "kind": "summary",
+   "headline": "Jio Platforms prepares for record stock market debut in India",
+   "title": "India's largest share sale could end cheap mobile internet for millions",
+   "summary": "Jio Platforms, backed by Meta and Google and owned by billionaire Mukesh Ambani, is set for a historic 3.2 billion dollar initial public offering in India. Analysts warn that the stock market debut could end the era of ultra-cheap mobile data tariffs as the company answers to minority shareholders and focuses on increasing average revenue per user.",
+   "description": "Jio's IPO promises a windfall for investors, but could signal the end of cheap mobile data for millions.",
+   "long": false,
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06b7/live/fccc6560-d13d-11f1-b441-2b33b063138f.jpg",
+   "video_url": null,
+   "source": "BBC",
+   "section": "India",
+   "category": "Business",
+   "type": "analysis",
+   "significance": 4,
+   "url": "https://www.bbc.co.uk/news/articles/cw78pe7vlej5o?at_medium=RSS&at_campaign=rss",
+   "published_at": "2026-10-27T00:00:30+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1,
+   "age_hours": 57.1,
+   "importance": 4.415
   },
   {
    "id": "2bd01123e4a4",
@@ -4559,8 +5295,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.1,
-   "importance": 4.468
+   "age_hours": 21.2,
+   "importance": 4.412
   },
   {
    "id": "1d71c9d45b6b",
@@ -4582,8 +5318,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.2,
-   "importance": 4.466
+   "age_hours": 21.2,
+   "importance": 4.41
   },
   {
    "id": "5bc82eea9903",
@@ -4605,8 +5341,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.3,
-   "importance": 4.464
+   "age_hours": 21.3,
+   "importance": 4.408
   },
   {
    "id": "b3250c9c370a",
@@ -4628,8 +5364,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.3,
-   "importance": 4.463
+   "age_hours": 21.3,
+   "importance": 4.407
   },
   {
    "id": "b7c3bc8cd75b",
@@ -4651,8 +5387,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.4,
-   "importance": 4.461
+   "age_hours": 21.4,
+   "importance": 4.405
   },
   {
    "id": "5d32ed72e5f2",
@@ -4674,8 +5410,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.5,
-   "importance": 4.459
+   "age_hours": 21.5,
+   "importance": 4.404
   },
   {
    "id": "779ca2b2a764",
@@ -4697,8 +5433,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.5,
-   "importance": 4.459
+   "age_hours": 21.5,
+   "importance": 4.403
   },
   {
    "id": "6e55d7ac3a7f",
@@ -4720,8 +5456,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.5,
-   "importance": 4.458
+   "age_hours": 21.5,
+   "importance": 4.402
   },
   {
    "id": "c1fa37c9240c",
@@ -4743,8 +5479,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.5,
-   "importance": 4.457
+   "age_hours": 21.5,
+   "importance": 4.401
   },
   {
    "id": "bfb49b90b2ef",
@@ -4766,8 +5502,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.6,
-   "importance": 4.456
+   "age_hours": 21.6,
+   "importance": 4.4
   },
   {
    "id": "946821ec58cb",
@@ -4789,8 +5525,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.6,
-   "importance": 4.455
+   "age_hours": 21.6,
+   "importance": 4.4
   },
   {
    "id": "a290fb05488c",
@@ -4812,8 +5548,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.7,
-   "importance": 4.452
+   "age_hours": 21.7,
+   "importance": 4.396
   },
   {
    "id": "5cedf921b265",
@@ -4835,8 +5571,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.9,
-   "importance": 4.447
+   "age_hours": 21.9,
+   "importance": 4.392
   },
   {
    "id": "80495a81f0ce",
@@ -4858,8 +5594,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 19.9,
-   "importance": 4.447
+   "age_hours": 21.9,
+   "importance": 4.391
   },
   {
    "id": "150632ffa450",
@@ -4881,8 +5617,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.0,
-   "importance": 4.444
+   "age_hours": 22.0,
+   "importance": 4.389
   },
   {
    "id": "3c910cfa6f61",
@@ -4904,8 +5640,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.0,
-   "importance": 4.444
+   "age_hours": 22.0,
+   "importance": 4.388
   },
   {
    "id": "1712bc826529",
@@ -4927,8 +5663,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.1,
-   "importance": 4.443
+   "age_hours": 22.1,
+   "importance": 4.387
   },
   {
    "id": "64461f94e8a6",
@@ -4950,8 +5686,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.1,
-   "importance": 4.441
+   "age_hours": 22.1,
+   "importance": 4.385
   },
   {
    "id": "611f58349fe4",
@@ -4973,8 +5709,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.2,
-   "importance": 4.438
+   "age_hours": 22.2,
+   "importance": 4.382
   },
   {
    "id": "cf786b0c1c07",
@@ -4996,8 +5732,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.2,
-   "importance": 4.438
+   "age_hours": 22.2,
+   "importance": 4.382
   },
   {
    "id": "7721b4a98a96",
@@ -5019,8 +5755,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.3,
-   "importance": 4.435
+   "age_hours": 22.4,
+   "importance": 4.379
   },
   {
    "id": "0a4cd7c2ca71",
@@ -5042,8 +5778,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.7,
-   "importance": 4.426
+   "age_hours": 22.7,
+   "importance": 4.37
   },
   {
    "id": "8dd5a4f41cc8",
@@ -5065,8 +5801,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.8,
-   "importance": 4.423
+   "age_hours": 22.8,
+   "importance": 4.368
   },
   {
    "id": "dfa34ba19611",
@@ -5088,8 +5824,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 20.8,
-   "importance": 4.423
+   "age_hours": 22.8,
+   "importance": 4.367
   },
   {
    "id": "e10c764fb9f9",
@@ -5111,8 +5847,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 21.0,
-   "importance": 4.416
+   "age_hours": 23.0,
+   "importance": 4.36
   },
   {
    "id": "94ac8658b415",
@@ -5134,8 +5870,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 21.1,
-   "importance": 4.413
+   "age_hours": 23.1,
+   "importance": 4.357
   },
   {
    "id": "a2059011ba30",
@@ -5157,8 +5893,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 21.4,
-   "importance": 4.406
+   "age_hours": 23.4,
+   "importance": 4.351
   },
   {
    "id": "59937c1c9e6e",
@@ -5180,8 +5916,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 21.6,
-   "importance": 4.401
+   "age_hours": 23.6,
+   "importance": 4.345
   },
   {
    "id": "6a556485be8a",
@@ -5203,8 +5939,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 21.6,
-   "importance": 4.4
+   "age_hours": 23.6,
+   "importance": 4.345
   },
   {
    "id": "a660f33c7ff2",
@@ -5226,8 +5962,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.1,
-   "importance": 4.385
+   "age_hours": 24.2,
+   "importance": 4.329
   },
   {
    "id": "53df4f73cab9",
@@ -5249,8 +5985,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.2,
-   "importance": 4.383
+   "age_hours": 24.2,
+   "importance": 4.327
   },
   {
    "id": "77e3a69b7ff0",
@@ -5272,8 +6008,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.6,
-   "importance": 4.373
+   "age_hours": 24.6,
+   "importance": 4.317
   },
   {
    "id": "b5e8975730f7",
@@ -5295,8 +6031,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.6,
-   "importance": 4.373
+   "age_hours": 24.6,
+   "importance": 4.317
   },
   {
    "id": "32a71747ae90",
@@ -5318,8 +6054,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.6,
-   "importance": 4.372
+   "age_hours": 24.6,
+   "importance": 4.316
   },
   {
    "id": "03ec2eb7bc52",
@@ -5341,8 +6077,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.6,
-   "importance": 4.372
+   "age_hours": 24.6,
+   "importance": 4.316
   },
   {
    "id": "b5f7921e8e7a",
@@ -5364,8 +6100,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.8,
-   "importance": 4.368
+   "age_hours": 24.8,
+   "importance": 4.312
   },
   {
    "id": "7c24cd5ca8ea",
@@ -5387,8 +6123,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.9,
-   "importance": 4.365
+   "age_hours": 24.9,
+   "importance": 4.309
   },
   {
    "id": "130b169c9097",
@@ -5410,8 +6146,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 22.9,
-   "importance": 4.363
+   "age_hours": 24.9,
+   "importance": 4.307
   },
   {
    "id": "7d3c1c25a689",
@@ -5433,8 +6169,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.1,
-   "importance": 4.358
+   "age_hours": 25.1,
+   "importance": 4.302
   },
   {
    "id": "28f76fad3f60",
@@ -5456,8 +6192,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.2,
-   "importance": 4.357
+   "age_hours": 25.2,
+   "importance": 4.301
   },
   {
    "id": "bbf2b1958b9e",
@@ -5479,8 +6215,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.4,
-   "importance": 4.349
+   "age_hours": 25.4,
+   "importance": 4.294
   },
   {
    "id": "10eca9e09499",
@@ -5502,8 +6238,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.6,
-   "importance": 4.344
+   "age_hours": 25.6,
+   "importance": 4.288
   },
   {
    "id": "6aff626cede0",
@@ -5525,8 +6261,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.7,
-   "importance": 4.342
+   "age_hours": 25.7,
+   "importance": 4.286
   },
   {
    "id": "684c3890bfdd",
@@ -5548,8 +6284,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 23.8,
-   "importance": 4.339
+   "age_hours": 25.8,
+   "importance": 4.283
   },
   {
    "id": "56fd053b1ea7",
@@ -5571,8 +6307,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 24.8,
-   "importance": 4.311
+   "age_hours": 26.8,
+   "importance": 4.256
   },
   {
    "id": "c04d6f5167ed",
@@ -5594,8 +6330,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 26.2,
-   "importance": 4.273
+   "age_hours": 28.2,
+   "importance": 4.218
   },
   {
    "id": "a6cd062bb706",
@@ -5617,8 +6353,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 26.5,
-   "importance": 4.263
+   "age_hours": 28.5,
+   "importance": 4.208
   },
   {
    "id": "a13e6a03cee8",
@@ -5640,8 +6376,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 27.3,
-   "importance": 4.24
+   "age_hours": 29.4,
+   "importance": 4.185
   },
   {
    "id": "507575ce1423",
@@ -5663,8 +6399,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 28.7,
-   "importance": 4.204
+   "age_hours": 30.7,
+   "importance": 4.148
   },
   {
    "id": "5d3c494f3c8b",
@@ -5686,8 +6422,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 28.7,
-   "importance": 4.203
+   "age_hours": 30.7,
+   "importance": 4.147
   },
   {
    "id": "28aeb55720c8",
@@ -5709,8 +6445,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 28.7,
-   "importance": 4.202
+   "age_hours": 30.7,
+   "importance": 4.146
   },
   {
    "id": "ba3cece69efb",
@@ -5732,8 +6468,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 34.3,
-   "importance": 4.049
+   "age_hours": 36.3,
+   "importance": 3.993
   },
   {
    "id": "3b4ab57bd224",
@@ -5755,8 +6491,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 34.3,
-   "importance": 4.047
+   "age_hours": 36.3,
+   "importance": 3.991
   },
   {
    "id": "1f3d54b2a11c",
@@ -5778,8 +6514,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 36.2,
-   "importance": 3.996
+   "age_hours": 38.2,
+   "importance": 3.94
   },
   {
    "id": "11a3c1ae8496",
@@ -5801,8 +6537,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 37.8,
-   "importance": 3.949
+   "age_hours": 39.8,
+   "importance": 3.894
   },
   {
    "id": "5d9174dd4f1a",
@@ -5824,8 +6560,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 38.2,
-   "importance": 3.939
+   "age_hours": 40.2,
+   "importance": 3.883
   },
   {
    "id": "65f4a59ddd57",
@@ -5847,8 +6583,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 38.5,
-   "importance": 3.931
+   "age_hours": 40.5,
+   "importance": 3.876
   },
   {
    "id": "3513fbe8e952",
@@ -5870,8 +6606,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 39.1,
-   "importance": 3.915
+   "age_hours": 41.1,
+   "importance": 3.859
   },
   {
    "id": "500db364734b",
@@ -5893,8 +6629,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 39.2,
-   "importance": 3.91
+   "age_hours": 41.2,
+   "importance": 3.854
   },
   {
    "id": "ca379335b0df",
@@ -5916,8 +6652,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 39.7,
-   "importance": 3.896
+   "age_hours": 41.8,
+   "importance": 3.84
   },
   {
    "id": "1e43fcb983d0",
@@ -5939,8 +6675,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 40.3,
-   "importance": 3.88
+   "age_hours": 42.3,
+   "importance": 3.824
   },
   {
    "id": "6b9d6b83985d",
@@ -5962,8 +6698,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 40.6,
-   "importance": 3.873
+   "age_hours": 42.6,
+   "importance": 3.817
   },
   {
    "id": "f6f9a0db4185",
@@ -5985,8 +6721,8 @@
    "fetch_status": "video_only",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 41.1,
-   "importance": 3.859
+   "age_hours": 43.1,
+   "importance": 3.803
   },
   {
    "id": "0d516a24ee36",
@@ -6008,8 +6744,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 41.2,
-   "importance": 3.855
+   "age_hours": 43.2,
+   "importance": 3.799
   },
   {
    "id": "4017193a99f5",
@@ -6031,8 +6767,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 41.9,
-   "importance": 3.836
+   "age_hours": 43.9,
+   "importance": 3.78
   },
   {
    "id": "5484c1184001",
@@ -6054,8 +6790,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 41.9,
-   "importance": 3.835
+   "age_hours": 43.9,
+   "importance": 3.78
   },
   {
    "id": "30d678250b76",
@@ -6077,8 +6813,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 41.9,
-   "importance": 3.835
+   "age_hours": 43.9,
+   "importance": 3.779
   },
   {
    "id": "bd92b3fc75e1",
@@ -6100,8 +6836,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 42.2,
-   "importance": 3.827
+   "age_hours": 44.2,
+   "importance": 3.771
   },
   {
    "id": "d988f7c6be07",
@@ -6123,8 +6859,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 42.3,
-   "importance": 3.826
+   "age_hours": 44.3,
+   "importance": 3.77
   },
   {
    "id": "af880d90ada0",
@@ -6146,8 +6882,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 43.6,
-   "importance": 3.788
+   "age_hours": 45.6,
+   "importance": 3.732
   },
   {
    "id": "ef2da6cf0c5f",
@@ -6169,8 +6905,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 43.7,
-   "importance": 3.785
+   "age_hours": 45.7,
+   "importance": 3.729
   },
   {
    "id": "a9ae89e7d70a",
@@ -6192,8 +6928,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 46.1,
-   "importance": 3.719
+   "age_hours": 48.1,
+   "importance": 3.664
   },
   {
    "id": "bba291662c45",
@@ -6215,8 +6951,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 55.5,
-   "importance": 3.459
+   "age_hours": 57.5,
+   "importance": 3.403
   },
   {
    "id": "96b9f45bb2e6",
@@ -6238,8 +6974,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 57.3,
-   "importance": 3.408
+   "age_hours": 59.3,
+   "importance": 3.352
   },
   {
    "id": "f7b9bc5b7e40",
@@ -6261,54 +6997,8 @@
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1,
-   "age_hours": 61.3,
-   "importance": 3.297
-  },
-  {
-   "id": "67160bc1e72b",
-   "kind": "summary",
-   "headline": "Technology policy discussions often neglect everyday harms caused by artificial intelligence",
-   "title": "The focus on AI safety disasters ignores everyday harms",
-   "summary": "Technology policy debates frequently focus on catastrophic safety disasters while ignoring the insidious everyday harms caused by digital platforms and artificial intelligence products. Industry leaders often support narrow safety regulations that protect their bottom lines, while failing to address issues like cognitive debt, addictive engagement algorithms, and user dependence on virtual companions.",
-   "description": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products…",
-   "long": false,
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/monkeys-teen3.jpg?resize=1200,600",
-   "video_url": null,
-   "source": "MIT Technology Review",
-   "section": "AI",
-   "category": "Tech",
-   "type": "analysis",
-   "significance": 3,
-   "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-   "published_at": "2026-10-26T09:01:00+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 70.1,
-   "importance": 3.054
-  },
-  {
-   "id": "f4c2ee8ea76f",
-   "kind": "summary",
-   "headline": "Marathon Fusion claims conversion of mercury into gold using nuclear fusion",
-   "title": "Seven caveats in the claim about turning mercury into gold with nuclear fusion",
-   "summary": "San Francisco startup Marathon Fusion stated on October 21 that it converted mercury into gold during a September experiment, achieving a production rate ten times higher than a CERN record from 2025. The company proposed utilizing high-energy neutrons from nuclear fusion to transform mercury into radioactive mercury-197, which decays into stable gold-197.",
-   "description": "In a preprint paper uploaded to the arXiv repository in July 2025, Marathon scientists had predicted this process could produce roughly 2 tonnes of gold annually for every gigawatt (GW) of thermal fusion power",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/sci-tech/science/juk14j/article71626081.ece/alternates/LANDSCAPE_1200/Gold.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "Science",
-   "category": "Science",
-   "type": "analysis",
-   "significance": 3,
-   "url": "https://www.thehindu.com/sci-tech/science/seven-caveats-in-the-claim-about-turning-mercury-into-gold-with-nuclear-fusion/article71626055.ece",
-   "published_at": "2026-10-26T08:15:55+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1,
-   "age_hours": 70.8,
-   "importance": 3.033
+   "age_hours": 63.3,
+   "importance": 3.241
   }
  ]
 }
