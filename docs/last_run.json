@@ -1,6 +1,6 @@
 {
- "at": "2026-10-30T23:03:36+00:00",
- "seconds": 11.1,
+ "at": "2026-10-30T23:44:05+00:00",
+ "seconds": 7.5,
  "fetched": 205,
  "past_rules": 194,
  "past_triage": 143,
@@ -18,27 +18,27 @@
  },
  "triage": {
   "total": 194,
-  "cached": 185,
+  "cached": 191,
   "api_calls": 1,
   "untriaged": 0
  },
  "extract": {
-  "ok": 137,
-  "video_only": 5,
+  "ok": 138,
+  "video_only": 4,
   "short": 1
  },
  "summarize": {
-  "candidates": 6,
-  "sent": 6,
+  "candidates": 3,
+  "sent": 3,
   "deferred": 0,
-  "api_calls": 2,
-  "got": 6,
+  "api_calls": 1,
+  "got": 3,
   "long": 0,
   "model": "gemini-3.5-flash-lite"
  },
- "feed_cards": 638,
+ "feed_cards": 640,
  "feed_kinds": {
-  "summary": 569,
+  "summary": 571,
   "video": 68,
   "preview": 1
  }
