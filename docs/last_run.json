@@ -1,6 +1,6 @@
 {
- "at": "2026-11-04T21:03:48+00:00",
- "seconds": 16.6,
+ "at": "2026-11-04T23:03:37+00:00",
+ "seconds": 11.4,
  "fetched": 204,
  "past_rules": 187,
  "past_triage": 133,
@@ -18,21 +18,21 @@
  },
  "triage": {
   "total": 187,
-  "cached": 168,
+  "cached": 175,
   "api_calls": 1,
   "untriaged": 0
  },
  "extract": {
-  "ok": 124,
-  "video_only": 9
+  "ok": 123,
+  "video_only": 10
  },
  "summarize": {
-  "candidates": 11,
-  "sent": 11,
+  "candidates": 6,
+  "sent": 6,
   "deferred": 0,
-  "api_calls": 3,
-  "got": 11,
-  "long": 0,
+  "api_calls": 2,
+  "got": 6,
+  "long": 1,
   "model": "gemini-3.5-flash-lite"
  },
  "feed_cards": 756,
