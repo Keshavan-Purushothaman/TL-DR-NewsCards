@@ -1,9 +1,9 @@
 {
- "at": "2026-11-05T21:04:37+00:00",
- "seconds": 69.5,
+ "at": "2026-11-05T23:05:17+00:00",
+ "seconds": 115.2,
  "fetched": 203,
  "past_rules": 187,
- "past_triage": 114,
+ "past_triage": 116,
  "feeds": {
   "The Hindu/National": 25,
   "The Hindu/International": 25,
@@ -18,28 +18,28 @@
  },
  "triage": {
   "total": 187,
-  "cached": 163,
+  "cached": 154,
   "api_calls": 2,
-  "untriaged": 20
+  "untriaged": 13
  },
  "extract": {
-  "ok": 106,
-  "video_only": 8
+  "ok": 109,
+  "video_only": 7
  },
  "summarize": {
-  "candidates": 4,
-  "sent": 4,
+  "candidates": 10,
+  "sent": 10,
   "deferred": 0,
-  "api_calls": 2,
-  "got": 4,
+  "api_calls": 3,
+  "got": 10,
   "long": 0,
   "model": "gemini-3.5-flash-lite",
   "fallback_batches": 1
  },
- "feed_cards": 728,
+ "feed_cards": 729,
  "feed_kinds": {
-  "summary": 637,
-  "video": 87,
+  "summary": 641,
+  "video": 84,
   "preview": 4
  }
 }
