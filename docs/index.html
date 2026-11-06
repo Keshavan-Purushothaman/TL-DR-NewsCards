@@ -1,0 +1,45 @@
+<!doctype html>
+  <html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#1f4e79">
+    <title>TL;DR</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+    <!-- Header: wordmark (tap = jump to top) · remaining counter · freshness -->
+    <header class="top">
+      <button class="brand" id="brand" aria-label="Back to top">TL;DR</button>
+      <span class="counter" id="counter"></span>
+      <span class="fresh" id="fresh" title="Feed last updated"></span>
+    </header>
+
+    <!-- The deck: one <article class="card"> per story, vertical snap scroll -->
+    <main class="deck" id="deck"></main>
+
+    <!-- Template cloned once per card by app.js -->
+    <template id="card-tpl">
+      <article class="card">
+        <div class="media">
+          <img class="img" alt="" loading="lazy">
+          <span class="badge" hidden></span>
+        </div>
+        <div class="body">
+          <p class="meta"><span class="cat"></span><span class="src"></span><span class="age"></span></p>
+          <h2 class="headline"></h2>
+          <p class="summary"></p> 
+        </div>
+        <div class="actions">
+          <button class="act dislike" aria-label="Less like this" title="Less like this">&#128078;</button>
+          <button class="act like" aria-label="Like" title="Like">&#128077;</button>
+          <button class="act save" aria-label="Save" title="Save">&#128278;</button>
+          <a class="act open" target="_blank" rel="noopener" aria-label="Read full article" title="Read full article">&#8599;</a>   
+        </div>
+      </article>
+    </template>
+
+    <script src="app.js"></script>
+  </body>
+  </html>
