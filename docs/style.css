@@ -123,3 +123,42 @@ round; }
 var(--muted); background: var(--card); }
 .end h2 { color: var(--text); margin: 0 0 8px; font-size: 22px; letter-spacing: -.2px; }
 .end p { margin: 0; font-size: 15px; }
+
+/* ---------- step 2 additions ---------- */
+.actions .gap { width: 10px; }
+.act.dup.on { color: var(--muted); }
+.heart { position: absolute; inset: 0; display: grid; place-items: center; pointer-events: none; opacity: 0; }
+.heart svg { width: 96px; height: 96px; fill: #fff; filter: drop-shadow(0 4px 16px rgba(0,0,0,.35)); transform: scale(.4); }      
+.heart.pop { animation: heart .7s ease-out; }
+@keyframes heart { 0% { opacity: 0 } 15% { opacity: 1 } 100% { opacity: 0 } }
+.heart.pop svg { animation: heartscale .7s cubic-bezier(.2,.8,.2,1); }
+@keyframes heartscale { 0% { transform: scale(.4) } 40% { transform: scale(1.1) } 100% { transform: scale(1) } } 
+
+/* dislike reason strip: slides up over the bottom of the body, auto-hides */
+.why { position: absolute; left: 14px; right: 14px; bottom: 10px; display: flex; gap: 6px; align-items: center; flex-wrap: wrap;  
+padding: 8px 10px; border-radius: 12px; background: var(--card); border: 1px solid var(--line);                                 
+box-shadow: 0 6px 24px rgba(0,0,0,.12); font-size: 13px; color: var(--muted); }                                                 
+.why[hidden] { display: none; }                                                                                                   
+.why button { padding: 6px 10px; border-radius: 999px; border: 1px solid var(--line); font-size: 13px; color: var(--text); }      
+.why button:active { background: var(--accent-soft); }                                                                            
+                                                                                                                                
+/* "new stories" pill */                                                                                                          
+.pill { position: absolute; left: 50%; top: calc(52px + env(safe-area-inset-top) + 10px); transform: translateX(-50%); z-index: 5;
+padding: 8px 14px; border-radius: 999px; background: var(--accent); color: var(--on-accent, #fff); font-size: 13px; font-weight:
+600;
+box-shadow: 0 6px 20px rgba(0,0,0,.18); }
+.pill[hidden] { display: none; }
+body { position: relative; }
+
+/* data sheet */
+.sheet { position: fixed; inset: 0; z-index: 10; display: grid; place-items: end center; background: rgba(0,0,0,.35); }           
+.sheet[hidden] { display: none; }
+.sheet-card { width: 100%; max-width: 520px; padding: 18px 20px calc(18px + env(safe-area-inset-bottom)); border-radius: 18px 18px
+0 0;
+background: var(--card); color: var(--text); }
+.sheet-card h3 { margin: 0 0 10px; font-size: 17px; }
+.sheet-card pre { margin: 0 0 14px; font: 13px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace; color: var(--muted);           
+white-space: pre-wrap; }
+.sheet-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+.btn { padding: 10px 14px; border-radius: 10px; background: var(--accent); color: #fff; font-weight: 600; font-size: 14px; }      
+.btn.ghost { background: var(--accent-soft); color: var(--accent); }
