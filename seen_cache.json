@@ -1,1003 +1,4 @@
 {
- "4efe2d4546b3": {
-  "first_seen": "2026-11-03T09:03:32+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 2,
-   "category": "Sports",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T09:03:32+00:00"
-  },
-  "updated_at": "2026-11-03T09:03:32+00:00"
- },
- "fd79ba289ede": {
-  "first_seen": "2026-11-03T09:03:32+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 3,
-   "category": "World",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T09:03:32+00:00"
-  },
-  "updated_at": "2026-11-03T13:04:15+00:00",
-  "fetch_status": "video_only",
-  "fetch_attempts": 0,
-  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/CMSWIDE-THUMB-NEPAL-CRASH-1793691210.png?resize=1920%2C1080&amp;quality=80",
-  "video_url": null,
-  "word_count": 45,
-  "format": "video",
-  "card": {
-   "id": "fd79ba289ede",
-   "kind": "video",
-   "headline": "Two helicopters crash near Everest base camp, killing Indian tourist",
-   "title": "Two helicopters crash near Everest base camp, killing Indian tourist",
-   "summary": null,
-   "description": "Two helicopters have collided while preparing to land in Nepal’s Mount Everest region, killing an Indian tourist.",
-   "long": false,
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/CMSWIDE-THUMB-NEPAL-CRASH-1793691210.png?resize=1920%2C1080&amp;quality=80",
-   "video_url": null,
-   "source": "Al Jazeera",
-   "section": "All",
-   "category": "World",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/two-helicopters-crash-near-everest-base-camp-killing-indian-tourist?traffic_source=rss",
-   "published_at": "2026-11-03T07:34:36+00:00",
-   "fetch_status": "video_only",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "f6a6a90bcff7": {
-  "first_seen": "2026-11-03T09:03:32+00:00",
-  "triage": {
-   "type": "explainer",
-   "significance": 3,
-   "category": "World",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T09:03:32+00:00"
-  },
-  "updated_at": "2026-11-03T11:03:47+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-02T203404Z_1113882976_RC2VFOAHOW5C_RTRMADP_3_USA-ELECTION-CALIFORNIA-1793679076.jpg?resize=1920%2C1440",
-  "video_url": null,
-  "word_count": 1203,
-  "format": "article",
-  "summary": {
-   "headline": "US midterm election results timing depends on state voting methods and close races",
-   "summary": "United States midterm elections begin closing polls on Tuesday, with results expected to trickle in over days depending on the state. While some states like Florida report quickly, others using mail-in or ranked-choice voting, such as Alaska and California, may take days or weeks. Control of both chambers of Congress remains uncertain as news organisations analyse vote counts.",
-   "words": 58,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T09:03:48+00:00"
-  },
-  "card": {
-   "id": "f6a6a90bcff7",
-   "kind": "summary",
-   "headline": "US midterm election results timing depends on state voting methods and close races",
-   "title": "When will we know the US midterm election results?",
-   "summary": "United States midterm elections begin closing polls on Tuesday, with results expected to trickle in over days depending on the state. While some states like Florida report quickly, others using mail-in or ranked-choice voting, such as Alaska and California, may take days or weeks. Control of both chambers of Congress remains uncertain as news organisations analyse vote counts.",
-   "description": "The first results are expected on Tuesday as polls begin to close at 23:00 GMT. But final results might take days.",
-   "long": false,
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-02T203404Z_1113882976_RC2VFOAHOW5C_RTRMADP_3_USA-ELECTION-CALIFORNIA-1793679076.jpg?resize=1920%2C1440",
-   "video_url": null,
-   "source": "Al Jazeera",
-   "section": "All",
-   "category": "World",
-   "type": "explainer",
-   "significance": 3,
-   "url": "https://www.aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results?traffic_source=rss",
-   "published_at": "2026-11-03T07:27:21+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "ddfe403ac03d": {
-  "first_seen": "2026-11-03T09:03:32+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 3,
-   "category": "World",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T09:03:32+00:00"
-  },
-  "updated_at": "2026-11-03T11:03:47+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6ae97c5114-1793686609.jpg?resize=1920%2C1440",
-  "video_url": null,
-  "word_count": 193,
-  "format": "article",
-  "summary": {
-   "headline": "Helicopter crash near Mount Everest base camp leaves one person dead",
-   "summary": "A helicopter collision near Mount Everest base camp in Pheriche village resulted in the death of a forty-seven-year-old Indian national and injured two others on Tuesday, according to authorities. The accident occurred at an altitude of 4,200 metres as both aircraft attempted to land. The region relies heavily on helicopters for transport due to a lack of roads.",
-   "words": 58,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T09:03:51+00:00"
-  },
-  "card": {
-   "id": "ddfe403ac03d",
-   "kind": "summary",
-   "headline": "Helicopter crash near Mount Everest base camp leaves one person dead",
-   "title": "One dead after two helicopters collide near Mount Everest in Nepal",
-   "summary": "A helicopter collision near Mount Everest base camp in Pheriche village resulted in the death of a forty-seven-year-old Indian national and injured two others on Tuesday, according to authorities. The accident occurred at an altitude of 4,200 metres as both aircraft attempted to land. The region relies heavily on helicopters for transport due to a lack of roads.",
-   "description": "Authorities have confirmed that a 47-year-old Indian national was killed and two people injured.",
-   "long": false,
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6ae97c5114-1793686609.jpg?resize=1920%2C1440",
-   "video_url": null,
-   "source": "Al Jazeera",
-   "section": "All",
-   "category": "World",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.aljazeera.com/news/2026/11/3/one-dead-after-two-helicopters-collide-near-mount-everest-in-nepal?traffic_source=rss",
-   "published_at": "2026-11-03T07:06:07+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "70318542fb2e": {
-  "first_seen": "2026-11-03T09:03:32+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 3,
-   "category": "World",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T09:03:32+00:00"
-  },
-  "updated_at": "2026-11-03T11:03:47+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-08-17T092015Z_857970082_RC290NA6HTPW_RTRMADP_3_USA-STOCKS-1793678959.jpg?resize=1920%2C1440",
-  "video_url": null,
-  "word_count": 504,
-  "format": "article",
-  "summary": {
-   "headline": "Australia high court hears legal challenge against under-sixteen social media ban",
-   "summary": "Australia's social media ban for users under sixteen is facing a legal challenge in the High Court brought by Reddit and the Digital Freedom Project. The challengers argued the restriction has limited effectiveness and restricts political discourse. According to the eSafety Commissioner, restrictions aim to protect young users from online predators and graphic content.",
-   "words": 54,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T09:03:51+00:00"
-  },
-  "card": {
-   "id": "70318542fb2e",
-   "kind": "summary",
-   "headline": "Australia high court hears legal challenge against under-sixteen social media ban",
-   "title": "Australia’s High Court hears bid to overturn under-16s social media ban",
-   "summary": "Australia's social media ban for users under sixteen is facing a legal challenge in the High Court brought by Reddit and the Digital Freedom Project. The challengers argued the restriction has limited effectiveness and restricts political discourse. According to the eSafety Commissioner, restrictions aim to protect young users from online predators and graphic content.",
-   "description": "Online giant Reddit and advocacy group Digital Freedom Project argue ban is unconstitutional.",
-   "long": false,
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-08-17T092015Z_857970082_RC290NA6HTPW_RTRMADP_3_USA-STOCKS-1793678959.jpg?resize=1920%2C1440",
-   "video_url": null,
-   "source": "Al Jazeera",
-   "section": "All",
-   "category": "World",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.aljazeera.com/news/2026/11/3/australias-high-court-hears-bid-to-overturn-under-16s-social-media-ban?traffic_source=rss",
-   "published_at": "2026-11-03T06:59:20+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "099500795498": {
-  "first_seen": "2026-11-03T09:03:32+00:00",
-  "triage": {
-   "type": "sport_result",
-   "significance": 2,
-   "category": "Sports",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T09:03:32+00:00"
-  },
-  "updated_at": "2026-11-03T09:03:32+00:00"
- },
- "1dd4158f2078": {
-  "first_seen": "2026-11-03T09:03:32+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 2,
-   "category": "Sports",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T09:03:32+00:00"
-  },
-  "updated_at": "2026-11-03T09:03:32+00:00"
- },
- "f6c02b837d4e": {
-  "first_seen": "2026-11-03T09:03:32+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 4,
-   "category": "Sports",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T09:03:32+00:00"
-  },
-  "updated_at": "2026-11-04T13:05:34+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://th-i.thgim.com/public/sport/football/7vrk14/article71659998.ece/alternates/LANDSCAPE_1200/AFCAsiaCup.jpg",
-  "video_url": null,
-  "word_count": 539,
-  "format": "article",
-  "summary": {
-   "headline": "Saudi Arabia postpones 2027 Asian Cup football tournament over safety",
-   "summary": "The Asian Football Confederation postponed the 2027 Asian Cup in Saudi Arabia from January until December 2027 due to regional security concerns and logistical complexities. The tournament will now run from December 23, 2027, to January 21, 2028, pending FIFA approval, following recent Houthi attacks that disrupted multiple sporting events across the host nation.",
-   "words": 54,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T09:03:37+00:00"
-  },
-  "card": {
-   "id": "f6c02b837d4e",
-   "kind": "summary",
-   "headline": "Saudi Arabia postpones 2027 Asian Cup football tournament over safety",
-   "title": "2027 Asian Cup football tournament in Saudi Arabia postponed over safety",
-   "summary": "The Asian Football Confederation postponed the 2027 Asian Cup in Saudi Arabia from January until December 2027 due to regional security concerns and logistical complexities. The tournament will now run from December 23, 2027, to January 21, 2028, pending FIFA approval, following recent Houthi attacks that disrupted multiple sporting events across the host nation.",
-   "description": "A number of sports events in Saudi Arabia have been cancelled or postponed in recent weeks following Houthi attacks on the country",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/sport/football/7vrk14/article71659998.ece/alternates/LANDSCAPE_1200/AFCAsiaCup.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "Sport",
-   "category": "Sports",
-   "type": "news",
-   "significance": 4,
-   "url": "https://www.thehindu.com/sport/football/2027-asian-cup-football-tournament-in-saudi-arabia-postponed-over-safety/article71659986.ece",
-   "published_at": "2026-11-03T09:18:41+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "9597c4bc382f": {
-  "first_seen": "2026-11-03T09:03:32+00:00",
-  "triage": {
-   "type": "analysis",
-   "significance": 3,
-   "category": "Science",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T09:03:32+00:00"
-  },
-  "updated_at": "2026-11-05T15:06:39+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://th-i.thgim.com/public/incoming/wa1ir/article71656061.ece/alternates/LANDSCAPE_1200/Lack-of-feed-afGSBFJF1RK.3.jpg.jpg",
-  "video_url": null,
-  "word_count": 104,
-  "format": "article",
-  "summary": {
-   "headline": "Historical roots of One Health connect human, animal and environmental medicine",
-   "summary": "Historical precedents for the One Health approach date back to Emperor Ashoka in the third century BCE, who provided medical care for both people and animals. Rudolf Virchow later coined the term zoonosis to emphasise the lack of division between animal and human medicine, linking environmental and biological health across centuries.",
-   "words": 51,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T09:03:48+00:00"
-  },
-  "card": {
-   "id": "9597c4bc382f",
-   "kind": "summary",
-   "headline": "Historical roots of One Health connect human, animal and environmental medicine",
-   "title": "The cow, the flea and the genome: One Health and the statecraft of prevention",
-   "summary": "Historical precedents for the One Health approach date back to Emperor Ashoka in the third century BCE, who provided medical care for both people and animals. Rudolf Virchow later coined the term zoonosis to emphasise the lack of division between animal and human medicine, linking environmental and biological health across centuries.",
-   "description": "A cattle virus at home and a plague scare abroad make the same argument this World One Health Day: life is epidemiologically indivisible, and the institutions that govern and study it must learn to be so too",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/wa1ir/article71656061.ece/alternates/LANDSCAPE_1200/Lack-of-feed-afGSBFJF1RK.3.jpg.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "Science",
-   "category": "Science",
-   "type": "analysis",
-   "significance": 3,
-   "url": "https://www.thehindu.com/sci-tech/health/the-cow-the-flea-and-the-genome-one-health-and-the-statecraft-of-prevention/article71630249.ece",
-   "published_at": "2026-11-03T07:06:31+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "7de270ca76a9": {
-  "first_seen": "2026-11-03T11:03:27+00:00",
-  "triage": {
-   "type": "explainer",
-   "significance": 3,
-   "category": "India",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:27+00:00"
-  },
-  "updated_at": "2026-11-04T07:04:05+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://th-i.thgim.com/public/incoming/vtthir/article71660289.ece/alternates/LANDSCAPE_1200/PSC%20Pattom.jpg",
-  "video_url": null,
-  "word_count": 97,
-  "format": "article",
-  "summary": {
-   "headline": "Kerala Public Service Commission faces Crime Branch probes",
-   "summary": "The Kerala Public Service Commission is facing intense scrutiny following allegations of examination irregularities and evaluation lapses. A Special Investigation Team headed by Inspector General of Police S. Ajeetha Begum is currently examining multiple recruitment complaints originating from unevaluated answer sheets discovered during examinations conducted for senior posts.",
-   "words": 48,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:35+00:00"
-  },
-  "card": {
-   "id": "7de270ca76a9",
-   "kind": "summary",
-   "headline": "Kerala Public Service Commission faces Crime Branch probes",
-   "title": "Kerala PSC under the scanner: How allegations of examination irregularities have triggered multiple Crime Branch probes",
-   "summary": "The Kerala Public Service Commission is facing intense scrutiny following allegations of examination irregularities and evaluation lapses. A Special Investigation Team headed by Inspector General of Police S. Ajeetha Begum is currently examining multiple recruitment complaints originating from unevaluated answer sheets discovered during examinations conducted for senior posts.",
-   "description": "What began with the discovery of unevaluated answers in a 2023 examination for senior posts in the State Planning Board has snowballed into a wider investigation by the Crime Branch",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/vtthir/article71660289.ece/alternates/LANDSCAPE_1200/PSC%20Pattom.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "National",
-   "category": "India",
-   "type": "explainer",
-   "significance": 3,
-   "url": "https://www.thehindu.com/news/national/kerala/kerala-psc-under-the-scanner-how-allegations-of-examination-irregularities-have-triggered-multiple-crime-branch-probes/article71659660.ece",
-   "published_at": "2026-11-04T06:46:22+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "775a2f424502": {
-  "first_seen": "2026-11-03T11:03:27+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 2,
-   "category": "India",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:27+00:00"
-  },
-  "updated_at": "2026-11-03T11:03:27+00:00"
- },
- "32a86ede33e0": {
-  "first_seen": "2026-11-03T11:03:27+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 2,
-   "category": "India",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:27+00:00"
-  },
-  "updated_at": "2026-11-03T11:03:27+00:00"
- },
- "d73ba8d67ce4": {
-  "first_seen": "2026-11-03T11:03:27+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 2,
-   "category": "India",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:27+00:00"
-  },
-  "updated_at": "2026-11-03T11:03:27+00:00"
- },
- "4c9af534ab60": {
-  "first_seen": "2026-11-03T11:03:27+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 1,
-   "category": "India",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:27+00:00"
-  },
-  "updated_at": "2026-11-03T11:03:27+00:00"
- },
- "34b5f719b379": {
-  "first_seen": "2026-11-03T11:03:27+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 2,
-   "category": "India",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:27+00:00"
-  },
-  "updated_at": "2026-11-03T11:03:27+00:00"
- },
- "003510b3d528": {
-  "first_seen": "2026-11-03T11:03:27+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 3,
-   "category": "India",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:27+00:00"
-  },
-  "updated_at": "2026-11-04T19:04:24+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://th-i.thgim.com/public/incoming/rl9fyl/article71660294.ece/alternates/LANDSCAPE_1200/PTI11_03_2026_000129B.jpg",
-  "video_url": null,
-  "word_count": 895,
-  "format": "article",
-  "summary": {
-   "headline": "Prime Minister Modi inaugurates Pune Metro Line 3 and outlines expansion",
-   "summary": "Prime Minister Narendra Modi stated on Tuesday that India's operational metro network expanded from 248 kilometers in 2014 to 1,200 kilometers across 26 cities. Speaking via video conference for the Pink Line launch in Pune, he laid foundation stones for Phase-II projects worth approximately 21,800 crores. Modi emphasized that enhanced urban transit infrastructure directly improves citizen convenience and accelerates national economic growth.",
-   "words": 62,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:39+00:00"
-  },
-  "card": {
-   "id": "003510b3d528",
-   "kind": "summary",
-   "headline": "Prime Minister Modi inaugurates Pune Metro Line 3 and outlines expansion",
-   "title": "PM Modi inaugurates Pune Metro Line 3, says expansion will boost connectivity, economic growth",
-   "summary": "Prime Minister Narendra Modi stated on Tuesday that India's operational metro network expanded from 248 kilometers in 2014 to 1,200 kilometers across 26 cities. Speaking via video conference for the Pink Line launch in Pune, he laid foundation stones for Phase-II projects worth approximately 21,800 crores. Modi emphasized that enhanced urban transit infrastructure directly improves citizen convenience and accelerates national economic growth.",
-   "description": "The Prime Minister inaugurated Pune Metro Line 3 (Pink Line) and laid the foundation stone of four new metro corridors under Phase-II, via video conferencing",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/rl9fyl/article71660294.ece/alternates/LANDSCAPE_1200/PTI11_03_2026_000129B.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "National",
-   "category": "India",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.thehindu.com/news/national/maharashtra/pm-modi-pune-metro-line-inauguration-india-network-nov-3-2026/article71660288.ece",
-   "published_at": "2026-11-04T17:47:38+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "d8feba64383d": {
-  "first_seen": "2026-11-03T11:03:27+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 3,
-   "category": "India",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:27+00:00"
-  },
-  "updated_at": "2026-11-03T11:03:47+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://www.thehindu.com/theme/images/og-image.png",
-  "video_url": null,
-  "word_count": 500,
-  "format": "article",
-  "summary": {
-   "headline": "Kerala UDF government prepares to overhaul state liquor policy",
-   "summary": "The Congress-led United Democratic Front government subcommittee intends to revise permissive State Excise rules established by the previous Left Democratic Front administration before releasing its new framework on November 30. Excise Minister M. Liju stated that the political executive will reclaim authority from deputy commissioners regarding bar licenses. Officials note the policy must balance state revenue needs with public health concerns in Kerala.",
-   "words": 63,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:39+00:00"
-  },
-  "card": {
-   "id": "d8feba64383d",
-   "kind": "summary",
-   "headline": "Kerala UDF government prepares to overhaul state liquor policy",
-   "title": "UDF poised to recast LDF’s ‘permissive’ liquor policy as it prepares to promulgate it on November 30",
-   "summary": "The Congress-led United Democratic Front government subcommittee intends to revise permissive State Excise rules established by the previous Left Democratic Front administration before releasing its new framework on November 30. Excise Minister M. Liju stated that the political executive will reclaim authority from deputy commissioners regarding bar licenses. Officials note the policy must balance state revenue needs with public health concerns in Kerala.",
-   "description": "Excise Minister M. Liju told The Hindu that the UDF would “dismantle the rules and amendments” that gave deputy excise commissioners the power to grant bar licenses",
-   "long": false,
-   "image": null,
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "National",
-   "category": "India",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.thehindu.com/news/national/kerala/udf-poised-to-recast-ldfs-permissive-liquor-policy-as-it-prepares-to-promulgate-it-on-november-30/article71660374.ece",
-   "published_at": "2026-11-03T10:44:40+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "bb48a3c8cbc8": {
-  "first_seen": "2026-11-03T11:03:27+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 2,
-   "category": "India",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:27+00:00"
-  },
-  "updated_at": "2026-11-03T11:03:27+00:00"
- },
- "654028a6d170": {
-  "first_seen": "2026-11-03T11:03:27+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 2,
-   "category": "India",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:27+00:00"
-  },
-  "updated_at": "2026-11-03T11:03:27+00:00"
- },
- "8f0beb73d278": {
-  "first_seen": "2026-11-03T11:03:27+00:00",
-  "triage": {
-   "type": "analysis",
-   "significance": 3,
-   "category": "India",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:27+00:00"
-  },
-  "updated_at": "2026-11-03T11:03:47+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://th-i.thgim.com/public/incoming/1iyp0e/article71660370.ece/alternates/LANDSCAPE_1200/After-fatal-NedG32GLLGV1.3.jpg.jpg",
-  "video_url": null,
-  "word_count": 410,
-  "format": "article",
-  "summary": {
-   "headline": "Excise department bar license approvals create friction for Kerala government",
-   "summary": "Recent bar license approvals by the Kerala Excise Department based on legacy rules have generated political friction for the Congress-led United Democratic Front administration. The opposition Communist Party of India Marxist criticized Excise Minister M. Liju for allegedly failing to preempt the decisions. Liju defended the administration by explaining that previous reforms stripped the political executive of automatic oversight regarding Deputy Commissioner authorizations.",
-   "words": 63,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:39+00:00"
-  },
-  "card": {
-   "id": "8f0beb73d278",
-   "kind": "summary",
-   "headline": "Excise department bar license approvals create friction for Kerala government",
-   "title": "Excise department’s 'hasty granting' of bar licenses wrong-foots UDF government",
-   "summary": "Recent bar license approvals by the Kerala Excise Department based on legacy rules have generated political friction for the Congress-led United Democratic Front administration. The opposition Communist Party of India Marxist criticized Excise Minister M. Liju for allegedly failing to preempt the decisions. Liju defended the administration by explaining that previous reforms stripped the political executive of automatic oversight regarding Deputy Commissioner authorizations.",
-   "description": "The contentious granting of licences, which reportedly angered the UDF’s “prohibitionist base” comprising Christian and Muslim social organisations, occurred as the Cabinet formulated the State’s liquor policy for the current fiscal year",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/1iyp0e/article71660370.ece/alternates/LANDSCAPE_1200/After-fatal-NedG32GLLGV1.3.jpg.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "National",
-   "category": "India",
-   "type": "analysis",
-   "significance": 3,
-   "url": "https://www.thehindu.com/news/national/kerala/excise-departments-hasty-granting-of-bar-licenses-wrong-foots-udf-government/article71660246.ece",
-   "published_at": "2026-11-03T10:32:32+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "5de2271f2e17": {
-  "first_seen": "2026-11-03T11:03:27+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 3,
-   "category": "India",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:27+00:00"
-  },
-  "updated_at": "2026-11-03T13:04:15+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://th-i.thgim.com/public/incoming/kx34wc/article71660460.ece/alternates/LANDSCAPE_1200/20261022306L.jpg",
-  "video_url": null,
-  "word_count": 647,
-  "format": "article",
-  "summary": {
-   "headline": "Navy Chief Admiral Swaminathan stresses importance of defense self-reliance",
-   "summary": "Speaking at the Delhi Defence Dialogue on November 3, Indian Navy Chief Admiral Krishna Swaminathan emphasized that self-reliance is a strategic necessity for national security. The event was hosted by the Manohar Parrikar Institute for Defence Studies and Analyses. Swaminathan highlighted geopolitical tensions, the vulnerability of global supply chains, and the critical need to bolster research, development, and indigenous capabilities within the armed forces.",
-   "words": 64,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:39+00:00"
-  },
-  "card": {
-   "id": "5de2271f2e17",
-   "kind": "summary",
-   "headline": "Navy Chief Admiral Swaminathan stresses importance of defense self-reliance",
-   "title": "Need to build a Navy that can fight, sustain without any constraints: Admiral Swaminathan",
-   "summary": "Speaking at the Delhi Defence Dialogue on November 3, Indian Navy Chief Admiral Krishna Swaminathan emphasized that self-reliance is a strategic necessity for national security. The event was hosted by the Manohar Parrikar Institute for Defence Studies and Analyses. Swaminathan highlighted geopolitical tensions, the vulnerability of global supply chains, and the critical need to bolster research, development, and indigenous capabilities within the armed forces.",
-   "description": "The Navy chief emphasised that Aatmanirbharta doesn’t mean isolation, and pitched for collaborating with friendly foreign countries “from a position of strength, and not from a position of weakness”",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/kx34wc/article71660460.ece/alternates/LANDSCAPE_1200/20261022306L.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "National",
-   "category": "India",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.thehindu.com/news/national/need-to-build-a-navy-that-can-fight-sustain-without-any-constraints-admiral-swaminathan/article71660444.ece",
-   "published_at": "2026-11-03T12:08:58+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "a171315c0de8": {
-  "first_seen": "2026-11-03T11:03:27+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 2,
-   "category": "India",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:27+00:00"
-  },
-  "updated_at": "2026-11-03T11:03:27+00:00"
- },
- "6b96150514c6": {
-  "first_seen": "2026-11-03T11:03:27+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 2,
-   "category": "India",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:27+00:00"
-  },
-  "updated_at": "2026-11-03T11:03:27+00:00"
- },
- "81d605e823bb": {
-  "first_seen": "2026-11-03T11:03:27+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 3,
-   "category": "Business",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:27+00:00"
-  },
-  "updated_at": "2026-11-04T07:04:05+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://th-i.thgim.com/public/incoming/5izvjl/article71660326.ece/alternates/LANDSCAPE_1200/20261029490L.jpg",
-  "video_url": null,
-  "word_count": 654,
-  "format": "article",
-  "summary": {
-   "headline": "India maintains strict ban on dairy and genetically modified product imports",
-   "summary": "Commerce and Industry Minister Piyush Goyal stated during an address at Kirori Mal College in Delhi that India has never permitted imports of genetically modified products or opened its dairy sector in free trade agreements. Goyal emphasized protections for domestic farmers and religious sensitivities regarding animal-derived rennet, while highlighting export targets and manufacturing growth initiatives for the country.",
-   "words": 58,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:42+00:00"
-  },
-  "card": {
-   "id": "81d605e823bb",
-   "kind": "summary",
-   "headline": "India maintains strict ban on dairy and genetically modified product imports",
-   "title": "India has never allowed import of genetically modified products, will never open dairy sector: Piyush Goyal",
-   "summary": "Commerce and Industry Minister Piyush Goyal stated during an address at Kirori Mal College in Delhi that India has never permitted imports of genetically modified products or opened its dairy sector in free trade agreements. Goyal emphasized protections for domestic farmers and religious sensitivities regarding animal-derived rennet, while highlighting export targets and manufacturing growth initiatives for the country.",
-   "description": "Addressing students of Kirori Mal College in Delhi, Piyush Goyal said India has never compromised on any sensitive item and has always protected its farmers, fishermen, and MSMEs in trade pacts",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/5izvjl/article71660326.ece/alternates/LANDSCAPE_1200/20261029490L.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "Business",
-   "category": "Business",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.thehindu.com/business/Industry/india-has-never-allowed-import-of-genetically-modified-products-will-never-open-dairy-sector-piyush-goyal/article71660272.ece",
-   "published_at": "2026-11-03T11:12:37+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "9cea2237c7fc": {
-  "first_seen": "2026-11-03T11:03:27+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 3,
-   "category": "India",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:27+00:00"
-  },
-  "updated_at": "2026-11-03T11:03:47+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://th-i.thgim.com/public/incoming/z40aih/article71660413.ece/alternates/LANDSCAPE_1200/CONGRESS%20INDIA%20BLOC%20RALLY%20DELHI%202026%2049.JPG",
-  "video_url": null,
-  "word_count": 1002,
-  "format": "article",
-  "summary": {
-   "headline": "Supreme Court of India addresses Delhi traders regarding festive protest disruptions",
-   "summary": "The Supreme Court of India heard a petition from the Kirana Committee Delhi concerning business losses caused by prolonged demonstrations during the festive season. A Bench noted the constitutional right to protest alongside the right to livelihood, observing that demonstrations generate localized economic activity for vendors. The court issued notice on the plea without granting immediate interim orders.",
-   "words": 58,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:42+00:00"
-  },
-  "card": {
-   "id": "9cea2237c7fc",
-   "kind": "summary",
-   "headline": "Supreme Court of India addresses Delhi traders regarding festive protest disruptions",
-   "title": "Demonstrations generate ‘protest economy’, Supreme Court tells Delhi traders",
-   "summary": "The Supreme Court of India heard a petition from the Kirana Committee Delhi concerning business losses caused by prolonged demonstrations during the festive season. A Bench noted the constitutional right to protest alongside the right to livelihood, observing that demonstrations generate localized economic activity for vendors. The court issued notice on the plea without granting immediate interim orders.",
-   "description": "The Bench expressed sympathy for the right to livelihood of the small traders, hawkers and push cart vendors, noting that their right competed with the right to expression of the protestors",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/z40aih/article71660413.ece/alternates/LANDSCAPE_1200/CONGRESS%20INDIA%20BLOC%20RALLY%20DELHI%202026%2049.JPG",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "National",
-   "category": "India",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.thehindu.com/news/national/demonstrations-generate-protest-economy-supreme-court-tells-delhi-traders/article71660312.ece",
-   "published_at": "2026-11-03T10:24:22+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "c86397b2af95": {
-  "first_seen": "2026-11-03T11:03:27+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 2,
-   "category": "India",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:27+00:00"
-  },
-  "updated_at": "2026-11-03T11:03:27+00:00"
- },
- "ac69e1ab94d9": {
-  "first_seen": "2026-11-03T11:03:27+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 3,
-   "category": "India",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:27+00:00"
-  },
-  "updated_at": "2026-11-03T11:03:47+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://th-i.thgim.com/public/incoming/nu1fzh/article71660436.ece/alternates/LANDSCAPE_1200/20261103092L.jpg",
-  "video_url": null,
-  "word_count": 362,
-  "format": "article",
-  "summary": {
-   "headline": "Andhra Pradesh coastal belt faces continuous heavy rainfall and flash flood alerts",
-   "summary": "The India Meteorological Department issued flash flood warnings for several districts in Andhra Pradesh as Severe Cyclonic Storm Murasu continued to generate severe gales and very heavy rainfall on November 3, 2026. Bapatla district recorded rainfall exceeding 150 millimeters, prompting the state disaster management authority to maintain active alerts across multiple coastal and interior regions.",
-   "words": 55,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:42+00:00"
-  },
-  "card": {
-   "id": "ac69e1ab94d9",
-   "kind": "summary",
-   "headline": "Andhra Pradesh coastal belt faces continuous heavy rainfall and flash flood alerts",
-   "title": "Cyclone Murasu: Very heavy rainfall continues to pound Bapatla, flash flood alerts issued",
-   "summary": "The India Meteorological Department issued flash flood warnings for several districts in Andhra Pradesh as Severe Cyclonic Storm Murasu continued to generate severe gales and very heavy rainfall on November 3, 2026. Bapatla district recorded rainfall exceeding 150 millimeters, prompting the state disaster management authority to maintain active alerts across multiple coastal and interior regions.",
-   "description": "The A.P. State Disaster Management Authority has warned that very heavy rainfall is likely in the districts of Polavaram, Kakinada, NTR, Krishna, Bapatla, and Palnadu as the Severe Cyclonic Storm is yet to weaken",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/nu1fzh/article71660436.ece/alternates/LANDSCAPE_1200/20261103092L.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "National",
-   "category": "India",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-very-heavy-rainfall-continues-to-pound-bapatla-flash-flood-alerts-issued/article71660366.ece",
-   "published_at": "2026-11-03T10:19:49+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "c0cb593aa0ed": {
-  "first_seen": "2026-11-03T11:03:27+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 2,
-   "category": "India",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:27+00:00"
-  },
-  "updated_at": "2026-11-03T11:03:27+00:00"
- },
- "fa7972b65a41": {
-  "first_seen": "2026-11-03T11:03:27+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 4,
-   "category": "World",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:27+00:00"
-  },
-  "updated_at": "2026-11-04T03:03:35+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://th-i.thgim.com/public/incoming/2eqoth/article71660520.ece/alternates/LANDSCAPE_1200/AFP__20261103__D6989Q3__v1__HighRes__IranUsIsraelWar.jpg",
-  "video_url": null,
-  "word_count": 382,
-  "format": "article",
-  "summary": {
-   "headline": "Iran displays billboards in Tehran threatening US President Trump",
-   "summary": "Iran displayed massive billboards across Tehran on Tuesday depicting threats against United States President Donald Trump. The public displays featured hostile imagery and called for revenge following previous attacks, coinciding with diplomatic tensions and legislative elections taking place in the United States while mediation efforts continued.",
-   "words": 46,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:35+00:00"
-  },
-  "card": {
-   "id": "fa7972b65a41",
-   "kind": "summary",
-   "headline": "Iran displays billboards in Tehran threatening US President Trump",
-   "title": "Iran unveils huge billboard with threat against Donald Trump’s life",
-   "summary": "Iran displayed massive billboards across Tehran on Tuesday depicting threats against United States President Donald Trump. The public displays featured hostile imagery and called for revenge following previous attacks, coinciding with diplomatic tensions and legislative elections taking place in the United States while mediation efforts continued.",
-   "description": "We will kill Trump, read the billboard towering over the busy Enghelab Square in Tehran",
-   "long": false,
-   "image": "https://th-i.thgim.com/public/incoming/2eqoth/article71660520.ece/alternates/LANDSCAPE_1200/AFP__20261103__D6989Q3__v1__HighRes__IranUsIsraelWar.jpg",
-   "video_url": null,
-   "source": "The Hindu",
-   "section": "International",
-   "category": "World",
-   "type": "news",
-   "significance": 4,
-   "url": "https://www.thehindu.com/news/international/iran-unveils-huge-billboard-with-threat-against-donald-trumps-life/article71660523.ece",
-   "published_at": "2026-11-03T11:38:19+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "ec8c74aef670": {
-  "first_seen": "2026-11-03T11:03:30+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 2,
-   "category": "Business",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:30+00:00"
-  },
-  "updated_at": "2026-11-03T11:03:30+00:00"
- },
- "d485457a5c62": {
-  "first_seen": "2026-11-03T11:03:30+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 2,
-   "category": "Business",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:30+00:00"
-  },
-  "updated_at": "2026-11-03T11:03:30+00:00"
- },
- "aad821ded2b0": {
-  "first_seen": "2026-11-03T11:03:30+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 3,
-   "category": "Sports",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:30+00:00"
-  },
-  "updated_at": "2026-11-04T05:03:58+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0671/live/df2634f0-d773-11f1-a956-ff083523ef77.jpg",
-  "video_url": null,
-  "word_count": 579,
-  "format": "article",
-  "summary": {
-   "headline": "Tenerife striker Jesus de Miguel dies after match collision",
-   "summary": "Jesus de Miguel died following a collision with FC Andorra goalkeeper Jesus Owono during a Spanish second-division match. The thirty-year-old Tenerife forward suffered head and chest injuries during added time on Monday. Although initially described as stable, his condition deteriorated and he died on Tuesday morning. The incident prompted the Spanish football federation to postpone scheduled cup fixtures, while football clubs and officials expressed widespread grief.",
-   "words": 66,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:46+00:00"
-  },
-  "card": {
-   "id": "aad821ded2b0",
-   "kind": "summary",
-   "headline": "Tenerife striker Jesus de Miguel dies after match collision",
-   "title": "Tenerife striker De Miguel dies after on-field collision",
-   "summary": "Jesus de Miguel died following a collision with FC Andorra goalkeeper Jesus Owono during a Spanish second-division match. The thirty-year-old Tenerife forward suffered head and chest injuries during added time on Monday. Although initially described as stable, his condition deteriorated and he died on Tuesday morning. The incident prompted the Spanish football federation to postpone scheduled cup fixtures, while football clubs and officials expressed widespread grief.",
-   "description": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
-   "long": false,
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0671/live/df2634f0-d773-11f1-a956-ff083523ef77.jpg",
-   "video_url": null,
-   "source": "BBC",
-   "section": "World",
-   "category": "Sports",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-   "published_at": "2026-11-03T09:09:18+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "e7258bd498ca": {
-  "first_seen": "2026-11-03T11:03:30+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 3,
-   "category": "World",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:30+00:00"
-  },
-  "updated_at": "2026-11-04T05:03:58+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fb6/live/93e34d90-d70d-11f1-a0eb-498100a176c1.jpg",
-  "video_url": null,
-  "word_count": 793,
-  "format": "article",
-  "summary": {
-   "headline": "National Transportation Safety Board investigates fatal private jet crash in Florida",
-   "summary": "The United States National Transportation Safety Board announced that a Learjet 60 may have broken apart in the air before crashing onto a highway in Palm Beach, Florida, on Sunday. The accident resulted in nine fatalities, including technology entrepreneur Adam Robinson, his family, and two crew members, while severe weather and a water-filled impact crater complicated recovery efforts.",
-   "words": 58,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:42+00:00"
-  },
-  "card": {
-   "id": "e7258bd498ca",
-   "kind": "summary",
-   "headline": "National Transportation Safety Board investigates fatal private jet crash in Florida",
-   "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
-   "summary": "The United States National Transportation Safety Board announced that a Learjet 60 may have broken apart in the air before crashing onto a highway in Palm Beach, Florida, on Sunday. The accident resulted in nine fatalities, including technology entrepreneur Adam Robinson, his family, and two crew members, while severe weather and a water-filled impact crater complicated recovery efforts.",
-   "description": "Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.",
-   "long": false,
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fb6/live/93e34d90-d70d-11f1-a0eb-498100a176c1.jpg",
-   "video_url": null,
-   "source": "BBC",
-   "section": "World",
-   "category": "World",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
-   "published_at": "2026-11-03T13:44:44+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "fc1eaf1028b2": {
-  "first_seen": "2026-11-03T11:03:30+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 2,
-   "category": "World",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:30+00:00"
-  },
-  "updated_at": "2026-11-03T11:03:30+00:00"
- },
- "ff67b7184183": {
-  "first_seen": "2026-11-03T11:03:30+00:00",
-  "triage": {
-   "type": "explainer",
-   "significance": 3,
-   "category": "World",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-03T11:03:30+00:00"
-  },
-  "updated_at": "2026-11-03T16:14:19+00:00",
-  "fetch_status": "video_only",
-  "fetch_attempts": 0,
-  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/BTN_Thumbnail_Landscape_V07-1793703331.png?resize=1920%2C1008&amp;quality=80",
-  "video_url": null,
-  "word_count": 10,
-  "format": "video",
-  "card": {
-   "id": "ff67b7184183",
-   "kind": "video",
-   "headline": "Who decides the US midterms?",
-   "title": "Who decides the US midterms?",
-   "summary": null,
-   "description": "About half of all eligible voters in the US skip the midterms. AJLabs looks at who votes and who stays home.",
-   "long": false,
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/BTN_Thumbnail_Landscape_V07-1793703331.png?resize=1920%2C1008&amp;quality=80",
-   "video_url": null,
-   "source": "Al Jazeera",
-   "section": "All",
-   "category": "World",
-   "type": "explainer",
-   "significance": 3,
-   "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/3/who-decides-the-us-midterms?traffic_source=rss",
-   "published_at": "2026-11-03T10:56:09+00:00",
-   "fetch_status": "video_only",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
  "e446980dcfe6": {
   "first_seen": "2026-11-03T11:03:30+00:00",
   "triage": {
@@ -21459,7 +20460,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-04T19:03:35+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2303431102.jpg?resize=1200,600",
@@ -26850,7 +25851,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-05T09:27:27+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/434b/live/650744e0-d8ed-11f1-a701-fddedf244c16.jpg",
@@ -71009,7 +70010,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-09T19:03:37+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2303769670.jpg?resize=1200,600",
@@ -71483,7 +70484,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-09T20:42:19+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP23200525499640.jpg?resize=1200,600",
@@ -74088,7 +73089,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-10T04:06:05+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "video_only",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90e8/live/f123c3f0-ce29-11f1-bc2e-018d645d8d21.jpg",
@@ -74126,7 +73127,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-10T04:06:05+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "video_only",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d2e/live/c0ac2480-cba7-11f1-bc2e-018d645d8d21.jpg",
@@ -74164,7 +73165,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-10T04:06:05+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "video_only",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d537/live/98e72230-c49d-11f1-a64c-550be9e3c66b.jpg",
@@ -74213,7 +73214,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-10T04:06:05+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "video_only",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80bd/live/413a8cc0-be85-11f1-a64c-550be9e3c66b.png",
@@ -76459,7 +75460,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-10T09:03:36+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/12h231/article70943183.ece/alternates/LANDSCAPE_1200/Pentagon_29414.jpg",
@@ -85507,7 +84508,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-11T01:55:50+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70ef/live/56e7aaf0-d1f2-11f1-b360-61fb5d34dc08.jpg",
@@ -86051,7 +85052,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-11T03:03:39+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d424/live/bb3e8330-dbf6-11f1-8471-ffe15ac7c066.jpg",
@@ -90823,7 +89824,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-11T13:03:48+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a10f/live/ec975ef0-dd88-11f1-994d-0d0f033add01.png",
@@ -97126,7 +96127,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-12T00:39:38+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/dvorbg/article71688935.ece/alternates/LANDSCAPE_1200/DSC_6282.JPG",
@@ -97218,7 +96219,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-12T01:03:29+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fa1/live/e95162f0-cdf6-11f1-9a39-31b474234113.jpg",
@@ -100745,7 +99746,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-12T09:47:11+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/330d/live/345eef50-ddfc-11f1-93e1-3b657b665bcf.jpg",
@@ -104346,7 +103347,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-12T18:17:15+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/9z5s84/article71695007.ece/alternates/LANDSCAPE_1200/20261112447L.jpg",
@@ -104425,7 +103426,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-12T18:17:15+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/news/national/po21yf/article71694797.ece/alternates/LANDSCAPE_1200/earthshot.jpg",
@@ -104585,7 +103586,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-12T19:04:42+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/o01910/article71694110.ece/alternates/LANDSCAPE_1200/two%20frame%201.jpg",
@@ -106995,7 +105996,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-12T23:03:36+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/foster-huang2a.jpg?resize=1200,600",
@@ -109446,7 +108447,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-13T05:03:40+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/education/45ocrm/article71692854.ece/alternates/LANDSCAPE_1200/Screenshot%202026-11-12%20133639.png",
@@ -110755,7 +109756,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-13T07:03:22+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83eb/live/3d4d12b0-d37d-11f1-bf63-739fb2907d03.jpg",
@@ -111803,7 +110804,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-13T09:03:46+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/cicsdn/article71696784.ece/alternates/LANDSCAPE_1200/Snapshots_ShapeGAUGL403J.3.jpg.jpg",
@@ -116545,7 +115546,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-13T17:03:38+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6d0/live/abb1cd00-df75-11f1-b844-3146c4983677.jpg",
@@ -119159,7 +118160,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-13T23:30:36+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ca7/live/511b1870-df1a-11f1-8440-dbadd0414f54.jpg",
@@ -121000,7 +120001,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-14T05:03:38+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/4by6yd/article71700846.ece/alternates/LANDSCAPE_1200/AP11_14_2026_000010A.jpg",
@@ -121318,7 +120319,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-14T06:16:30+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aed/live/8bcbfe20-acc6-11f1-997d-cbb0a29e3293.png",
@@ -127928,7 +126929,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-14T21:03:28+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/news/national/3nipi/article71702808.ece/alternates/LANDSCAPE_1200/jensen%20huang_Art.jpg",
@@ -128362,7 +127363,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-14T23:03:29+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/dxm9i4/article71703047.ece/alternates/LANDSCAPE_1200/SpaceX_Starship_Launch_78562.jpg",
@@ -130308,7 +129309,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-15T05:03:42+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/smiz1u/article71704050.ece/alternates/LANDSCAPE_1200/Voyager_56736.jpg",
@@ -136860,7 +135861,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-15T23:03:28+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/yeavxs/article71705966.ece/alternates/LANDSCAPE_1200/AFP_D7HU3G7.jpg",
@@ -137299,7 +136300,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-16T01:03:29+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc56/live/ce11ba80-de59-11f1-9b47-0919bf7329d1.jpg",
@@ -138410,7 +137411,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-16T03:03:28+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/cvitwf/article71704822.ece/alternates/LANDSCAPE_1200/noirlab2627a.jpg",
@@ -139112,7 +138113,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-16T07:03:26+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/ykvg0q/article71706977.ece/alternates/LANDSCAPE_1200/image%2029.jpg",
@@ -143596,7 +142597,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-16T13:04:05+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/yrnzl1/article71707786.ece/alternates/LANDSCAPE_1200/PTI10_05_2026_000302B.jpg",
@@ -143824,7 +142825,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-16T15:04:42+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/ns8f5t/article71708526.ece/alternates/LANDSCAPE_1200/iStock-1289580676.jpg",
@@ -143870,7 +142871,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-16T15:04:42+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/23gc6i/article71708356.ece/alternates/LANDSCAPE_1200/ANI-20261116041221.jpg",
@@ -144337,7 +143338,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-16T15:04:45+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTRInfosysSAP-social-card.png?resize=1200,600",
@@ -144394,7 +143395,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-16T15:04:45+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472454/STK270_GOOGLE_MAPS_D.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
@@ -144462,7 +143463,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-16T17:04:29+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/BA5098150_Post-NEXUS_MIT_1920x1080.jpg?resize=1200,600",
@@ -144863,7 +143864,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-16T19:03:30+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/vo2em/article71709329.ece/alternates/LANDSCAPE_1200/2026-02-04T030127Z_1361633183_RC2AQ9AVVN79_RTRMADP_3_YES-BANK-CEO.JPG",
@@ -145608,7 +144609,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-16T19:03:34+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/8a68j4/article71709343.ece/alternates/LANDSCAPE_1200/20261116545L.jpg",
@@ -146300,7 +145301,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-16T19:03:57+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26289708196110.jpg?resize=1200,600",
@@ -146713,7 +145714,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-16T20:26:56+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "video_only",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/890e/live/2da1ec70-e1db-11f1-a094-5fdc692f3e33.jpg",
@@ -147084,7 +146085,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-16T20:26:58+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
@@ -147274,7 +146275,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-16T21:03:29+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&amp;strip=all&amp;crop=0%2C10.742221417566%2C100%2C78.515557164868&amp;w=1200",
@@ -147331,7 +146332,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-16T21:03:29+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2227026671.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.729149249175%2C100%2C78.54170150165&amp;w=1200",
@@ -147377,7 +146378,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-16T21:03:29+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
@@ -147434,7 +146435,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-16T21:03:29+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
@@ -148000,7 +147001,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T01:03:24+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/rgd83k/article71710216.ece/alternates/LANDSCAPE_1200/TH09-nearby10_GGOFGPBMUR.3.jpg.jpg",
@@ -148314,7 +147315,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T01:03:24+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.748709970289%2C100%2C78.502580059422&amp;w=1200",
@@ -148463,7 +147464,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T03:03:47+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/7uwou6/article71710259.ece/alternates/LANDSCAPE_1200/iStock-480471413%203.jpg",
@@ -148685,7 +147686,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T03:03:47+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/sport/jbbfup/article71709342.ece/alternates/LANDSCAPE_1200/LAKSHYA%20BACKHAND.jpg",
@@ -148731,7 +147732,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T03:03:47+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/news/national/f1eooi/article70782821.ece/alternates/LANDSCAPE_1200/iStock-1194330555.jpg",
@@ -148948,7 +147949,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T04:28:13+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/n47sfy/article71710321.ece/alternates/LANDSCAPE_1200/2026-10-14T024309Z_492271225_RC2Q2OAGYXTJ_RTRMADP_3_RUSSIA-JAPAN-JOURNALIST.JPG",
@@ -148994,7 +147995,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T04:28:13+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/5ir5bx/article71710309.ece/alternates/LANDSCAPE_1200/2026-10-27T154639Z_946471081_RC2HGKAET3NA_RTRMADP_3_JPMORGAN-CHASE-BANKER-LAWSUIT.JPG",
@@ -149040,7 +148041,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T04:28:13+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/sawgox/article70560172.ece/alternates/LANDSCAPE_1200/2026-01-24T054406Z_1699215627_RC29VIA2DT7G_RTRMADP_3_NVIDIA-CHINA-JENSEN-HUANG.JPG",
@@ -149086,7 +148087,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T04:28:13+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg",
@@ -149580,7 +148581,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T07:03:31+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/wcrls3/article71710486.ece/alternates/LANDSCAPE_1200/2026-11-17T052751Z_536179175_RC2HPOAD4R5X_RTRMADP_3_ASEAN-SUMMIT.JPG",
@@ -149762,7 +148763,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T07:03:31+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/bmmukm/article71710504.ece/alternates/LANDSCAPE_1200/No-exemption-onG4NGQBQ77.4.jpg.jpg",
@@ -149922,7 +148923,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T07:03:31+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/pufclo/article71710668.ece/alternates/LANDSCAPE_1200/Canada_Carney_China__84_8.jpg",
@@ -149990,7 +148991,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T07:03:42+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/news/national/kop6bq/article71710414.ece/alternates/LANDSCAPE_1200/iStock-1293189251.jpg",
@@ -150047,7 +149048,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T07:03:42+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1524/live/baf89050-e227-11f1-a094-5fdc692f3e33.jpg",
@@ -150093,7 +149094,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T07:03:42+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba46/live/5efa38d0-df84-11f1-a701-fddedf244c16.png",
@@ -150139,7 +149140,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T07:03:42+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34cb/live/06da8400-e224-11f1-91de-bf87f3de9484.jpg",
@@ -150334,7 +149335,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T07:03:42+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f550/live/94dd3480-e1ae-11f1-b0a4-450a350911f4.jpg",
@@ -150540,7 +149541,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T07:03:42+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/rolu4z/article71710684.ece/alternates/LANDSCAPE_1200/2026-11-16T153249Z_1728241466_RC2CGNABYR9X_RTRMADP_3_SOCCER-FIFA-DIALLO.JPG",
@@ -150597,7 +149598,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T07:03:42+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/9tlt6u/article71710575.ece/alternates/LANDSCAPE_1200/TH26-INDIA-QUOTGVIGJ2CN2.3.jpg.jpg",
@@ -150827,7 +149828,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T09:03:33+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/ejp8ah/article71710780.ece/alternates/LANDSCAPE_1200/PTI11_17_2026_000048B.jpg",
@@ -150963,7 +149964,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T09:03:33+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/phgk7n/article71710747.ece/alternates/LANDSCAPE_1200/20261117017L.jpg",
@@ -151088,7 +150089,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T09:03:33+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/iu39gt/article71710942.ece/alternates/LANDSCAPE_1200/2026-11-17T042810Z_366626742_RC2EPOAQTW9L_RTRMADP_3_APEC-SUMMIT-CEO.JPG",
@@ -151134,7 +150135,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T09:03:33+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/r2fpmd/article71710717.ece/alternates/LANDSCAPE_1200/AFP__20261117__D7NM9T6__v2__HighRes__TopshotNkoreaPolitics.jpg",
@@ -151180,7 +150181,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T09:03:33+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/society/edcrjf/article71079158.ece/alternates/LANDSCAPE_1200/H1BVisa.jpg",
@@ -151226,7 +150227,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T09:03:33+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/x4yw4r/article71710845.ece/alternates/LANDSCAPE_1200/PTI11_17_2026_000046B.jpg",
@@ -151318,7 +150319,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T09:03:36+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a7e/live/95f17ee0-e257-11f1-8199-439bbe0918ee.jpg",
@@ -151337,7 +150338,7 @@
    "id": "2b2bac213679",
    "kind": "summary",
    "headline": "Mozambique opposition leader Venancio Mondlane faces trial over election unrest",
-   "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+   "title": "Mozambique opposition leader goes on trial for terrorism over deadly election protests",
    "summary": "Prominent Mozambican opposition leader Venancio Mondlane appeared in the Supreme Court in Maputo to face trial on charges including incitement to terrorism and civil disobedience. The proceedings follow deadly post-election protests stemming from disputed presidential results in 2024 that declared Daniel Chapo the winner. Rights groups reported over three hundred deaths during the subsequent unrest, while police recorded ninety-six fatalities.",
    "description": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
    "long": false,
@@ -151349,7 +150350,7 @@
    "type": "news",
    "significance": 3,
    "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
-   "published_at": "2026-11-17T12:35:57+00:00",
+   "published_at": "2026-11-17T15:19:19+00:00",
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1
@@ -151649,7 +150650,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T09:03:36+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/3fbwyl/article71710786.ece/alternates/LANDSCAPE_1200/PTI08_22_2026_000285A.jpg",
@@ -152190,7 +151191,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T11:04:43+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/2v9lbv/article71711098.ece/alternates/LANDSCAPE_1200/Philippines_ASEAN__6632.jpg",
@@ -152236,7 +151237,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T11:04:43+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/ugwos6/article71711311.ece/alternates/LANDSCAPE_1200/2026-11-17T092205Z_476278981_RC2KPOAWF2JH_RTRMADP_3_IRAN-CRISIS-PAKISTAN.JPG",
@@ -152282,7 +151283,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T11:04:43+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/otwfo8/article71711016.ece/alternates/LANDSCAPE_1200/AP11_17_2026_000004A.jpg",
@@ -152328,7 +151329,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T11:04:43+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/u5jzad/article71711251.ece/alternates/LANDSCAPE_1200/2026-11-17T065051Z_454955039_RC2IPOANUCOA_RTRMADP_3_NVIDIA-RESULTS.JPG",
@@ -152374,7 +151375,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T11:04:43+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c83/live/904d30a0-e1a4-11f1-973a-a76c1b2f887a.jpg",
@@ -152442,7 +151443,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T11:04:43+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "video_only",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4583/live/99273800-e263-11f1-a094-5fdc692f3e33.jpg",
@@ -152480,7 +151481,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T11:04:43+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
@@ -152537,7 +151538,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T11:04:43+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eff/live/0fbc83f0-e11d-11f1-93e1-3b657b665bcf.jpg",
@@ -153006,7 +152007,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T13:03:46+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/bfu44z/article71711226.ece/alternates/LANDSCAPE_1200/4871_23_3_2026_8_31_1_1_RSR_8622.JPG",
@@ -153037,7 +152038,7 @@
    "type": "news",
    "significance": 3,
    "url": "https://www.thehindu.com/sport/cricket/chennai-super-kings-ms-dhoni-team-mentor-retire-nov-17-2026/article71711142.ece",
-   "published_at": "2026-11-17T12:48:00+00:00",
+   "published_at": "2026-11-17T13:56:47+00:00",
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1
@@ -153085,7 +152086,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T13:03:46+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/t15xt2/article71711794.ece/alternates/LANDSCAPE_1200/IMG_Aerial_View_2_1_HCDNA26N.jpg",
@@ -153278,7 +152279,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T13:03:46+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/6apgn8/article71711712.ece/alternates/LANDSCAPE_1200/20261117186L.jpg",
@@ -153309,7 +152310,7 @@
    "type": "news",
    "significance": 4,
    "url": "https://www.thehindu.com/news/international/fresh-unrest-in-bangladesh-as-garment-workers-protest-block-highways-for-higher-wages/article71711657.ece",
-   "published_at": "2026-11-17T12:59:57+00:00",
+   "published_at": "2026-11-17T14:18:29+00:00",
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1
@@ -153324,7 +152325,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T13:03:46+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/cyipqc/article71711937.ece/alternates/LANDSCAPE_1200/iStock-2258598400.jpg",
@@ -153370,7 +152371,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T13:03:46+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/tbrgog/article71711589.ece/alternates/LANDSCAPE_1200/2026-11-16T210625Z_1962843264_RC29POAAJKTY_RTRMADP_3_BRITAIN-EU-BURNHAM.JPG",
@@ -153427,7 +152428,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T13:03:55+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/9lty7/article71689403.ece/alternates/LANDSCAPE_1200/iStock-1289580676.jpg",
@@ -153473,7 +152474,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T13:03:55+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/aye8ah/article71711412.ece/alternates/LANDSCAPE_1200/2025-06-09T125145Z_1389822526_RC2LICANVJSV_RTRMADP_3_BRITAIN-COURT-GETTY-STABILITYAI.JPG",
@@ -153519,7 +152520,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T13:03:55+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg",
@@ -153565,7 +152566,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T13:03:55+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb5/live/140763d0-e26c-11f1-b19c-7b42f37bea48.jpg",
@@ -153611,7 +152612,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T13:03:55+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "video_only",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2905/live/37886bc0-e1df-11f1-99a1-253766e7ad8b.jpg",
@@ -153649,7 +152650,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T13:03:55+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-13T194146Z_1432041765_RC25NOAN3FH9_RTRMADP_3_USA-ELECTION-DEMOCRATS-1-1-1794908962.jpg?resize=1200%2C630",
@@ -153695,7 +152696,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T13:03:55+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afbfc9370a59-1794899091.jpg?resize=1920%2C1440",
@@ -153741,7 +152742,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T13:03:55+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "video_only",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-12.19.14-1794918120.png?resize=1200%2C675",
@@ -153779,7 +152780,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T13:03:55+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afc353a8604c-1794913594.jpg?resize=1920%2C1440",
@@ -153825,7 +152826,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T13:03:55+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/RG_RGc7c767f5-ed7b-4c4b-ae79-de51f5110a5b-1794907044.jpeg?resize=1200%2C630",
@@ -153871,7 +152872,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T13:03:55+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "video_only",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794915377.jpg?resize=1920%2C1080&amp;quality=80",
@@ -153909,7 +152910,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T13:03:55+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "video_only",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794914326.jpg?resize=1920%2C1080&amp;quality=80",
@@ -153947,7 +152948,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T13:03:55+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP24060300538335-1762792567.jpg?resize=1920%2C1440",
@@ -153993,7 +152994,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T13:03:55+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7PB4T3__v1__HighRes__BangladeshPoliticsTextileLabourProtest-1794907389.jpg?resize=1920%2C1440",
@@ -154096,7 +153097,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T13:03:55+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/z04t30/article71711842.ece/alternates/LANDSCAPE_1200/6744_23_9_2026_10_15_57_1_02_RVM_5649.JPG",
@@ -154142,7 +153143,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T13:03:55+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/n4mmgo/article71711745.ece/alternates/LANDSCAPE_1200/20261115355L.jpg",
@@ -154660,7 +153661,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T15:04:38+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/business/ay5zlm/article71712636.ece/alternates/LANDSCAPE_1200/Wipro%203D.jpg",
@@ -154706,7 +153707,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T15:04:38+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/qf21oj/article71712155.ece/alternates/LANDSCAPE_1200/2026-06-25T084408Z_1008549193_RC2YKHA5XYWF_RTRMADP_3_AMAZON-INDIA-INVESTMENT.jpg",
@@ -154737,7 +153738,7 @@
    "type": "news",
    "significance": 4,
    "url": "https://www.thehindu.com/business/Industry/amazon-to-invest-7-billion-in-india-renewables-by-2030/article71712037.ece",
-   "published_at": "2026-11-17T13:34:21+00:00",
+   "published_at": "2026-11-17T15:04:41+00:00",
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1
@@ -154763,7 +153764,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T15:04:38+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70ed/live/39e7bed0-d676-11f1-a806-e976ee8757a1.jpg",
@@ -154820,7 +153821,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T15:04:38+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg",
@@ -154851,7 +153852,7 @@
    "type": "news",
    "significance": 4,
    "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-   "published_at": "2026-11-17T13:02:17+00:00",
+   "published_at": "2026-11-17T15:36:11+00:00",
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1
@@ -154866,7 +153867,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T15:04:38+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/AP26033775438752-1770742847.jpg?resize=1200%2C675",
@@ -154912,7 +153913,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T15:04:38+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/YT-Thumbnail-1794911248.jpg?resize=1920%2C1080&amp;quality=80",
@@ -154958,7 +153959,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T15:04:38+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afc4bc538-1794919365.jpg?resize=1920%2C1440",
@@ -155004,7 +154005,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T15:04:38+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "video_only",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794922550.jpg?resize=1920%2C1080&amp;quality=80",
@@ -155042,7 +154043,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T15:04:38+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "video_only",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794922059.jpg?resize=1920%2C1080&amp;quality=80",
@@ -155080,7 +154081,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T15:04:38+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/students_SS-1794915071.jpg?resize=1920%2C1440",
@@ -155137,7 +154138,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T15:04:38+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "video_only",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/BTN_Thumbnail_Landscape_V07-1794920585.png?resize=1920%2C1008&amp;quality=80",
@@ -155197,7 +154198,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T15:04:38+00:00"
   },
-  "updated_at": "2026-11-17T15:07:24+00:00",
+  "updated_at": "2026-11-17T15:58:46+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-03-12T122314Z_1096951451_RC203KAV5E5X_RTRMADP_3_IRAN-CRISIS-1794321773.jpg?resize=1920%2C1440",
@@ -155266,5 +154267,907 @@
    "at": "2026-11-17T15:05:13+00:00"
   },
   "updated_at": "2026-11-17T15:05:13+00:00"
+ },
+ "c360a909cc31": {
+  "first_seen": "2026-11-17T15:57:05+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 2,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:05+00:00"
+  },
+  "updated_at": "2026-11-17T15:57:05+00:00"
+ },
+ "b7728218f0fc": {
+  "first_seen": "2026-11-17T15:57:05+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 2,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:05+00:00"
+  },
+  "updated_at": "2026-11-17T15:57:05+00:00"
+ },
+ "59b3e01768a8": {
+  "first_seen": "2026-11-17T15:57:05+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 4,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:05+00:00"
+  },
+  "updated_at": "2026-11-17T15:58:46+00:00",
+  "fetch_status": "ok",
+  "fetch_attempts": 0,
+  "image": "https://th-i.thgim.com/public/incoming/ofb5a/article71712921.ece/alternates/LANDSCAPE_1200/002WINDY.jpg",
+  "video_url": null,
+  "word_count": 565,
+  "format": "article",
+  "summary": {
+   "headline": "Cyclone Akvan is forecast to intensify over the Bay of Bengal",
+   "summary": "Cyclonic storm Akvan is expected to strengthen into a severe cyclonic system over the west-central Bay of Bengal. India Meteorological Department Director General Mrutyunjay Mohapatra stated that Andhra Pradesh faces an unusual third tropical cyclone within a month. Andhra Pradesh State Disaster Management Authority Managing Director Prakhar Jain noted that recovery efforts from previous storms are complicating disaster response preparations.",
+   "words": 60,
+   "long": false,
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:42+00:00"
+  },
+  "card": {
+   "id": "59b3e01768a8",
+   "kind": "summary",
+   "headline": "Cyclone Akvan is forecast to intensify over the Bay of Bengal",
+   "title": "Cyclone Akvan moves slowly, likely to intensify further by November 18 morning",
+   "summary": "Cyclonic storm Akvan is expected to strengthen into a severe cyclonic system over the west-central Bay of Bengal. India Meteorological Department Director General Mrutyunjay Mohapatra stated that Andhra Pradesh faces an unusual third tropical cyclone within a month. Andhra Pradesh State Disaster Management Authority Managing Director Prakhar Jain noted that recovery efforts from previous storms are complicating disaster response preparations.",
+   "description": "Probable landfall between Visakhapatnam and Nellore; isolated heavy rain likely in Visakhapatnam, Alluri Sitharama Raju, Parvathipuram-Manyam, Srikakulam and Vizianagaram from November 18 evening",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/ofb5a/article71712921.ece/alternates/LANDSCAPE_1200/002WINDY.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-moves-slowly-likely-to-intensify-further-by-november-18-morning/article71712487.ece",
+   "published_at": "2026-11-17T15:49:44+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "4c64ef97cff5": {
+  "first_seen": "2026-11-17T15:57:05+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 2,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:05+00:00"
+  },
+  "updated_at": "2026-11-17T15:57:05+00:00"
+ },
+ "e81ee5a4ae19": {
+  "first_seen": "2026-11-17T15:57:05+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 3,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:05+00:00"
+  },
+  "updated_at": "2026-11-17T15:58:46+00:00",
+  "fetch_status": "ok",
+  "fetch_attempts": 0,
+  "image": "https://th-i.thgim.com/public/incoming/oc5zpw/article71712481.ece/alternates/LANDSCAPE_1200/IMG_KPCC_2_1_L2D7GTC8.jpg",
+  "video_url": null,
+  "word_count": 440,
+  "format": "article",
+  "summary": {
+   "headline": "Moily claims Congress leaders stalled Modi investigation",
+   "summary": "Former Union Minister M. Veerappa Moily alleged that unidentified leaders within the United Progressive Alliance government obstructed an investigation into Prime Minister Narendra Modi during the 2002 Gujarat riots. Speaking at a book launch in Bengaluru on November 17, 2026, Moily claimed the inquiry was halted despite Supreme Court directives. He also stated that internal resistance prevented organizational reforms proposed by party chairperson Sonia Gandhi.",
+   "words": 65,
+   "long": false,
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:42+00:00"
+  },
+  "card": {
+   "id": "e81ee5a4ae19",
+   "kind": "summary",
+   "headline": "Moily claims Congress leaders stalled Modi investigation",
+   "title": "Some Congress leaders stalled probe into Modi in Gujarat riots case, claims Veerappa Moily",
+   "summary": "Former Union Minister M. Veerappa Moily alleged that unidentified leaders within the United Progressive Alliance government obstructed an investigation into Prime Minister Narendra Modi during the 2002 Gujarat riots. Speaking at a book launch in Bengaluru on November 17, 2026, Moily claimed the inquiry was halted despite Supreme Court directives. He also stated that internal resistance prevented organizational reforms proposed by party chairperson Sonia Gandhi.",
+   "description": "",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/oc5zpw/article71712481.ece/alternates/LANDSCAPE_1200/IMG_KPCC_2_1_L2D7GTC8.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/karnataka/some-congress-leaders-stalled-probe-into-modi-in-gujarat-riots-case-claims-veerappa-moily/article71711952.ece",
+   "published_at": "2026-11-17T15:48:38+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "be2777856714": {
+  "first_seen": "2026-11-17T15:57:05+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 2,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:05+00:00"
+  },
+  "updated_at": "2026-11-17T15:57:05+00:00"
+ },
+ "c5352e785768": {
+  "first_seen": "2026-11-17T15:57:05+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 2,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:05+00:00"
+  },
+  "updated_at": "2026-11-17T15:57:05+00:00"
+ },
+ "4ba8375e369d": {
+  "first_seen": "2026-11-17T15:57:05+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 4,
+   "category": "Science",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:05+00:00"
+  },
+  "updated_at": "2026-11-17T15:58:46+00:00",
+  "fetch_status": "ok",
+  "fetch_attempts": 0,
+  "image": "https://th-i.thgim.com/public/incoming/lmb8hp/article71713010.ece/alternates/LANDSCAPE_1200/20261117124L.jpg",
+  "video_url": null,
+  "word_count": 335,
+  "format": "article",
+  "summary": {
+   "headline": "India records a significant decline in malaria cases and deaths",
+   "summary": "President Droupadi Murmu announced a nearly 80 percent drop in malaria cases and deaths nationwide between 2015 and 2025 during the Golden Jubilee celebrations of the Indian Council of Medical Research-National Institute of Malaria Research in New Delhi. Speaking on November 17, 2026, she highlighted progress in reducing high-burden districts while urging continued scientific research, surveillance, and community participation to eliminate the disease.",
+   "words": 63,
+   "long": false,
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:42+00:00"
+  },
+  "card": {
+   "id": "4ba8375e369d",
+   "kind": "summary",
+   "headline": "India records a significant decline in malaria cases and deaths",
+   "title": "India records nearly 80% decline in malaria cases and deaths from 2015 to 2025: President",
+   "summary": "President Droupadi Murmu announced a nearly 80 percent drop in malaria cases and deaths nationwide between 2015 and 2025 during the Golden Jubilee celebrations of the Indian Council of Medical Research-National Institute of Malaria Research in New Delhi. Speaking on November 17, 2026, she highlighted progress in reducing high-burden districts while urging continued scientific research, surveillance, and community participation to eliminate the disease.",
+   "description": "President Droupadi Murmu inaugurated the Golden Jubilee celebrations of ICMR-NIMR, calling for sustained vigilance, effective surveillance and community participation",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/lmb8hp/article71713010.ece/alternates/LANDSCAPE_1200/20261117124L.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "Science",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.thehindu.com/news/national/india-records-nearly-80-decline-in-malaria-cases-and-deaths-from-2015-to-2025-president/article71712440.ece",
+   "published_at": "2026-11-17T15:47:29+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "193e8257ce48": {
+  "first_seen": "2026-11-17T15:57:05+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 1,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:05+00:00"
+  },
+  "updated_at": "2026-11-17T15:57:05+00:00"
+ },
+ "99d8e176be5a": {
+  "first_seen": "2026-11-17T15:57:05+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 2,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:05+00:00"
+  },
+  "updated_at": "2026-11-17T15:57:05+00:00"
+ },
+ "3db419abf153": {
+  "first_seen": "2026-11-17T15:57:05+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 2,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:05+00:00"
+  },
+  "updated_at": "2026-11-17T15:57:05+00:00"
+ },
+ "e9496a2fe3cf": {
+  "first_seen": "2026-11-17T15:57:05+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 2,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:05+00:00"
+  },
+  "updated_at": "2026-11-17T15:57:05+00:00"
+ },
+ "0c2233b5e27a": {
+  "first_seen": "2026-11-17T15:57:05+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 2,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:05+00:00"
+  },
+  "updated_at": "2026-11-17T15:57:05+00:00"
+ },
+ "99fcab798189": {
+  "first_seen": "2026-11-17T15:57:05+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 3,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:05+00:00"
+  },
+  "updated_at": "2026-11-17T15:58:46+00:00",
+  "fetch_status": "ok",
+  "fetch_attempts": 0,
+  "image": "https://th-i.thgim.com/public/incoming/521d34/article71712933.ece/alternates/LANDSCAPE_1200/bilkis_banoo_02.jpg",
+  "video_url": null,
+  "word_count": 345,
+  "format": "article",
+  "summary": {
+   "headline": "Opposition questions Supreme Court decision to grant bail to Bilkis Bano convicts",
+   "summary": "Opposition leaders criticized a Supreme Court bench comprising Justices M.M. Sundresh and P.B. Varale for granting bail to two convicts in the Bilkis Bano case on November 17, 2026. The Congress and CPI(M) condemned the order, stating the survivor endured fresh trauma without prior notice, while the court cited their seventeen years in prison.",
+   "words": 54,
+   "long": false,
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:58:15+00:00"
+  },
+  "card": {
+   "id": "99fcab798189",
+   "kind": "summary",
+   "headline": "Opposition questions Supreme Court decision to grant bail to Bilkis Bano convicts",
+   "title": "Opposition questions Supreme Court order in Bilkis Bano case",
+   "summary": "Opposition leaders criticized a Supreme Court bench comprising Justices M.M. Sundresh and P.B. Varale for granting bail to two convicts in the Bilkis Bano case on November 17, 2026. The Congress and CPI(M) condemned the order, stating the survivor endured fresh trauma without prior notice, while the court cited their seventeen years in prison.",
+   "description": "Congress says Bilkis is being put through ‘fresh humiliation and trauma’, while CPI(M) calls SC order ‘shocking and reprehensible’",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/521d34/article71712933.ece/alternates/LANDSCAPE_1200/bilkis_banoo_02.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/opposition-questions-supreme-court-order-in-bilkis-bano-case/article71712349.ece",
+   "published_at": "2026-11-17T15:41:01+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "c637ae62cc74": {
+  "first_seen": "2026-11-17T15:57:05+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 2,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:05+00:00"
+  },
+  "updated_at": "2026-11-17T15:57:05+00:00"
+ },
+ "77be5958b830": {
+  "first_seen": "2026-11-17T15:57:05+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 3,
+   "category": "Science",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:05+00:00"
+  },
+  "updated_at": "2026-11-17T15:58:46+00:00",
+  "fetch_status": "ok",
+  "fetch_attempts": 0,
+  "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/eu9xjv/article71712424.ece/alternates/LANDSCAPE_1200/iStock-1292946572.jpg",
+  "video_url": null,
+  "word_count": 447,
+  "format": "article",
+  "summary": {
+   "headline": "Tamil Nadu launches HPV-DNA testing programme in five districts for cervical cancer",
+   "summary": "Tamil Nadu will implement HPV-DNA testing for cervical cancer across Dharmapuri, Villupuram, Tiruvannamalai, Perambalur, and Ariyalur districts, covering 124,215 women in the first phase. Supported by central approval and funds of 869.50 lakh rupees under the National Health Mission, the initiative aims to strengthen primary screening and address high morbidity rates among women.",
+   "words": 53,
+   "long": false,
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:58:15+00:00"
+  },
+  "card": {
+   "id": "77be5958b830",
+   "kind": "summary",
+   "headline": "Tamil Nadu launches HPV-DNA testing programme in five districts for cervical cancer",
+   "title": "HPV-DNA testing to be implemented in five high-burden districts of T.N.",
+   "summary": "Tamil Nadu will implement HPV-DNA testing for cervical cancer across Dharmapuri, Villupuram, Tiruvannamalai, Perambalur, and Ariyalur districts, covering 124,215 women in the first phase. Supported by central approval and funds of 869.50 lakh rupees under the National Health Mission, the initiative aims to strengthen primary screening and address high morbidity rates among women.",
+   "description": "Dharmapuri, Villupuram, Tiruvannamalai, Perambalur and Ariyalur will be covered in the first phase",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/eu9xjv/article71712424.ece/alternates/LANDSCAPE_1200/iStock-1292946572.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "Science",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/hpv-dna-testing-to-be-implemented-in-five-high-burden-districts-of-tn/article71712265.ece",
+   "published_at": "2026-11-17T15:39:51+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "f8f3c7c8fdce": {
+  "first_seen": "2026-11-17T15:57:05+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 2,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:05+00:00"
+  },
+  "updated_at": "2026-11-17T15:57:05+00:00"
+ },
+ "ee5a89d5d679": {
+  "first_seen": "2026-11-17T15:57:05+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 3,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:05+00:00"
+  },
+  "updated_at": "2026-11-17T15:58:46+00:00",
+  "fetch_status": "ok",
+  "fetch_attempts": 0,
+  "image": "https://th-i.thgim.com/public/incoming/dpi4sd/article71712957.ece/alternates/LANDSCAPE_1200/10745_17_11_2026_20_36_56_1_IMG_20261117_WA0036.JPG",
+  "video_url": null,
+  "word_count": 329,
+  "format": "article",
+  "summary": {
+   "headline": "Skilled worker shortage increases cyclone repair costs across coastal Andhra Pradesh districts",
+   "summary": "Residents in Eluru, West Godavari, and Krishna districts faced severe financial losses and high repair costs following Cyclones Arnab and Murasu. A shortage of skilled workers like masons and electricians drove daily wages up significantly, leaving many households struggling with damaged roofs and submerged water motors without full normalcy restored.",
+   "words": 50,
+   "long": false,
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:58:15+00:00"
+  },
+  "card": {
+   "id": "ee5a89d5d679",
+   "kind": "summary",
+   "headline": "Skilled worker shortage increases cyclone repair costs across coastal Andhra Pradesh districts",
+   "title": "Skilled-worker shortage pushes up cyclone repair costs in coastal Andhra",
+   "summary": "Residents in Eluru, West Godavari, and Krishna districts faced severe financial losses and high repair costs following Cyclones Arnab and Murasu. A shortage of skilled workers like masons and electricians drove daily wages up significantly, leaving many households struggling with damaged roofs and submerged water motors without full normalcy restored.",
+   "description": "Residents face repair bills ranging from ₹50,000 to ₹5 lakh as a shortage of technicians pushes up wages and delays restoration of damaged houses in Eluru, West Godavari and Krishna districts",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/dpi4sd/article71712957.ece/alternates/LANDSCAPE_1200/10745_17_11_2026_20_36_56_1_IMG_20261117_WA0036.JPG",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/skilled-worker-shortage-pushes-up-cyclone-repair-costs-in-coastal-andhra/article71712868.ece",
+   "published_at": "2026-11-17T15:39:34+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "f228668024c3": {
+  "first_seen": "2026-11-17T15:57:05+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 3,
+   "category": "Business",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:05+00:00"
+  },
+  "updated_at": "2026-11-17T15:58:46+00:00",
+  "fetch_status": "ok",
+  "fetch_attempts": 0,
+  "image": "https://th-i.thgim.com/public/incoming/p0kaak/article71712956.ece/alternates/LANDSCAPE_1200/20261005426L.jpg",
+  "video_url": null,
+  "word_count": 227,
+  "format": "article",
+  "summary": {
+   "headline": "Congress accuses Union government of economic mismanagement amid rising household and industry inflation",
+   "summary": "The Congress party alleged on November 17, 2026, that Prime Minister Narendra Modi's economic policies caused severe inflation and distress for households and businesses. Citing a recent survey, party official Jairam Ramesh stated that monthly expenditures rose over twenty percent for many families, while high input costs and tariffs forced numerous garment factories to close.",
+   "words": 55,
+   "long": false,
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:58:15+00:00"
+  },
+  "card": {
+   "id": "f228668024c3",
+   "kind": "summary",
+   "headline": "Congress accuses Union government of economic mismanagement amid rising household and industry inflation",
+   "title": "Rising prices reflect government’s economic mismanagement: Congress",
+   "summary": "The Congress party alleged on November 17, 2026, that Prime Minister Narendra Modi's economic policies caused severe inflation and distress for households and businesses. Citing a recent survey, party official Jairam Ramesh stated that monthly expenditures rose over twenty percent for many families, while high input costs and tariffs forced numerous garment factories to close.",
+   "description": "Monthly costs up by over 20% for 61% of families, according to a survey cited by Congress leader Jairam Ramesh; claims PM is more pre-occupied with politics than tackling the inflation crisis",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/p0kaak/article71712956.ece/alternates/LANDSCAPE_1200/20261005426L.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "Business",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/rising-prices-reflect-governments-economic-mismanagement-congress/article71712503.ece",
+   "published_at": "2026-11-17T15:39:04+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "a32bad63738f": {
+  "first_seen": "2026-11-17T15:57:05+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 2,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:05+00:00"
+  },
+  "updated_at": "2026-11-17T15:57:05+00:00"
+ },
+ "eb2438ad0f12": {
+  "first_seen": "2026-11-17T15:57:24+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 2,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:24+00:00"
+  },
+  "updated_at": "2026-11-17T15:57:24+00:00"
+ },
+ "6fe09f932491": {
+  "first_seen": "2026-11-17T15:57:24+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 2,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:24+00:00"
+  },
+  "updated_at": "2026-11-17T15:57:24+00:00"
+ },
+ "a97bb7af5a38": {
+  "first_seen": "2026-11-17T15:57:24+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 2,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:24+00:00"
+  },
+  "updated_at": "2026-11-17T15:57:24+00:00"
+ },
+ "088518088cec": {
+  "first_seen": "2026-11-17T15:57:24+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 3,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:24+00:00"
+  },
+  "updated_at": "2026-11-17T15:58:46+00:00",
+  "fetch_status": "ok",
+  "fetch_attempts": 0,
+  "image": "https://th-i.thgim.com/public/incoming/fzjsxu/article71712949.ece/alternates/LANDSCAPE_1200/PTI11_17_2026_000129B.jpg",
+  "video_url": null,
+  "word_count": 499,
+  "format": "article",
+  "summary": {
+   "headline": "Uttar Pradesh publishes draft electoral roll with 13.58 crore voters ahead of 2027 elections",
+   "summary": "The Uttar Pradesh election office published a draft electoral roll containing 13.58 crore voters on November 17, 2026, marking an increase of 18 lakh since April. Chief Electoral Officer Navdeep Rinwa reported the figures during a Lucknow press conference, noting the list excludes religion-based data. The revision precedes the 2027 Assembly election, with claims and objections accepted until December 16.",
+   "words": 60,
+   "long": false,
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:58:45+00:00"
+  },
+  "card": {
+   "id": "088518088cec",
+   "kind": "summary",
+   "headline": "Uttar Pradesh publishes draft electoral roll with 13.58 crore voters ahead of 2027 elections",
+   "title": "13.58 crore voters in U.P. draft electoral roll; 18 lakh added since SIR",
+   "summary": "The Uttar Pradesh election office published a draft electoral roll containing 13.58 crore voters on November 17, 2026, marking an increase of 18 lakh since April. Chief Electoral Officer Navdeep Rinwa reported the figures during a Lucknow press conference, noting the list excludes religion-based data. The revision precedes the 2027 Assembly election, with claims and objections accepted until December 16.",
+   "description": "Chief Electoral Officer Navdeep Rinwa says Election Commission does not keep religion-wise data on voters; Akhilesh questions CM Yogi’s recent claim that 1.27 crore Hindu voters were removed",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/fzjsxu/article71712949.ece/alternates/LANDSCAPE_1200/PTI11_17_2026_000129B.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/uttar-pradesh/1358-crore-voters-in-up-draft-electoral-roll-18-lakh-added-since-sir/article71712417.ece",
+   "published_at": "2026-11-17T15:36:46+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "28b13a5f04b4": {
+  "first_seen": "2026-11-17T15:57:24+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 3,
+   "category": "World",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:24+00:00"
+  },
+  "updated_at": "2026-11-17T15:58:46+00:00",
+  "fetch_status": "ok",
+  "fetch_attempts": 0,
+  "image": "https://th-i.thgim.com/public/incoming/o9g9a5/article71712901.ece/alternates/LANDSCAPE_1200/IMG_702531505_3431762130_2_1_GCG4BNIE.jpg",
+  "video_url": null,
+  "word_count": 782,
+  "format": "article",
+  "summary": {
+   "headline": "Bangladesh adviser states India cannot dictate terms regarding Sheikh Hasina return",
+   "summary": "Bangladesh information adviser Zahed Ur Rahman stated on November 17, 2026, that India cannot dictate conditions for the return of deposed Prime Minister Sheikh Hasina. While media reports suggested New Delhi sought judicial safeguards and direct army reception, Dhaka insisted any extradition and subsequent legal procedures will follow domestic laws strictly.",
+   "words": 51,
+   "long": false,
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:58:15+00:00"
+  },
+  "card": {
+   "id": "28b13a5f04b4",
+   "kind": "summary",
+   "headline": "Bangladesh adviser states India cannot dictate terms regarding Sheikh Hasina return",
+   "title": "India cannot dictate terms on Hasina’s return to Bangladesh: PM’s adviser",
+   "summary": "Bangladesh information adviser Zahed Ur Rahman stated on November 17, 2026, that India cannot dictate conditions for the return of deposed Prime Minister Sheikh Hasina. While media reports suggested New Delhi sought judicial safeguards and direct army reception, Dhaka insisted any extradition and subsequent legal procedures will follow domestic laws strictly.",
+   "description": "Hasina has been staying in India since fleeing the country in August 2024 following a student-led uprising that toppled her government",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/o9g9a5/article71712901.ece/alternates/LANDSCAPE_1200/IMG_702531505_3431762130_2_1_GCG4BNIE.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "International",
+   "category": "World",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/international/india-cannot-dictate-terms-on-hasinas-return-to-bangladesh-pms-adviser/article71712874.ece",
+   "published_at": "2026-11-17T15:37:11+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "8e3ee7b951a7": {
+  "first_seen": "2026-11-17T15:57:24+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 2,
+   "category": "Business",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:24+00:00"
+  },
+  "updated_at": "2026-11-17T15:57:24+00:00"
+ },
+ "2544b33656e6": {
+  "first_seen": "2026-11-17T15:57:24+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 2,
+   "category": "Business",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:24+00:00"
+  },
+  "updated_at": "2026-11-17T15:57:24+00:00"
+ },
+ "47b4728cc9a6": {
+  "first_seen": "2026-11-17T15:57:24+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 4,
+   "category": "World",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:24+00:00"
+  },
+  "updated_at": "2026-11-17T15:58:46+00:00",
+  "fetch_status": "ok",
+  "fetch_attempts": 0,
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
+  "video_url": null,
+  "word_count": 449,
+  "format": "article",
+  "summary": {
+   "headline": "UK sanctions firms involved in West Bank settlement construction",
+   "summary": "The United Kingdom has imposed sanctions on eight property development firms and the Israeli activist movement Tzav 9 for supporting settlements in the occupied West Bank and blocking aid to Gaza. Foreign Secretary Ed Miliband warned that upcoming construction tenders in the E1 area threaten the two-state solution. The measures are part of a broader British initiative to restrict settlement goods and financial flows.",
+   "words": 64,
+   "long": false,
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:42+00:00"
+  },
+  "card": {
+   "id": "47b4728cc9a6",
+   "kind": "summary",
+   "headline": "UK sanctions firms involved in West Bank settlement construction",
+   "title": "UK sanctions firms over Israeli West Bank settlements",
+   "summary": "The United Kingdom has imposed sanctions on eight property development firms and the Israeli activist movement Tzav 9 for supporting settlements in the occupied West Bank and blocking aid to Gaza. Foreign Secretary Ed Miliband warned that upcoming construction tenders in the E1 area threaten the two-state solution. The measures are part of a broader British initiative to restrict settlement goods and financial flows.",
+   "description": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+   "long": false,
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
+   "video_url": null,
+   "source": "BBC",
+   "section": "World",
+   "category": "World",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+   "published_at": "2026-11-17T13:10:06+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "2d6e0dc8ee36": {
+  "first_seen": "2026-11-17T15:57:24+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 3,
+   "category": "World",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:24+00:00"
+  },
+  "updated_at": "2026-11-17T15:58:46+00:00",
+  "fetch_status": "ok",
+  "fetch_attempts": 0,
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dab7/live/371458b0-e299-11f1-8dda-8925a81c3da5.jpg",
+  "video_url": null,
+  "word_count": 1063,
+  "format": "article",
+  "summary": {
+   "headline": "Canadian Prime Minister Mark Carney explores European and Asian partnerships during China visit",
+   "summary": "Canadian Prime Minister Mark Carney signaled potential ties with European and Asian carmakers to protect Canada's auto sector following U.S. tariffs imposed by Donald Trump. During a visit to China on Tuesday, Carney met President Xi Jinping to discuss trade and tariff reductions, drawing criticism from American officials concerned over potential Chinese electric vehicle manufacturing involvement in Canada.",
+   "words": 58,
+   "long": false,
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:58:45+00:00"
+  },
+  "card": {
+   "id": "2d6e0dc8ee36",
+   "kind": "summary",
+   "headline": "Canadian Prime Minister Mark Carney explores European and Asian partnerships during China visit",
+   "title": "Carney eyes 'other options' for embattled Canadian auto sector on China trip",
+   "summary": "Canadian Prime Minister Mark Carney signaled potential ties with European and Asian carmakers to protect Canada's auto sector following U.S. tariffs imposed by Donald Trump. During a visit to China on Tuesday, Carney met President Xi Jinping to discuss trade and tariff reductions, drawing criticism from American officials concerned over potential Chinese electric vehicle manufacturing involvement in Canada.",
+   "description": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+   "long": false,
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dab7/live/371458b0-e299-11f1-8dda-8925a81c3da5.jpg",
+   "video_url": null,
+   "source": "BBC",
+   "section": "World",
+   "category": "World",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+   "published_at": "2026-11-17T15:17:49+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "cf9466f9c211": {
+  "first_seen": "2026-11-17T15:57:24+00:00",
+  "triage": {
+   "type": "analysis",
+   "significance": 3,
+   "category": "World",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:24+00:00"
+  },
+  "updated_at": "2026-11-17T15:58:46+00:00",
+  "fetch_status": "ok",
+  "fetch_attempts": 0,
+  "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2025-12-15T165556Z_678996810_RC22HIAH0IRP_RTRMADP_3_YEMEN-SECURITY-1792006124.jpg?resize=1920%2C1440",
+  "video_url": null,
+  "word_count": 729,
+  "format": "article",
+  "summary": {
+   "headline": "Southern Transitional Council gains prominence as Houthi forces advance toward Aden",
+   "summary": "An advancing Houthi military threat toward Aden has elevated the importance of the Southern Transitional Council, a southern Yemeni secessionist movement supported by the United Arab Emirates. Following recent government force withdrawals, STC leaders are mobilizing defenses. Analysts warn the group remains politically divided and reliant on Saudi backing to effectively repel the ongoing offensive.",
+   "words": 55,
+   "long": false,
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:58:45+00:00"
+  },
+  "card": {
+   "id": "cf9466f9c211",
+   "kind": "summary",
+   "headline": "Southern Transitional Council gains prominence as Houthi forces advance toward Aden",
+   "title": "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
+   "summary": "An advancing Houthi military threat toward Aden has elevated the importance of the Southern Transitional Council, a southern Yemeni secessionist movement supported by the United Arab Emirates. Following recent government force withdrawals, STC leaders are mobilizing defenses. Analysts warn the group remains politically divided and reliant on Saudi backing to effectively repel the ongoing offensive.",
+   "description": "Southern separatists try to regain power to defend Aden as Saudi Arabia reshuffles its military command against Houthis.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2025-12-15T165556Z_678996810_RC22HIAH0IRP_RTRMADP_3_YEMEN-SECURITY-1792006124.jpg?resize=1920%2C1440",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "analysis",
+   "significance": 3,
+   "url": "https://www.aljazeera.com/news/2026/11/17/houthi-advance-on-aden-sparks-resurgence-of-yemens-southern-separatists?traffic_source=rss",
+   "published_at": "2026-11-17T15:26:55+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "1fa59fbdf9fc": {
+  "first_seen": "2026-11-17T15:57:24+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 5,
+   "category": "World",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:24+00:00"
+  },
+  "updated_at": "2026-11-17T15:58:46+00:00",
+  "fetch_status": "video_only",
+  "fetch_attempts": 0,
+  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794928429.jpg?resize=1920%2C1080&amp;quality=80",
+  "video_url": null,
+  "word_count": 57,
+  "format": "video",
+  "card": {
+   "id": "1fa59fbdf9fc",
+   "kind": "video",
+   "headline": "Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington",
+   "title": "Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington",
+   "summary": null,
+   "description": "President Donald Trump responded to a CNN report that Iran was working on plans to attack Washington, DC",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794928429.jpg?resize=1920%2C1080&amp;quality=80",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "news",
+   "significance": 5,
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss",
+   "published_at": "2026-11-17T15:13:57+00:00",
+   "fetch_status": "video_only",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "09a764319905": {
+  "first_seen": "2026-11-17T15:57:24+00:00",
+  "triage": {
+   "type": "explainer",
+   "significance": 4,
+   "category": "World",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:24+00:00"
+  },
+  "updated_at": "2026-11-17T15:58:46+00:00",
+  "fetch_status": "ok",
+  "fetch_attempts": 0,
+  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afc509a7cabf-1794920602.jpg?resize=1920%2C1440",
+  "video_url": null,
+  "word_count": 1749,
+  "format": "article",
+  "summary": {
+   "headline": "US intelligence reports allege potential Iranian threats in Washington",
+   "summary": "United States intelligence reportedly indicates that Iran is planning attacks against senior officials in the administration of President Donald Trump using a dirty bomb or chemical weapon in Washington, DC. The White House stated it is monitoring threats, though no credible dangers currently exist to the homeland. Meanwhile, Iran's mission to the United Nations categorically rejected the allegations as false and fabricated.",
+   "words": 62,
+   "long": false,
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:42+00:00"
+  },
+  "card": {
+   "id": "09a764319905",
+   "kind": "summary",
+   "headline": "US intelligence reports allege potential Iranian threats in Washington",
+   "title": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know",
+   "summary": "United States intelligence reportedly indicates that Iran is planning attacks against senior officials in the administration of President Donald Trump using a dirty bomb or chemical weapon in Washington, DC. The White House stated it is monitoring threats, though no credible dangers currently exist to the homeland. Meanwhile, Iran's mission to the United Nations categorically rejected the allegations as false and fabricated.",
+   "description": "A CNN report quoting unnamed US officials alleges Tehran is developing plans for an attack on officials in Washington.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afc509a7cabf-1794920602.jpg?resize=1920%2C1440",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "explainer",
+   "significance": 4,
+   "url": "https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know?traffic_source=rss",
+   "published_at": "2026-11-17T14:59:39+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "acf196365056": {
+  "first_seen": "2026-11-17T15:57:24+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 3,
+   "category": "World",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:24+00:00"
+  },
+  "updated_at": "2026-11-17T15:58:46+00:00",
+  "fetch_status": "ok",
+  "fetch_attempts": 0,
+  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afc60a2-1794924706.jpg?resize=1920%2C1440",
+  "video_url": null,
+  "word_count": 458,
+  "format": "article",
+  "summary": {
+   "headline": "Democratic senators urge Federal Aviation Administration to pause router replacements following national ground stop",
+   "summary": "Thirteen Democratic senators urged the Federal Aviation Administration to halt upcoming router replacements following an investigation into a nationwide ground stop on Friday that canceled over 10,000 flights. The FAA attributed the disruption to network upgrades involving L3Harris and Juniper Networks equipment. Meanwhile, the FBI and Department of Transportation are investigating the technical failure.",
+   "words": 54,
+   "long": false,
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:58:45+00:00"
+  },
+  "card": {
+   "id": "acf196365056",
+   "kind": "summary",
+   "headline": "Democratic senators urge Federal Aviation Administration to pause router replacements following national ground stop",
+   "title": "US senators demand FAA pause upgrades linked to nationwide ground stop",
+   "summary": "Thirteen Democratic senators urged the Federal Aviation Administration to halt upcoming router replacements following an investigation into a nationwide ground stop on Friday that canceled over 10,000 flights. The FAA attributed the disruption to network upgrades involving L3Harris and Juniper Networks equipment. Meanwhile, the FBI and Department of Transportation are investigating the technical failure.",
+   "description": "Thousands of routers used in communications systems are slated to be replaced, raising the risk of more problems.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afc60a2-1794924706.jpg?resize=1920%2C1440",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.aljazeera.com/news/2026/11/17/us-senators-demand-faa-pause-upgrades-linked-to-nationwide-ground-stop?traffic_source=rss",
+   "published_at": "2026-11-17T14:57:33+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "3b07add44278": {
+  "first_seen": "2026-11-17T15:57:24+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 2,
+   "category": "Sports",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:24+00:00"
+  },
+  "updated_at": "2026-11-17T15:57:24+00:00"
+ },
+ "a127bdd6bea9": {
+  "first_seen": "2026-11-17T15:57:24+00:00",
+  "triage": {
+   "type": "promo",
+   "significance": 1,
+   "category": "Tech",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-17T15:57:24+00:00"
+  },
+  "updated_at": "2026-11-17T15:57:24+00:00"
  }
 }
