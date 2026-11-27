@@ -1,424 +1,4 @@
 {
- "b8b602b92172": {
-  "first_seen": "2026-11-13T11:03:35+00:00",
-  "triage": {
-   "type": "feature",
-   "significance": 2,
-   "category": "World",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-13T11:03:35+00:00"
-  },
-  "updated_at": "2026-11-13T11:03:35+00:00"
- },
- "3f1845f4c4b8": {
-  "first_seen": "2026-11-13T11:03:35+00:00",
-  "triage": {
-   "type": "feature",
-   "significance": 2,
-   "category": "World",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-13T11:03:35+00:00"
-  },
-  "updated_at": "2026-11-13T11:03:35+00:00"
- },
- "51fb1172a6c8": {
-  "first_seen": "2026-11-13T11:03:35+00:00",
-  "triage": {
-   "type": "analysis",
-   "significance": 3,
-   "category": "Sports",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-13T11:03:35+00:00"
-  },
-  "updated_at": "2026-11-14T01:03:35+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a5/live/fac09110-df39-11f1-a701-fddedf244c16.jpg",
-  "video_url": null,
-  "word_count": 1052,
-  "format": "article",
-  "summary": {
-   "headline": "Pat Cummins denies involvement in the 2018 Australian cricket ball-tampering scandal",
-   "summary": "Australian men's cricket captain Pat Cummins rejected allegations from Usman Khawaja's new memoir claiming the entire team knew about the 2018 ball-tampering scheme against South Africa. During a lengthy press conference in Sydney, Cummins denied involvement and criticized the timing of the book. Cricket Australia chief executive Todd Greenberg has ruled out reopening an investigation into the incident.",
-   "words": 58,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-13T11:04:11+00:00"
-  },
-  "card": {
-   "id": "51fb1172a6c8",
-   "kind": "summary",
-   "headline": "Pat Cummins denies involvement in the 2018 Australian cricket ball-tampering scandal",
-   "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
-   "summary": "Australian men's cricket captain Pat Cummins rejected allegations from Usman Khawaja's new memoir claiming the entire team knew about the 2018 ball-tampering scheme against South Africa. During a lengthy press conference in Sydney, Cummins denied involvement and criticized the timing of the book. Cricket Australia chief executive Todd Greenberg has ruled out reopening an investigation into the incident.",
-   "description": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
-   "long": false,
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a5/live/fac09110-df39-11f1-a701-fddedf244c16.jpg",
-   "video_url": null,
-   "source": "BBC",
-   "section": "World",
-   "category": "Sports",
-   "type": "analysis",
-   "significance": 3,
-   "url": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
-   "published_at": "2026-11-13T08:20:28+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "9f19246aacd8": {
-  "first_seen": "2026-11-13T11:03:35+00:00",
-  "triage": {
-   "type": "analysis",
-   "significance": 4,
-   "category": "Tech",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-13T11:03:35+00:00"
-  },
-  "updated_at": "2026-11-13T11:04:12+00:00",
-  "fetch_status": "video_only",
-  "fetch_attempts": 0,
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2742/live/64baf7c0-dece-11f1-93e1-3b657b665bcf.jpg",
-  "video_url": null,
-  "word_count": 77,
-  "format": "video",
-  "card": {
-   "id": "9f19246aacd8",
-   "kind": "video",
-   "headline": "Jensen Huang has resigned, what's next for Nvidia?",
-   "title": "Jensen Huang has resigned, what's next for Nvidia?",
-   "summary": null,
-   "description": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
-   "long": false,
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2742/live/64baf7c0-dece-11f1-93e1-3b657b665bcf.jpg",
-   "video_url": null,
-   "source": "BBC",
-   "section": "World",
-   "category": "Tech",
-   "type": "analysis",
-   "significance": 4,
-   "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
-   "published_at": "2026-11-12T19:33:37+00:00",
-   "fetch_status": "video_only",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "83450e3d58d5": {
-  "first_seen": "2026-11-13T11:03:35+00:00",
-  "triage": {
-   "type": "feature",
-   "significance": 3,
-   "category": "World",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-13T11:03:35+00:00"
-  },
-  "updated_at": "2026-11-13T19:03:55+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9195/live/8aa36db0-de8c-11f1-9afe-1f03bfe02283.png",
-  "video_url": null,
-  "word_count": 360,
-  "format": "article",
-  "summary": {
-   "headline": "Scott Colom becomes Mississippi's first Black US senator in over 150 years",
-   "summary": "Democrat Scott Colom won a close election in Mississippi, becoming the state's first Black US senator since 1875 and only the third in its history. He follows Hiram Revels and Blanche Bruce, who served during the Reconstruction era before Jim Crow laws were enacted. Colom secured victory by mobilizing young voters and the state's Black population.",
-   "words": 56,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-13T11:04:11+00:00"
-  },
-  "card": {
-   "id": "83450e3d58d5",
-   "kind": "summary",
-   "headline": "Scott Colom becomes Mississippi's first Black US senator in over 150 years",
-   "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
-   "summary": "Democrat Scott Colom won a close election in Mississippi, becoming the state's first Black US senator since 1875 and only the third in its history. He follows Hiram Revels and Blanche Bruce, who served during the Reconstruction era before Jim Crow laws were enacted. Colom secured victory by mobilizing young voters and the state's Black population.",
-   "description": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
-   "long": false,
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9195/live/8aa36db0-de8c-11f1-9afe-1f03bfe02283.png",
-   "video_url": null,
-   "source": "BBC",
-   "section": "World",
-   "category": "World",
-   "type": "feature",
-   "significance": 3,
-   "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
-   "published_at": "2026-11-12T14:12:55+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "48cf19d6f0f1": {
-  "first_seen": "2026-11-13T11:03:35+00:00",
-  "triage": {
-   "type": "sport_result",
-   "significance": 3,
-   "category": "Sports",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-13T11:03:35+00:00"
-  },
-  "updated_at": "2026-11-13T17:03:57+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2304890573-1794562006_be5306-1794562616.jpg?resize=1200%2C630&amp;quality=80",
-  "video_url": null,
-  "word_count": 363,
-  "format": "article",
-  "summary": {
-   "headline": "New Zealand defeats India by 244 runs in fourth one-day international",
-   "summary": "New Zealand defeated India by 244 runs in the fourth one-day international at Mount Maunganui, despite trailing the series. Matt Henry took six wickets and Will Young struck a century, helping the hosts post 333 before bowling India out for 89 runs in 19 overs. New Zealand can no longer win the series but aims to avoid defeat in the final match.",
-   "words": 62,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-13T11:04:01+00:00"
-  },
-  "card": {
-   "id": "48cf19d6f0f1",
-   "kind": "summary",
-   "headline": "New Zealand defeats India by 244 runs in fourth one-day international",
-   "title": "Henry and Young shine as New Zealand thrash India by 244 runs",
-   "summary": "New Zealand defeated India by 244 runs in the fourth one-day international at Mount Maunganui, despite trailing the series. Matt Henry took six wickets and Will Young struck a century, helping the hosts post 333 before bowling India out for 89 runs in 19 overs. New Zealand can no longer win the series but aims to avoid defeat in the final match.",
-   "description": "New Zealand trail India 2-1 and can no ​longer win the five-match series, but they can level it in Sunday's final game.",
-   "long": false,
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2304890573-1794562006_be5306-1794562616.jpg?resize=1200%2C630&amp;quality=80",
-   "video_url": null,
-   "source": "Al Jazeera",
-   "section": "All",
-   "category": "Sports",
-   "type": "sport_result",
-   "significance": 3,
-   "url": "https://www.aljazeera.com/sports/2026/11/13/matt-henry-will-young-new-zealand-india-fourth-odi?traffic_source=rss",
-   "published_at": "2026-11-13T10:26:37+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "b8dc660e11b8": {
-  "first_seen": "2026-11-13T11:03:35+00:00",
-  "triage": {
-   "type": "analysis",
-   "significance": 4,
-   "category": "World",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-13T11:03:35+00:00"
-  },
-  "updated_at": "2026-11-13T16:18:32+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-20T183134Z_99037278_RC267OA0Z53B_RTRMADP_3_USA-TRUMP-1794560172_c635cd-1794565751.jpg?resize=1200%2C630&amp;quality=80",
-  "video_url": null,
-  "word_count": 1377,
-  "format": "article",
-  "summary": {
-   "headline": "Donald Trump dismisses need for deal with Iran amid political fallout",
-   "summary": "United States President Donald Trump announced that no agreement is necessary with Iran, directing Vice President JD Vance to instead focus on urban corruption and crime. The directive follows Republican congressional losses attributed by Vance to the military conflict. Meanwhile, Tehran reported attacking a United States early-warning radar system in Bahrain in retaliation for a strike in southern Iran.",
-   "words": 59,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-13T11:03:54+00:00"
-  },
-  "card": {
-   "id": "b8dc660e11b8",
-   "kind": "summary",
-   "headline": "Donald Trump dismisses need for deal with Iran amid political fallout",
-   "title": "Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?",
-   "summary": "United States President Donald Trump announced that no agreement is necessary with Iran, directing Vice President JD Vance to instead focus on urban corruption and crime. The directive follows Republican congressional losses attributed by Vance to the military conflict. Meanwhile, Tehran reported attacking a United States early-warning radar system in Bahrain in retaliation for a strike in southern Iran.",
-   "description": "The US-Iran war is trapped in an ongoing 'no war, no peace' situation, analysts say.",
-   "long": false,
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-20T183134Z_99037278_RC267OA0Z53B_RTRMADP_3_USA-TRUMP-1794560172_c635cd-1794565751.jpg?resize=1200%2C630&amp;quality=80",
-   "video_url": null,
-   "source": "Al Jazeera",
-   "section": "All",
-   "category": "World",
-   "type": "analysis",
-   "significance": 4,
-   "url": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance?traffic_source=rss",
-   "published_at": "2026-11-13T10:26:22+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "2abed8a35a5f": {
-  "first_seen": "2026-11-13T11:03:35+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 4,
-   "category": "World",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-13T11:03:35+00:00"
-  },
-  "updated_at": "2026-11-13T16:18:32+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26316520987093-1794558218.jpg?resize=1920%2C1440",
-  "video_url": null,
-  "word_count": 679,
-  "format": "article",
-  "summary": {
-   "headline": "Russia and Ukraine report overnight drone attacks amid ongoing US-led diplomatic efforts",
-   "summary": "Russian and Ukrainian authorities reported numerous overnight attacks, including drone strikes that struck oil infrastructure, a hospital in Kyiv, and industrial sites in Volgograd, resulting in multiple casualties. The hostilities persisted concurrently with diplomatic mediation led by United States envoys Jared Kushner and Steve Witkoff, who held discussions with regional leaders in Abu Dhabi, Moscow, and Dublin.",
-   "words": 57,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-13T11:03:54+00:00"
-  },
-  "card": {
-   "id": "2abed8a35a5f",
-   "kind": "summary",
-   "headline": "Russia and Ukraine report overnight drone attacks amid ongoing US-led diplomatic efforts",
-   "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
-   "summary": "Russian and Ukrainian authorities reported numerous overnight attacks, including drone strikes that struck oil infrastructure, a hospital in Kyiv, and industrial sites in Volgograd, resulting in multiple casualties. The hostilities persisted concurrently with diplomatic mediation led by United States envoys Jared Kushner and Steve Witkoff, who held discussions with regional leaders in Abu Dhabi, Moscow, and Dublin.",
-   "description": "Russia and Ukraine continue attacks as US efforts to broker a ceasefire struggle to make progress.",
-   "long": false,
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26316520987093-1794558218.jpg?resize=1920%2C1440",
-   "video_url": null,
-   "source": "Al Jazeera",
-   "section": "All",
-   "category": "World",
-   "type": "news",
-   "significance": 4,
-   "url": "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push?traffic_source=rss",
-   "published_at": "2026-11-13T10:11:38+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "0f4e827474b9": {
-  "first_seen": "2026-11-13T11:03:35+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 4,
-   "category": "World",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-13T11:03:35+00:00"
-  },
-  "updated_at": "2026-11-13T15:05:16+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2-1794559552.jpg?resize=1500%2C1080",
-  "video_url": null,
-  "word_count": 901,
-  "format": "article",
-  "summary": {
-   "headline": "Heavy rainfall in Gaza damages solar energy systems and threatens essential services",
-   "summary": "Recent severe rainfall across the Gaza Strip damaged makeshift shelters, household solar power equipment, and municipal electricity distribution infrastructure, according to reports from residents and aid agencies. The United Nations Children’s Fund stated that over 106,000 individuals were impacted by the adverse weather, which heightened risks to medical facilities operating within temporary structures while exacerbating an existing energy crisis.",
-   "words": 59,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-13T11:03:54+00:00"
-  },
-  "card": {
-   "id": "0f4e827474b9",
-   "kind": "summary",
-   "headline": "Heavy rainfall in Gaza damages solar energy systems and threatens essential services",
-   "title": "With every rainfall, Gaza risks losing access to power and healthcare",
-   "summary": "Recent severe rainfall across the Gaza Strip damaged makeshift shelters, household solar power equipment, and municipal electricity distribution infrastructure, according to reports from residents and aid agencies. The United Nations Children’s Fund stated that over 106,000 individuals were impacted by the adverse weather, which heightened risks to medical facilities operating within temporary structures while exacerbating an existing energy crisis.",
-   "description": "Heavy rains flood shelters, damage solar power systems and threaten essential healthcare services.",
-   "long": false,
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2-1794559552.jpg?resize=1500%2C1080",
-   "video_url": null,
-   "source": "Al Jazeera",
-   "section": "All",
-   "category": "World",
-   "type": "news",
-   "significance": 4,
-   "url": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
-   "published_at": "2026-11-13T09:43:30+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "514bf803fb41": {
-  "first_seen": "2026-11-13T11:03:35+00:00",
-  "triage": {
-   "type": "explainer",
-   "significance": 5,
-   "category": "Tech",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-13T11:03:35+00:00"
-  },
-  "updated_at": "2026-11-13T15:05:16+00:00",
-  "fetch_status": "ok",
-  "fetch_attempts": 0,
-  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af6c919a6f5-1794558233.jpg?resize=1920%2C1440",
-  "video_url": null,
-  "word_count": 1837,
-  "format": "article",
-  "summary": {
-   "headline": "Microsoft struggles to restore global services following major server outage",
-   "summary": "Technology giant Microsoft reported limited success in restoring widely used workplace applications more than twelve hours after a global technical failure disrupted Outlook and Teams across seventy-four countries. The corporation stated that servers experienced unexpected unavailability and elevated loads, prompting international government disruptions. Officials confirmed no evidence of malicious cyber activity behind the ongoing server failures.",
-   "words": 56,
-   "long": false,
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-13T11:03:43+00:00"
-  },
-  "card": {
-   "id": "514bf803fb41",
-   "kind": "summary",
-   "headline": "Microsoft struggles to restore global services following major server outage",
-   "title": "Microsoft hit by global outages: What happened and why?",
-   "summary": "Technology giant Microsoft reported limited success in restoring widely used workplace applications more than twelve hours after a global technical failure disrupted Outlook and Teams across seventy-four countries. The corporation stated that servers experienced unexpected unavailability and elevated loads, prompting international government disruptions. Officials confirmed no evidence of malicious cyber activity behind the ongoing server failures.",
-   "description": "Outlook, Teams and Copilot remain disrupted in 74 countries as Microsoft reports ‘marginal success’ in fixing outage.",
-   "long": false,
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af6c919a6f5-1794558233.jpg?resize=1920%2C1440",
-   "video_url": null,
-   "source": "Al Jazeera",
-   "section": "All",
-   "category": "Tech",
-   "type": "explainer",
-   "significance": 5,
-   "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss",
-   "published_at": "2026-11-13T09:30:55+00:00",
-   "fetch_status": "ok",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
- "4e6b2cfef496": {
-  "first_seen": "2026-11-13T11:03:35+00:00",
-  "triage": {
-   "type": "news",
-   "significance": 3,
-   "category": "World",
-   "model": "gemini-3.5-flash-lite",
-   "at": "2026-11-13T11:03:35+00:00"
-  },
-  "updated_at": "2026-11-13T15:05:16+00:00",
-  "fetch_status": "video_only",
-  "fetch_attempts": 0,
-  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794561082.jpg?resize=1200%2C675",
-  "video_url": null,
-  "word_count": 42,
-  "format": "video",
-  "card": {
-   "id": "4e6b2cfef496",
-   "kind": "video",
-   "headline": "Pope Leo XIV warns on pressures facing modern families",
-   "title": "Pope Leo XIV warns on pressures facing modern families",
-   "summary": null,
-   "description": "Pope Leo XIV has warned that digital technology risks replacing genuine human interaction.",
-   "long": false,
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794561082.jpg?resize=1200%2C675",
-   "video_url": null,
-   "source": "Al Jazeera",
-   "section": "All",
-   "category": "World",
-   "type": "news",
-   "significance": 3,
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-xiv-warns-on-pressures-facing-modern-families?traffic_source=rss",
-   "published_at": "2026-11-13T09:11:37+00:00",
-   "fetch_status": "video_only",
-   "cluster_id": null,
-   "cluster_size": 1
-  }
- },
  "083e0b751f26": {
   "first_seen": "2026-11-13T11:03:35+00:00",
   "triage": {
@@ -6539,7 +6119,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-13T23:30:36+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ca7/live/511b1870-df1a-11f1-8440-dbadd0414f54.jpg",
@@ -8698,7 +8278,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-14T06:16:30+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aed/live/8bcbfe20-acc6-11f1-997d-cbb0a29e3293.png",
@@ -24679,7 +24259,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-16T01:03:29+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc56/live/ce11ba80-de59-11f1-9b47-0919bf7329d1.jpg",
@@ -31717,7 +31297,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-16T15:04:45+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTRInfosysSAP-social-card.png?resize=1200,600",
@@ -31842,7 +31422,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-16T17:04:29+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/BA5098150_Post-NEXUS_MIT_1920x1080.jpg?resize=1200,600",
@@ -33680,7 +33260,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-16T19:03:57+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26289708196110.jpg?resize=1200,600",
@@ -36466,7 +36046,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T04:28:13+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg",
@@ -42143,7 +41723,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-17T15:04:38+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70ed/live/39e7bed0-d676-11f1-a806-e976ee8757a1.jpg",
@@ -52403,7 +51983,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-18T11:04:00+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/osmo-nose2.jpg?resize=1200,600",
@@ -58514,7 +58094,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-18T23:03:28+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac99/live/a44fd170-e2ad-11f1-a094-5fdc692f3e33.jpg",
@@ -60612,7 +60192,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-19T03:03:25+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fde6/live/889408a0-e250-11f1-ad39-a14279638f62.jpg",
@@ -69770,7 +69350,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-19T20:32:09+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/891f/live/5dbe2290-d932-11f1-93e1-3b657b665bcf.jpg",
@@ -81110,7 +80690,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-20T19:03:42+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600",
@@ -107444,7 +107024,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-23T19:05:20+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/simulacra2a.jpg?resize=1200,600",
@@ -117920,7 +117500,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-24T21:04:34+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&amp;strip=all&amp;crop=0%2C1.2974525602559%2C100%2C78.525377525853&amp;w=1200",
@@ -117977,7 +117557,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-24T21:04:34+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
@@ -121236,7 +120816,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-25T02:22:42+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e93a/live/237a32d0-e7d4-11f1-939f-471cde339c0e.jpg",
@@ -121545,7 +121125,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-25T02:22:45+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/latest-news/xrdwjy/article70862713.ece/alternates/LANDSCAPE_1200/Obesity.jpg",
@@ -126278,7 +125858,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-25T11:03:34+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/loc-sales2a.jpg?resize=1200,600",
@@ -126965,7 +126545,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-25T13:04:19+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.339110464558%2C100%2C75.321779070884&amp;w=1200",
@@ -127578,7 +127158,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-25T15:04:38+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
@@ -128918,7 +128498,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-25T19:04:23+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d424/live/bb3e8330-dbf6-11f1-8471-ffe15ac7c066.jpg",
@@ -130532,7 +130112,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-25T21:03:41+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.756615395926%2C100%2C78.486769208148&amp;w=1200",
@@ -131153,7 +130733,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-25T23:03:31+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&amp;strip=all&amp;crop=2.859375%2C11.97652241473%2C93.788122558594%2C75.148782257541&amp;w=1200",
@@ -131797,7 +131377,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-26T03:03:39+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/6f1vqz/article71745085.ece/alternates/LANDSCAPE_1200/2026-11-25T164248Z_1477569435_RC2TZHAVKLNB_RTRMADP_3_NVIDIA-CEO-CONGRESS.JPG",
@@ -131823,7 +131403,7 @@
    "image": "https://th-i.thgim.com/public/incoming/6f1vqz/article71745085.ece/alternates/LANDSCAPE_1200/2026-11-25T164248Z_1477569435_RC2TZHAVKLNB_RTRMADP_3_NVIDIA-CEO-CONGRESS.JPG",
    "video_url": null,
    "source": "The Hindu",
-   "section": "International",
+   "section": "Business",
    "category": "Business",
    "type": "analysis",
    "significance": 4,
@@ -132818,7 +132398,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-26T05:03:24+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a10f/live/ec975ef0-dd88-11f1-994d-0d0f033add01.png",
@@ -134192,7 +133772,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-26T07:03:42+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/8mhjqe/article71745348.ece/alternates/LANDSCAPE_1200/2026-11-25T182129Z_159918729_RC25VOA58I23_RTRMADP_3_SPACE-ASTEROID.JPG",
@@ -135245,7 +134825,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-26T09:03:28+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db1b/live/69c522b0-e962-11f1-a094-5fdc692f3e33.jpg",
@@ -135291,7 +134871,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-26T09:03:28+00:00"
   },
-  "updated_at": "2026-11-26T23:03:41+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ca2/live/a7b62ec0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
@@ -136633,7 +136213,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-26T13:03:38+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/8808uk/article71746413.ece/alternates/LANDSCAPE_1200/IMG_BL0602_Lab2_2_1_11AR9VVN.jpg",
@@ -136975,7 +136555,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-26T13:03:42+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/vmbs81/article65382549.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_TheHindu_UV0C1ENHD_R1460197291_0_49.jpg",
@@ -138120,7 +137700,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-26T13:03:51+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
@@ -138166,7 +137746,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-26T13:03:51+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/d8pkkq/article71450650.ece/alternates/LANDSCAPE_1200/India-produces-G39GBD8P1.3.jpg.jpg",
@@ -140099,7 +139679,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-26T17:03:32+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/lfifgr/article71747979.ece/alternates/LANDSCAPE_1200/iStock-458264239.jpg",
@@ -140145,7 +139725,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-26T17:03:32+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/business/pjnvo2/article71747771.ece/alternates/LANDSCAPE_1200/IVCA.jpg",
@@ -141488,7 +141068,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-26T18:24:28+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fa1/live/e95162f0-cdf6-11f1-9a39-31b474234113.jpg",
@@ -142191,7 +141771,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-26T21:03:29+00:00"
   },
-  "updated_at": "2026-11-27T19:03:49+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "video_only",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e81d/live/7ff7f4c0-e9cd-11f1-99a1-253766e7ad8b.jpg",
@@ -142565,7 +142145,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-26T21:03:29+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/2028po/article71748150.ece/alternates/LANDSCAPE_1200/PTI11_26_2026_000281B.jpg",
@@ -142793,7 +142373,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-26T23:03:30+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/r239z3/article71748306.ece/alternates/LANDSCAPE_1200/Strobe_Talbott_1_544.jpg",
@@ -142839,7 +142419,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-26T23:03:30+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
@@ -142885,7 +142465,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-26T23:03:30+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "video_only",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5957/live/94851140-e9e4-11f1-ab41-f1f84c0c758a.jpg",
@@ -143053,7 +142633,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-26T23:03:30+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/7q9kcx/article71748327.ece/alternates/LANDSCAPE_1200/Georgia_Europa_League_Socccer_89547.jpg",
@@ -143371,7 +142951,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T01:03:33+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e530/live/10b39120-de8b-11f1-a701-fddedf244c16.jpg",
@@ -143781,7 +143361,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T02:50:44+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/jck5db/article71749248.ece/alternates/LANDSCAPE_1200/2026-10-20T195323Z_1416703275_RC27C6A64HLE_RTRMADP_3_NETFLIX-RESULTS.JPG",
@@ -143963,7 +143543,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T02:50:44+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/3adbij/article71749239.ece/alternates/LANDSCAPE_1200/2026-11-26T233433Z_1433722125_RC2TVOA4DKZ5_RTRMADP_3_USA-WEATHER.JPG",
@@ -144009,7 +143589,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T02:50:44+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/bjqia6/article71749217.ece/alternates/LANDSCAPE_1200/New_Zealand_Election_22694.jpg",
@@ -144055,7 +143635,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T02:50:44+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/12564v/article71749204.ece/alternates/LANDSCAPE_1200/2026-11-23T151529Z_395023134_RC2GZHA14YOE_RTRMADP_3_NVIDIA-CEO-TRUMP.JPG",
@@ -144101,7 +143681,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T02:50:44+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/news/international/9vlzxk/article71749186.ece/alternates/LANDSCAPE_1200/BrazlFM.jpg",
@@ -144185,7 +143765,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T02:50:44+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe82/live/56152150-e9af-11f1-a094-5fdc692f3e33.jpg",
@@ -144231,7 +143811,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T02:50:44+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg",
@@ -144497,7 +144077,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T03:03:28+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/rzflft/article71747439.ece/alternates/LANDSCAPE_1200/BD764A13-94B1-476D-A88C-7AE662E1B408.jpeg",
@@ -144839,7 +144419,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T05:03:29+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.thehindu.com/theme/images/og-image.png",
@@ -144885,7 +144465,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T05:03:29+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/5cxd9a/article71749368.ece/alternates/LANDSCAPE_1200/2026-11-26T162433Z_1015617438_RC2TQOANQQ5V_RTRMADP_3_UKRAINE-CRISIS-TRUMP.JPG",
@@ -145078,7 +144658,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T05:03:29+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/6ghg4m/article71749454.ece/alternates/LANDSCAPE_1200/2026-11-24T143634Z_679441414_UP1EMBO14KXNO_RTRMADP_3_CHESS-WORLD.JPG",
@@ -145124,7 +144704,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T05:03:29+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/sci-tech/science/25h7ch/article71741951.ece/alternates/LANDSCAPE_1200/1xInsect__flower_-_1.jpg",
@@ -145521,7 +145101,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T07:03:38+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/507xqt/article71749757.ece/alternates/LANDSCAPE_1200/2026-11-27T061939Z_519630695_RC2FLNA3EZXS_RTRMADP_3_AIRASIA-FINANCE.JPG",
@@ -145567,7 +145147,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T07:03:38+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/6zdv0n/article71749595.ece/alternates/LANDSCAPE_1200/2026-10-22T101739Z_177590834_RC238OALMSNI_RTRMADP_3_ISRAEL-PALESTINIANS-INDONESIA.JPG",
@@ -145613,7 +145193,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T07:03:38+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/5hpl9i/article71749572.ece/alternates/LANDSCAPE_1200/suprme%20court%20canada.jpg",
@@ -145670,7 +145250,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T07:03:40+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "video_only",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6e8/live/fb20a6d0-e9cb-11f1-99b6-a35a62fa4264.jpg",
@@ -145990,7 +145570,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T07:03:40+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/sci-tech/health/tn8fhg/article71749649.ece/alternates/LANDSCAPE_1200/iStock-1900058669.jpg",
@@ -146515,7 +146095,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T09:03:31+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/sci-tech/energy-and-environment/ypsgxp/article71749708.ece/alternates/LANDSCAPE_1200/Whatsapp.jpg",
@@ -146572,7 +146152,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T09:03:31+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b15/live/1e1b2100-8200-11ef-a56e-130bd491f2ab.jpg",
@@ -146930,7 +146510,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T09:03:31+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/3wwmgd/article71749274.ece/alternates/LANDSCAPE_1200/2026-03-13T124659Z_274740966_RC2LBDA2B0LD_RTRMADP_3_IRAN-CRISIS-SWISS.JPG",
@@ -146976,7 +146556,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T09:03:31+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/9my7m/article71749272.ece/alternates/LANDSCAPE_1200/2026-11-26T111435Z_604621296_RC2VCZ98GUY7_RTRMADP_3_USA-CHIPS-ASIA-DATA-CENTERS.JPG",
@@ -147022,7 +146602,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T09:03:31+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/didslo/article71749265.ece/alternates/LANDSCAPE_1200/2026-11-18T205104Z_1973702886_RC2JDOAPUHZ5_RTRMADP_3_FINTECH-CRYPTO-BINANCE.JPG",
@@ -147068,7 +146648,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T09:03:31+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/ew5is8/article71749279.ece/alternates/LANDSCAPE_1200/2026-03-31T141837Z_1654227667_RC2MKHA5B6TE_RTRMADP_3_META-TEEN-SAFETY.JPG",
@@ -147114,7 +146694,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T09:03:31+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/a1ix4q/article71749267.ece/alternates/LANDSCAPE_1200/2026-11-17T203811Z_34911547_RC2YUX9M06JI_RTRMADP_3_APPLE-OUTAGES.JPG",
@@ -147412,7 +146992,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T11:03:37+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/news/national/8w0cph/article71750203.ece/alternates/LANDSCAPE_1200/iStock-1264230781.jpg",
@@ -147835,7 +147415,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T11:03:40+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/w7833f/article71750269.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGN9GR0M1S.3.jpg.jpg",
@@ -147881,7 +147461,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T11:03:40+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/47pac3/article71750074.ece/alternates/LANDSCAPE_1200/AFP_D8RQ9WE.jpg",
@@ -147938,7 +147518,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T11:03:40+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/crmz7a/article71750369.ece/alternates/LANDSCAPE_1200/iStock-2003934964.jpg",
@@ -147984,7 +147564,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T11:03:40+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/8i5ffi/article71747862.ece/alternates/LANDSCAPE_1200/PTI04-05-2020_000035A.jpg",
@@ -148030,7 +147610,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T11:03:40+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ba6/live/13325bf0-ea40-11f1-9fc4-ef897a334b75.jpg",
@@ -149023,7 +148603,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T13:03:26+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/ahyovp/article71750819.ece/alternates/LANDSCAPE_1200/2026-11-27T110007Z_1971608881_RC27VS91XAH3_RTRMADP_3_USA-PENTAGON-AIR-FORCE-CLOUD.JPG",
@@ -149069,7 +148649,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T13:03:26+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/muq7cj/article71750542.ece/alternates/LANDSCAPE_1200/AFP_D8PE9G3.jpg",
@@ -149115,7 +148695,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T13:03:26+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/q425x8/article71750587.ece/alternates/LANDSCAPE_1200/2026-11-19T152054Z_618118556_RC27COA2ZBGO_RTRMADP_3_VOLKSWAGEN-REDUNDANCIES.JPG",
@@ -149161,7 +148741,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T13:03:26+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/business/yyhpqy/article71750522.ece/alternates/LANDSCAPE_1200/Johannes%20Heinlein.jpeg",
@@ -149207,7 +148787,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T13:03:29+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/news/national/t7fwrg/article71750478.ece/alternates/LANDSCAPE_1200/iStock-1358183711%2017.jpg",
@@ -149622,7 +149202,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T13:03:29+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/wgzemd/article71750762.ece/alternates/LANDSCAPE_1200/11908_4_5_2026_23_0_22_3_DSC_7254.JPG",
@@ -149883,7 +149463,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T13:49:34+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/bbam3p/article71751050.ece/alternates/LANDSCAPE_1200/2026-11-26T033403Z_1416849372_RC26POASTFAT_RTRMADP_3_ASIA-WEATHER-INDIA-POLLUTION.JPG",
@@ -150190,7 +149770,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T13:49:37+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/ogfsxm/article71750863.ece/alternates/LANDSCAPE_1200/tecverse3_27.jpg",
@@ -150293,7 +149873,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T13:49:37+00:00"
   },
-  "updated_at": "2026-11-27T13:49:52+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/551558a0-e96f-11f1-99a1-253766e7ad8b.jpg",
@@ -150339,7 +149919,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T13:49:37+00:00"
   },
-  "updated_at": "2026-11-27T13:49:52+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cfa/live/2eeecd70-e99f-11f1-b880-15b494ba858d.jpg",
@@ -150605,7 +150185,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T13:49:37+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/foster-huang2a.jpg?resize=1200,600",
@@ -151335,7 +150915,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T17:03:37+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.thehindu.com/theme/images/og-image.png",
@@ -151381,7 +150961,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T17:03:37+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/gti1g0/article71752155.ece/alternates/LANDSCAPE_1200/2026-11-09T143940Z_1670882012_RC27KOA5N4WQ_RTRMADP_3_IRAN-CRISIS-YEMEN-STRIKE.JPG",
@@ -151427,7 +151007,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T17:03:37+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/hjeygy/article71752127.ece/alternates/LANDSCAPE_1200/iStock-2223775121.jpg",
@@ -151473,7 +151053,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T17:03:37+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/pkdisy/article71751904.ece/alternates/LANDSCAPE_1200/Agriculture-MinG0GFU12DP.4.jpg.jpg",
@@ -151519,7 +151099,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T17:03:37+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/pljn8i/article71751499.ece/alternates/LANDSCAPE_1200/PTI11_27_2026_000094B.jpg",
@@ -151565,7 +151145,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T17:03:37+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/a6vj15/article71751107.ece/alternates/LANDSCAPE_1200/2026-11-27T093609Z_221605581_RC2V80A69HA9_RTRMADP_3_INDIA-DEBT-BORROWINGS.JPG",
@@ -151611,7 +151191,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T17:03:37+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg",
@@ -151668,7 +151248,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T17:03:37+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg",
@@ -151714,7 +151294,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T17:03:37+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23bb/live/01c67d00-ea73-11f1-a828-d384c0290f6b.jpg",
@@ -151760,7 +151340,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T17:03:37+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e9/live/7ddd01c0-ea82-11f1-a739-457c2295eaba.jpg",
@@ -151806,7 +151386,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T17:03:37+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261125__D8KZ93E__v1__HighRes__IsraelPoliticsParliament-1795794655.jpg?resize=1920%2C1440",
@@ -151852,7 +151432,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T17:03:37+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09a999-1795795353.jpg?resize=1920%2C1440",
@@ -151898,7 +151478,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T17:03:37+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09a50c-1795794188.jpg?resize=1920%2C1440",
@@ -151944,7 +151524,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T17:03:37+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "video_only",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795795296.jpg?resize=1920%2C1080&amp;quality=80",
@@ -151982,7 +151562,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T17:03:37+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261127__D8TN37B__v1__HighRes__SerbiaPoliticsElection-1795790157.jpg?resize=1920%2C1440",
@@ -152028,7 +151608,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T17:03:39+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0729fce3fe-1795631612.jpg?resize=1920%2C1440",
@@ -152237,7 +151817,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T17:03:39+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/72uvwa/article71752010.ece/alternates/LANDSCAPE_1200/PTI11_26_2026_000003B.jpg",
@@ -152327,7 +151907,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T19:03:29+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/oh6x0/article71752274.ece/alternates/LANDSCAPE_1200/20261127321L.jpg",
@@ -152586,7 +152166,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T19:03:29+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.thehindu.com/theme/images/og-image.png",
@@ -152632,7 +152212,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T19:03:29+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/7h8rkq/article71751689.ece/alternates/LANDSCAPE_1200/TH26-KDR-SupremGMBGRPJOT.3.jpg.jpg",
@@ -152884,7 +152464,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T19:03:33+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/agf8dh/article71752222.ece/alternates/LANDSCAPE_1200/US%20Iran%20blockade.jpg",
@@ -152930,7 +152510,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T19:03:33+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/w8l30y/article71752257.ece/alternates/LANDSCAPE_1200/2026-11-27T141709Z_2100278477_RC2EXMAI1IRK_RTRMADP_3_TATA-SONS-CHAIRMAN.JPG",
@@ -152976,7 +152556,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T19:03:33+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/ct3x3s/article71749521.ece/alternates/LANDSCAPE_1200/20261123495L_EvWbRRB.jpg",
@@ -153022,7 +152602,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T19:03:33+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83eb/live/3d4d12b0-d37d-11f1-bf63-739fb2907d03.jpg",
@@ -153068,7 +152648,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T19:03:33+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09bc8a-1795800202.jpg?resize=1920%2C1440",
@@ -153114,7 +152694,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T19:03:33+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "video_only",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795801461.jpg?resize=1920%2C1080&amp;quality=80",
@@ -153152,7 +152732,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T19:03:33+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09af2d-1795796781.jpg?resize=1920%2C1440",
@@ -153198,7 +152778,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T19:03:33+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261127__D8RQ9WE__v2__HighRes__PakistanSaudiTurkeyDiplomacyYemen-1795798226.jpg?resize=1920%2C1440",
@@ -153255,7 +152835,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T19:03:33+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b09b547f029a-1795798343.jpg?resize=1920%2C1440",
@@ -153301,7 +152881,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T19:03:33+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b099d3113c10-1795792177.jpg?resize=1920%2C1440",
@@ -153347,7 +152927,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T19:03:33+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "video_only",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Thumbnail_-H-clean-1795798312.png?resize=1920%2C1080&amp;quality=80",
@@ -153385,7 +152965,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T19:03:33+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "video_only",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795798046.jpg?resize=1920%2C1080&amp;quality=80",
@@ -153423,7 +153003,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T19:03:33+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2020/10/2019-06-17T232122Z_1159317181_RC17A021DBA0_RTRMADP_3_CANADA-QUEBEC-RELIGION-1.jpg?resize=1920%2C1440",
@@ -153469,7 +153049,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T19:03:33+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:02+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/sport/fdfi3r/article71752227.ece/alternates/LANDSCAPE_1200/Semi-final-4.jpeg",
@@ -153515,7 +153095,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T21:03:27+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/4jgn4y/article71751190.ece/alternates/LANDSCAPE_1200/Arul%20vignesh%20arrest%201.jpg",
@@ -153561,7 +153141,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T21:03:27+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/zarshs/article71747086.ece/alternates/LANDSCAPE_1200/Uncertainty-oveGDHGRKK49.4.jpg.jpg",
@@ -153607,7 +153187,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T21:03:27+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/news/national/hwf3bx/article67730690.ece/alternates/LANDSCAPE_1200/NKV-NewParliament.JPG",
@@ -153653,7 +153233,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T21:03:27+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/qr9ool/article71752375.ece/alternates/LANDSCAPE_1200/2026-11-27T082726Z_1510170076_RC2GVOA5SOX6_RTRMADP_3_BANGLADESH-GARMENTS-INDIA.JPG",
@@ -153710,7 +153290,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T21:03:27+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/odjdsw/article71752374.ece/alternates/LANDSCAPE_1200/1000771343.jpg",
@@ -153767,7 +153347,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T21:03:27+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/rlcqfm/article71752371.ece/alternates/LANDSCAPE_1200/INDIAN_OIL_Devanagonthi15.JPG",
@@ -153824,7 +153404,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T21:03:27+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/fjkts9/article71752268.ece/alternates/LANDSCAPE_1200/16th-kdr-Plea-iGGTGQDPII.3.jpg.jpg",
@@ -153881,7 +153461,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T21:03:27+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.thehindu.com/theme/images/og-image.png",
@@ -153938,7 +153518,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T21:03:27+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.thehindu.com/theme/images/og-image.png",
@@ -153984,7 +153564,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T21:03:27+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://th-i.thgim.com/public/incoming/yk0v8e/article71752364.ece/alternates/LANDSCAPE_1200/_DSC0580.JPG",
@@ -154076,7 +153656,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T21:03:27+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg",
@@ -154107,7 +153687,7 @@
    "type": "news",
    "significance": 4,
    "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
-   "published_at": "2026-11-27T20:57:04+00:00",
+   "published_at": "2026-11-27T21:55:53+00:00",
    "fetch_status": "ok",
    "cluster_id": null,
    "cluster_size": 1
@@ -154122,7 +153702,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T21:03:27+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a324/live/235d3bb0-ea97-11f1-99a1-253766e7ad8b.jpg",
@@ -154168,7 +153748,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T21:03:27+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b09e7e49444-1795811300.jpg?resize=1920%2C1440",
@@ -154214,7 +153794,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T21:03:27+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/openai-1787794171_757e43-1787807919.jpeg?resize=1200%2C630&amp;quality=80",
@@ -154260,7 +153840,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T21:03:30+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b09e278cdc4-1795809913.jpg?resize=1920%2C1440",
@@ -154306,7 +153886,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T21:03:30+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "video_only",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795810674.jpg?resize=1920%2C1080&amp;quality=80",
@@ -154344,7 +153924,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T21:03:30+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "video_only",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795810110.jpg?resize=1620%2C1080&amp;quality=80",
@@ -154382,7 +153962,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T21:03:30+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795803534.jpg?resize=1920%2C1080&amp;quality=80",
@@ -154428,7 +154008,7 @@
    "model": "gemini-3.5-flash-lite",
    "at": "2026-11-27T21:03:30+00:00"
   },
-  "updated_at": "2026-11-27T21:03:45+00:00",
+  "updated_at": "2026-11-27T22:41:01+00:00",
   "fetch_status": "ok",
   "fetch_attempts": 0,
   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b09d72e1273-1795807022.jpg?resize=1920%2C1440",
@@ -154486,5 +154066,425 @@
    "at": "2026-11-27T21:03:30+00:00"
   },
   "updated_at": "2026-11-27T21:03:30+00:00"
+ },
+ "0268145f4e90": {
+  "first_seen": "2026-11-27T22:40:53+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 2,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-27T22:40:53+00:00"
+  },
+  "updated_at": "2026-11-27T22:40:53+00:00"
+ },
+ "e002799514c7": {
+  "first_seen": "2026-11-27T22:40:53+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 3,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-27T22:40:53+00:00"
+  },
+  "updated_at": "2026-11-27T22:41:01+00:00",
+  "fetch_status": "ok",
+  "fetch_attempts": 0,
+  "image": "https://th-i.thgim.com/public/incoming/u60r8a/article71752396.ece/alternates/LANDSCAPE_1200/20261125213L.jpg",
+  "video_url": null,
+  "word_count": 682,
+  "format": "article",
+  "summary": {
+   "headline": "Omar Abdullah denies road construction on Amarnath route and accuses rivals",
+   "summary": "Jammu and Kashmir Chief Minister Omar Abdullah stated on November 27, 2026, that no road blacktopping occurred on the Amarnath route near Sheshnag lake. He accused the Bharatiya Janata Party and the Peoples Democratic Party of stoking Hindu-Muslim discord. A forest department report confirmed routine maintenance by the Border Roads Organisation, while opposition leaders demanded an on-site inspection of the area.",
+   "words": 61,
+   "long": false,
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-27T22:41:00+00:00"
+  },
+  "card": {
+   "id": "e002799514c7",
+   "kind": "summary",
+   "headline": "Omar Abdullah denies road construction on Amarnath route and accuses rivals",
+   "title": "Not a single foot of blacktopping done on Amarnath route, PDP-BJP stoking Hindu-Muslim discord: Omar Abdullah",
+   "summary": "Jammu and Kashmir Chief Minister Omar Abdullah stated on November 27, 2026, that no road blacktopping occurred on the Amarnath route near Sheshnag lake. He accused the Bharatiya Janata Party and the Peoples Democratic Party of stoking Hindu-Muslim discord. A forest department report confirmed routine maintenance by the Border Roads Organisation, while opposition leaders demanded an on-site inspection of the area.",
+   "description": "‘The BJP and those carrying the symbol of pen and inkpot are again trying to foment Hindu-Muslim discord over the Amarnath route,’ said Omar Abdullah",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/u60r8a/article71752396.ece/alternates/LANDSCAPE_1200/20261125213L.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/not-a-single-foot-of-blacktopping-done-on-amarnath-route-pdp-bjp-stoking-hindu-muslim-discord-omar-abdullah/article71751958.ece",
+   "published_at": "2026-11-27T20:38:46+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "b5e74785a2f6": {
+  "first_seen": "2026-11-27T22:40:53+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 2,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-27T22:40:53+00:00"
+  },
+  "updated_at": "2026-11-27T22:40:53+00:00"
+ },
+ "3af478ef837a": {
+  "first_seen": "2026-11-27T22:40:53+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 4,
+   "category": "India",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-27T22:40:53+00:00"
+  },
+  "updated_at": "2026-11-27T22:41:01+00:00",
+  "fetch_status": "ok",
+  "fetch_attempts": 0,
+  "image": "https://th-i.thgim.com/public/incoming/hiqe3i/article71752360.ece/alternates/LANDSCAPE_1200/India_Disaster_Relief_Exercise_66726.jpg",
+  "video_url": null,
+  "word_count": 375,
+  "format": "article",
+  "summary": {
+   "headline": "India must strengthen military capabilities across domains, says defence chief",
+   "summary": "Chief of Defence Staff General N.S. Raja Subramani stated that nations face continuous contestation as the boundary between war and peace blurs. Speaking in New Delhi, he emphasised the necessity for India to modernise its electronic and cognitive warfare capabilities. He highlighted lessons from recent global conflicts and pointed to Operation Sindoor as an example of effective joint military operations and intelligence-led strikes.",
+   "words": 63,
+   "long": false,
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-27T22:40:58+00:00"
+  },
+  "card": {
+   "id": "3af478ef837a",
+   "kind": "summary",
+   "headline": "India must strengthen military capabilities across domains, says defence chief",
+   "title": "War and peace distinction blurring, India faces continuous state of contestation: CDS",
+   "summary": "Chief of Defence Staff General N.S. Raja Subramani stated that nations face continuous contestation as the boundary between war and peace blurs. Speaking in New Delhi, he emphasised the necessity for India to modernise its electronic and cognitive warfare capabilities. He highlighted lessons from recent global conflicts and pointed to Operation Sindoor as an example of effective joint military operations and intelligence-led strikes.",
+   "description": "‘A nation’s military power is as good as its industrial power,’ said Chief of Defence Staff (CDS) General N.S. Raja Subramani",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/hiqe3i/article71752360.ece/alternates/LANDSCAPE_1200/India_Disaster_Relief_Exercise_66726.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "National",
+   "category": "India",
+   "type": "news",
+   "significance": 4,
+   "url": "https://www.thehindu.com/news/national/war-and-peace-distinction-blurring-india-faces-continuous-state-of-contestation-cds/article71751530.ece",
+   "published_at": "2026-11-27T19:03:11+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "e40f9649db97": {
+  "first_seen": "2026-11-27T22:40:53+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 3,
+   "category": "World",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-27T22:40:53+00:00"
+  },
+  "updated_at": "2026-11-27T22:41:01+00:00",
+  "fetch_status": "ok",
+  "fetch_attempts": 0,
+  "image": "https://th-i.thgim.com/public/incoming/arqxz1/article71752549.ece/alternates/LANDSCAPE_1200/Pakistan_62937.jpg",
+  "video_url": null,
+  "word_count": 829,
+  "format": "article",
+  "summary": {
+   "headline": "Makkah alliance countries review regional security and condemn Houthi attacks",
+   "summary": "Top officials of the Makkah Defence Alliance met in Islamabad to review regional security and condemn attacks by Yemen's Houthi militia on Saudi Arabia. Pakistani Deputy Prime Minister Ishaq Dar confirmed commitment to the trilateral pact. The meeting addressed practical implementation of collective defence provisions, intelligence sharing, and regional de-escalation efforts following recent escalations involving Saudi Arabia, Pakistan, and Turkiye.",
+   "words": 60,
+   "long": false,
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-27T22:40:58+00:00"
+  },
+  "card": {
+   "id": "e40f9649db97",
+   "kind": "summary",
+   "headline": "Makkah alliance countries review regional security and condemn Houthi attacks",
+   "title": "Makkah alliance countries review regional security situation, condemn Houthi attacks on Saudi Arabia",
+   "summary": "Top officials of the Makkah Defence Alliance met in Islamabad to review regional security and condemn attacks by Yemen's Houthi militia on Saudi Arabia. Pakistani Deputy Prime Minister Ishaq Dar confirmed commitment to the trilateral pact. The meeting addressed practical implementation of collective defence provisions, intelligence sharing, and regional de-escalation efforts following recent escalations involving Saudi Arabia, Pakistan, and Turkiye.",
+   "description": "‘The committee reviewed the evolving regional security situation and reaffirmed the determination of the three countries to continue working collectively towards peace, security, and stability,’ said Ishaq Dar",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/arqxz1/article71752549.ece/alternates/LANDSCAPE_1200/Pakistan_62937.jpg",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "International",
+   "category": "World",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/international/makkah-alliance-countries-review-regional-security-situation-condemn-houthi-attacks-on-saudi-arabia/article71752547.ece",
+   "published_at": "2026-11-27T22:36:35+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "61c871e5070c": {
+  "first_seen": "2026-11-27T22:40:53+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 3,
+   "category": "World",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-27T22:40:53+00:00"
+  },
+  "updated_at": "2026-11-27T22:41:01+00:00",
+  "fetch_status": "ok",
+  "fetch_attempts": 0,
+  "image": "https://th-i.thgim.com/public/incoming/sn00n2/article71752542.ece/alternates/LANDSCAPE_1200/2026-11-27T160816Z_1800381719_RC2DWOAYEM3P_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-HAMAS.JPG",
+  "video_url": null,
+  "word_count": 499,
+  "format": "article",
+  "summary": {
+   "headline": "Hamas says Israel targeted chief's son in Gaza strike",
+   "summary": "Hamas stated that an Israeli strike in Gaza City targeted the adult son of political bureau chief Khalil al-Hayya, who reportedly survived. Separate incidents across the Palestinian territory resulted in additional casualties according to Gaza's civil defence agency and local medical facilities. The Israeli military stated it was reviewing the reported incidents amid an ongoing truce that has seen persistent violence since October 2025.",
+   "words": 64,
+   "long": false,
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-27T22:40:58+00:00"
+  },
+  "card": {
+   "id": "61c871e5070c",
+   "kind": "summary",
+   "headline": "Hamas says Israel targeted chief's son in Gaza strike",
+   "title": "Hamas says Israel tried to kill chief’s son in Gaza",
+   "summary": "Hamas stated that an Israeli strike in Gaza City targeted the adult son of political bureau chief Khalil al-Hayya, who reportedly survived. Separate incidents across the Palestinian territory resulted in additional casualties according to Gaza's civil defence agency and local medical facilities. The Israeli military stated it was reviewing the reported incidents amid an ongoing truce that has seen persistent violence since October 2025.",
+   "description": "‘Izz al-Din al-Hayya, the youngest surviving son of Hamas political bureau chief Khalil al-Hayya, along with his family and the family of his late brother Azzam, survived an Israeli assassination attempt,’ a security source in Gaza told AFP",
+   "long": false,
+   "image": "https://th-i.thgim.com/public/incoming/sn00n2/article71752542.ece/alternates/LANDSCAPE_1200/2026-11-27T160816Z_1800381719_RC2DWOAYEM3P_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-HAMAS.JPG",
+   "video_url": null,
+   "source": "The Hindu",
+   "section": "International",
+   "category": "World",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.thehindu.com/news/international/hamas-says-israel-tried-to-kill-chiefs-son-in-gaza/article71752540.ece",
+   "published_at": "2026-11-27T22:18:41+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "38f6415aa1a8": {
+  "first_seen": "2026-11-27T22:40:53+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 3,
+   "category": "World",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-27T22:40:53+00:00"
+  },
+  "updated_at": "2026-11-27T22:41:01+00:00",
+  "fetch_status": "ok",
+  "fetch_attempts": 0,
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg",
+  "video_url": null,
+  "word_count": 430,
+  "format": "article",
+  "summary": {
+   "headline": "Canadian prosecutors seek 25-year prison term for Kenneth Law",
+   "summary": "Canadian prosecutors are recommending a 25-year prison sentence for Kenneth Law, who pleaded guilty to aiding the suicide deaths of 14 people in Ontario. Crown Attorney Kathleen Doherty described Law as a predator who sold toxic chemicals online for financial gain. Defence lawyers argued for a 12-year sentence, stating Law held a misguided belief that he was helping victims who were already struggling with mental health issues.",
+   "words": 67,
+   "long": false,
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-27T22:40:58+00:00"
+  },
+  "card": {
+   "id": "38f6415aa1a8",
+   "kind": "summary",
+   "headline": "Canadian prosecutors seek 25-year prison term for Kenneth Law",
+   "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
+   "summary": "Canadian prosecutors are recommending a 25-year prison sentence for Kenneth Law, who pleaded guilty to aiding the suicide deaths of 14 people in Ontario. Crown Attorney Kathleen Doherty described Law as a predator who sold toxic chemicals online for financial gain. Defence lawyers argued for a 12-year sentence, stating Law held a misguided belief that he was helping victims who were already struggling with mental health issues.",
+   "description": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
+   "long": false,
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg",
+   "video_url": null,
+   "source": "BBC",
+   "section": "World",
+   "category": "World",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+   "published_at": "2026-11-27T22:03:46+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "3c96658edef6": {
+  "first_seen": "2026-11-27T22:40:53+00:00",
+  "triage": {
+   "type": "news",
+   "significance": 3,
+   "category": "World",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-27T22:40:53+00:00"
+  },
+  "updated_at": "2026-11-27T22:41:01+00:00",
+  "fetch_status": "video_only",
+  "fetch_attempts": 0,
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8b3/live/b600e9f0-ea81-11f1-a094-5fdc692f3e33.jpg",
+  "video_url": null,
+  "word_count": 74,
+  "format": "video",
+  "card": {
+   "id": "3c96658edef6",
+   "kind": "video",
+   "headline": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+   "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+   "summary": null,
+   "description": "Hundreds of thousands of people were without power after severe weather hit both coasts of the United States during the Thanksgiving holiday.",
+   "long": false,
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8b3/live/b600e9f0-ea81-11f1-a094-5fdc692f3e33.jpg",
+   "video_url": null,
+   "source": "BBC",
+   "section": "World",
+   "category": "World",
+   "type": "news",
+   "significance": 3,
+   "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
+   "published_at": "2026-11-27T16:46:47+00:00",
+   "fetch_status": "video_only",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "39e47ef1c7cd": {
+  "first_seen": "2026-11-27T22:40:53+00:00",
+  "triage": {
+   "type": "analysis",
+   "significance": 3,
+   "category": "World",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-27T22:40:53+00:00"
+  },
+  "updated_at": "2026-11-27T22:41:01+00:00",
+  "fetch_status": "ok",
+  "fetch_attempts": 0,
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8024/live/53498270-e8e4-11f1-a3b9-79c60ec9ab33.jpg",
+  "video_url": null,
+  "word_count": 1101,
+  "format": "article",
+  "summary": {
+   "headline": "France's political mainstream faces potential presidential wipe-out in 2027",
+   "summary": "France's political center faces a potential wipe-out in the April-May 2027 presidential election due to the dominance of hard-right and hard-left leaders. Analysts note that divisions, personal rivalries, and a lack of preparation plague legacy parties. While candidates like Edouard Philippe and David Lisnard compete on the right, commentators warn that the middle ground currently lacks a unified strategy or programme.",
+   "words": 61,
+   "long": false,
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-27T22:41:00+00:00"
+  },
+  "card": {
+   "id": "39e47ef1c7cd",
+   "kind": "summary",
+   "headline": "France's political mainstream faces potential presidential wipe-out in 2027",
+   "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+   "summary": "France's political center faces a potential wipe-out in the April-May 2027 presidential election due to the dominance of hard-right and hard-left leaders. Analysts note that divisions, personal rivalries, and a lack of preparation plague legacy parties. While candidates like Edouard Philippe and David Lisnard compete on the right, commentators warn that the middle ground currently lacks a unified strategy or programme.",
+   "description": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
+   "long": false,
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8024/live/53498270-e8e4-11f1-a3b9-79c60ec9ab33.jpg",
+   "video_url": null,
+   "source": "BBC",
+   "section": "World",
+   "category": "World",
+   "type": "analysis",
+   "significance": 3,
+   "url": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+   "published_at": "2026-11-26T00:23:27+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "7a74ffb39366": {
+  "first_seen": "2026-11-27T22:40:53+00:00",
+  "triage": {
+   "type": "feature",
+   "significance": 3,
+   "category": "World",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-27T22:40:53+00:00"
+  },
+  "updated_at": "2026-11-27T22:41:01+00:00",
+  "fetch_status": "video_only",
+  "fetch_attempts": 0,
+  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795816686.jpg?resize=1920%2C1080&amp;quality=80",
+  "video_url": null,
+  "word_count": 52,
+  "format": "video",
+  "card": {
+   "id": "7a74ffb39366",
+   "kind": "video",
+   "headline": "‘Activists of rhythm’: Fighting Spain’s far-right through art",
+   "title": "‘Activists of rhythm’: Fighting Spain’s far-right through art",
+   "summary": null,
+   "description": "Madrid’s La Parceria and Espacio Afro cultural centres are using the arts to fight racism and boost migrant voices.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795816686.jpg?resize=1920%2C1080&amp;quality=80",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "feature",
+   "significance": 3,
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss",
+   "published_at": "2026-11-27T21:59:11+00:00",
+   "fetch_status": "video_only",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
+ },
+ "a657b3adb215": {
+  "first_seen": "2026-11-27T22:40:53+00:00",
+  "triage": {
+   "type": "analysis",
+   "significance": 4,
+   "category": "World",
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-27T22:40:53+00:00"
+  },
+  "updated_at": "2026-11-27T22:41:01+00:00",
+  "fetch_status": "ok",
+  "fetch_attempts": 0,
+  "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09d3ac-1795806124.jpg?resize=1920%2C1440",
+  "video_url": null,
+  "word_count": 1273,
+  "format": "article",
+  "summary": {
+   "headline": "Northern Yemen families face severe hunger as prices rise and aid stops",
+   "summary": "Families in northern Yemen are struggling with surging food prices and dwindling incomes while UN food assistance remains suspended. According to assessments from the Famine Early Warning Systems Network and the World Food Programme, basic food costs in Houthi-controlled areas rose significantly. Residents report earning barely enough to cover daily necessities, and international humanitarian organisations warn that severe funding shortfalls are compounding the crisis.",
+   "words": 64,
+   "long": false,
+   "model": "gemini-3.5-flash-lite",
+   "at": "2026-11-27T22:40:58+00:00"
+  },
+  "card": {
+   "id": "a657b3adb215",
+   "kind": "summary",
+   "headline": "Northern Yemen families face severe hunger as prices rise and aid stops",
+   "title": "Why are families going hungry in northern Yemen even where food is on sale?",
+   "summary": "Families in northern Yemen are struggling with surging food prices and dwindling incomes while UN food assistance remains suspended. According to assessments from the Famine Early Warning Systems Network and the World Food Programme, basic food costs in Houthi-controlled areas rose significantly. Residents report earning barely enough to cover daily necessities, and international humanitarian organisations warn that severe funding shortfalls are compounding the crisis.",
+   "description": "Flour and oil still reach markets in Hodeidah and Sanaa. But high costs and lack of work and aid put it out of reach.",
+   "long": false,
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09d3ac-1795806124.jpg?resize=1920%2C1440",
+   "video_url": null,
+   "source": "Al Jazeera",
+   "section": "All",
+   "category": "World",
+   "type": "analysis",
+   "significance": 4,
+   "url": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss",
+   "published_at": "2026-11-27T21:11:27+00:00",
+   "fetch_status": "ok",
+   "cluster_id": null,
+   "cluster_size": 1
+  }
  }
 }
